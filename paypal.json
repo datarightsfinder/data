@@ -1,0 +1,17 @@
+{
+  "name": "PayPal",
+  "alternate-names": [
+    "PAYPAL (UK) LIMITED"
+  ],
+  "contact": {
+    "address": "PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg",
+    "online": "https://www.paypal.com/ie/selfhelp/contact/email/privacy"
+  },
+  "links": {
+    "privacy-policy": "https://www.paypal.com/en/webapps/mpp/ua/privacy-full"
+  },
+  "identifiers": {
+    "ico-registration-number": "",
+    "companies-house-number": "05468033"
+  }
+}
