@@ -1,0 +1,16 @@
+{
+  "name": "HSBC",
+  "alternate-names": [
+    "HSBC Bank plc"
+  ],
+  "contact": {
+    "address": "8 Canada Square, London, E14 5HQ"
+  },
+  "links": {
+    "privacy-policy": "https://www.hsbc.co.uk/1/2/legal/site-terms-and-privacy-statement"
+  },
+  "identifiers": {
+    "ico-registration-number": "Z5734875",
+    "companies-house-number": "14259"
+  }
+}
