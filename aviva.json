@@ -1,0 +1,19 @@
+{
+  "name": "Aviva",
+  "alternate-names": [
+    "Aviva Group of Companies",
+    "AVIVA PLC"
+  ],
+  "contact": {
+    "address": "The Data Protection Team, Aviva, Pitheavlis, Perth, PH2 0NH",
+    "online": "https://www.aviva.co.uk/legal/subject-access-request/",
+    "email": "DATAPRT@aviva.com"
+  },
+  "links": {
+    "privacy-policy": "https://www.aviva.co.uk/legal/privacy-policy.html"
+  },
+  "identifiers": {
+    "ico-registration-number": "Z8374799",
+    "companies-house-number": "02468686"
+  }
+}
