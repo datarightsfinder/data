@@ -1,0 +1,98 @@
+{
+  "organisation": {
+    "name": "Flock Limited",
+    "country": "gb",
+    "companyNumber": "09503380",
+    "urls": [
+      "https://flockcover.com/"
+    ]
+  },
+  "dataProtectionOfficer": {
+    "name": null,
+    "role": null,
+    "url": null,
+    "postalAddress": null,
+    "telephoneNumber": null,
+    "emailAddress": null
+  },
+  "dataController": {
+    "postalAddress": "Geovation Hub, 1 Sekforde Street, London, England, EC1R 0BE",
+    "telephoneNumber": null,
+    "emailAddress": "support@flockcover.com"
+  },
+  "privacyNotice": {
+    "url": "https://help.flockcover.com/legal/privacy-policy",
+    "lastUpdated": "2017-09-20T00:00:00Z"
+  },
+  "dataProtectionRegister": {
+    "registrationNumber": "ZA263304",
+    "registrationLink": "https://ico.org.uk/ESDWebPages/Entry/ZA263304"
+  },
+  "rights": {
+    "access": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "rectification": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "erasure": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "restrictProcessing": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "dataPortability": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "instantDownload": false,
+      "formats": [],
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "object": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    },
+    "automatedDecisionMaking": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": "Your request must include your name, email address used to register with the App and postal address, and we may also request proof of your identity"
+    }
+  }
+}
