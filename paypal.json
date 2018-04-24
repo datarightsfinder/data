@@ -8,23 +8,25 @@
     ]
   },
   "dataProtectionOfficer": {
-    "name": "",
-    "role": "",
+    "name": null,
+    "role": null,
     "postalAddress": "PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg",
-    "telephoneNumber": "",
-    "emailAddress": "",
+    "telephoneNumber": null,
+    "emailAddress": null,
     "url": "https://www.paypal.com/uk/selfhelp/contact/email/privacy"
   },
   "dataController": {
-    "postalAddress": "",
-    "telephoneNumber": "",
-    "emailAddress": ""
+    "postalAddress": null,
+    "telephoneNumber": null,
+    "emailAddress": null
   },
   "privacyNotice": {
     "url": "https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev",
     "lastUpdated": "2018-01-01T00:00:00Z"
   },
   "dataProtectionRegister": {
+    "registrationNumber": null,
+    "registrationLink": null
   },
   "rights": {
     "access": {
@@ -70,7 +72,7 @@
         "postalAddress": null,
         "telephoneNumber": null
       },
-      "instantDownload": true,
+      "instantDownload": false,
       "formats": [],
       "notes": null
     },
