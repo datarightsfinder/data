@@ -1,0 +1,98 @@
+{
+  "organisation": {
+    "name": "MoneySupermarket",
+    "country": "GB",
+    "companyNumber": "3157344",
+    "urls": [
+      "https://www.moneysupermarket.com/legal/privacy-policy/"
+    ]
+  },
+  "dataProtectionOfficer": {
+    "name": "Matt Whittle",
+    "role": "Chief Risk Officer at MoneySupermarket Group",
+    "postalAddress": "Moneysupermarket House, St. David's Park, Ewloe, Flintshire, CH5 3UZ",
+    "telephoneNumber": null,
+    "emailAddress": "customerservices@moneysupermarket.com"
+  },
+  "dataController": {
+    "name": "Moneysupermarket.com Limited",
+    "postalAddress": "Moneysupermarket House, St David's Park, Ewloe, Chester, CH5 3UZ",
+    "telephoneNumber": null,
+    "emailAddress": "customerservices@moneysupermarket.com"
+  },
+  "privacyNotice": {
+    "url": "https://www.moneysupermarket.com/legal/privacy-policy/",
+    "lastUpdated": "2018-01-01"
+  },
+  "dataProtectionRegister": {
+    "registrationNumber": "Z3310386",
+    "registrationLink": "https://ico.org.uk/ESDWebPages/Entry/Z3310386"
+  },
+  "rights": {
+    "access": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "rectification": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "erasure": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "restrictProcessing": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "dataPortability": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "instantDownload": null,
+      "formats": null,
+      "notes": null
+    },
+    "object": {
+      "contact": {
+        "url": null,
+        "emailAddress": "complaints@moneysupermarket.com",
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "automatedDecisionMaking": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    }
+  }
+}
