@@ -1,17 +1,96 @@
 {
-  "name": "PayPal",
-  "alternate-names": [
-    "PAYPAL (UK) LIMITED"
-  ],
-  "contact": {
-    "address": "PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg",
-    "online": "https://www.paypal.com/ie/selfhelp/contact/email/privacy"
+  "organisation": {
+    "name": "PayPal",
+    "country": "gb",
+    "companyNumber": "05468033",
+    "urls": [
+      "https://www.paypal.com/"
+    ]
   },
-  "links": {
-    "privacy-policy": "https://www.paypal.com/en/webapps/mpp/ua/privacy-full"
+  "dataProtectionOfficer": {
+    "name": "",
+    "role": "",
+    "postalAddress": "PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg",
+    "telephoneNumber": "",
+    "emailAddress": "",
+    "url": "https://www.paypal.com/uk/selfhelp/contact/email/privacy"
   },
-  "identifiers": {
-    "ico-registration-number": "",
-    "companies-house-number": "05468033"
+  "dataController": {
+    "postalAddress": "",
+    "telephoneNumber": "",
+    "emailAddress": ""
+  },
+  "privacyNotice": {
+    "url": "https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev",
+    "lastUpdated": "2018-01-01T00:00:00Z"
+  },
+  "dataProtectionRegister": {
+  },
+  "rights": {
+    "access": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "rectification": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "erasure": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "restrictProcessing": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "dataPortability": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "instantDownload": true,
+      "formats": [],
+      "notes": null
+    },
+    "object": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    },
+    "automatedDecisionMaking": {
+      "contact": {
+        "url": null,
+        "emailAddress": null,
+        "postalAddress": null,
+        "telephoneNumber": null
+      },
+      "notes": null
+    }
   }
 }
