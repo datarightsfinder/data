@@ -1,8 +1,8 @@
 {
   "organisation": {
     "name": "Test 1",
-    "country": "",
-    "companyNumber": "",
+    "country": "DK",
+    "companyNumber": "1234567890",
     "urls": [
       "https://projectsbyif.com"
     ]
