@@ -1,0 +1,96 @@
+{
+  "organisation": {
+    "name": "Example",
+    "country": "gb",
+    "companyNumber": "1234567890",
+    "urls": [
+      "https://example.com"
+    ]
+  },
+  "dataProtectionOfficer": {
+    "name": "John Smith",
+    "role": "CTO, Example",
+    "url": "https://example.com",
+    "postalAddress": "123 Test Lane, London, W1 1AA",
+    "telephoneNumber": "+442071234567",
+    "emailAddress": "example@example.com"
+  },
+  "dataController": {
+    "postalAddress": "123 Test Lane, London, W1 1AA",
+    "telephoneNumber": "+442071234567",
+    "emailAddress": "example@example.com"
+  },
+  "privacyNotice": {
+    "url": "https://example.com/privacy",
+    "lastUpdated": "2018-01-01T00:00:00Z"
+  },
+  "dataProtectionRegister": {
+    "registrationNumber": "Z7751236",
+    "registrationLink": "https://ico.org.uk/ESDWebPages/Entry/Z7751236"
+  },
+  "rights": {
+    "access": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "rectification": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "erasure": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "restrictProcessing": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "dataPortability": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "object": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "automatedDecisionMaking": {
+      "contact": {
+        "url": "https://example.com",
+        "emailAddress": "example@example.com",
+        "postalAddress": "123 Test Lane, London, W1 1AA",
+        "telephoneNumber": "+442071234567"
+      },
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  }
+}
