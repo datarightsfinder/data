@@ -1,0 +1,171 @@
+{
+  "organisationInfo": {
+    "country": "",
+    "number": "",
+    "urls": [
+      ""
+    ]
+  },
+  "dataProtectionOfficer": {
+    "name": "",
+    "role": "",
+    "contactInfo": {
+      "url": "",
+      "postalAddress": "",
+      "emailAddress": "",
+      "telephoneNumber": ""
+    }
+  },
+  "internationalTransfer": {
+    "privacyShieldUrl": "",
+    "dataProcessingAddendum": {
+      "type": "",
+      "url": "",
+      "notes": ""
+    }
+  },
+  "privacyNotice": {
+    "url": ""
+  },
+  "dataProtectionRegister": {
+    "identifier": "",
+    "url": ""
+  },
+  "thirdParties": {
+    "list": [
+      ""
+    ],
+    "notes": "",
+    "clarity": 0
+  },
+  "retentionRules": {
+    "rules": [
+      {
+        "type": "",
+        "duration": ""
+      }
+    ],
+    "notes": "",
+    "clarity": 0
+  },
+  "dataTypesCollected": {
+    "list": [
+      ""
+    ],
+    "notes": "",
+    "clarity": 0
+  },
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": true,
+    "notes": "",
+    "clarity": 0
+  },
+  "lawfulBases": {
+    "consent": {
+      "notes": "",
+      "clarity": 0
+    },
+    "contract": {
+      "notes": "",
+      "clarity": 0
+    },
+    "legalObligation": {
+      "notes": "",
+      "clarity": 0
+    },
+    "vitalInterests": {
+      "notes": "",
+      "clarity": 0
+    },
+    "publicTask": {
+      "notes": "",
+      "clarity": 0
+    },
+    "legitimateInterests": {
+      "notes": "",
+      "clarity": 0
+    }
+  },
+  "rights": {
+    "access": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "rectification": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "erasure": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "restrictProcessing": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "dataPortabiltiy": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "object": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {
+        "url": "",
+        "postalAddress": "",
+        "emailAddress": "",
+        "telephoneNumber": ""
+      },
+      "notes": "",
+      "clarity": 3
+    }
+  },
+  "complaintInformation": {
+    "present": true,
+    "notes": "",
+    "clarity": 0
+  },
+  "securityStandards": {
+    "url": "",
+    "notes": "",
+    "clarity": ""
+  }
+}
