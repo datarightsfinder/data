@@ -1,0 +1,122 @@
+{
+  "organisationInformation": {
+    "name": "Monzo Bank Limited",
+    "number": "09446231",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [
+    "https://monzo.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://monzo.com/privacy/"
+  },
+  "dataProtectionOfficer": {
+    "present": "not_present",
+    "contactInfo": {}
+  },
+  "dataProtectionRegister": {
+    "present": "present",
+    "identifier": "ZA108184"
+  },
+  "privacyShield": {},
+  "dataProcessingAddendum": {
+    "present": "not_present",
+    "sourceText": "Where we store your data 🔒\n\nWe might transfer and store the data we collect from you somewhere outside the European Economic Area (‘EEA’). People who work for us or our suppliers outside the EEA might also process your data. We may share data with organisations and countries that:\n\n    The European Commission say have adequate data protection.\n    We’ve agreed standard data protection clauses with.\n"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Anyone who works for us when they need it to do their job",
+      "Card producers and networks",
+      "Credit reference agencies",
+      "Analytical, Know Your Customer (KYC) and cyber security service providers",
+      "Customer ‘interface’ providers (for in-app chat service)",
+      "Companies that do advertising for us",
+      "Certain authorities that detect and prevent terrorism",
+      "Anyone who you give us explicit permission to share it with"
+    ],
+    "specificity": "general",
+    "observations": "They may share your data with \"certain authorities\" which \"detect and prevent terrorism\".",
+    "sourceText": "Who we share it with 🤝\n\nWe may share your personal information with:\n\n    Anyone who works for us when they need it to do their job.\n    Any organisation which supports any of our services you use, when they need it to offer those services. That includes:\n        Card producers and networks.\n        Credit reference agencies (for information on how they use data please read the Credit Reference Agency Information Notice).\n        Analytical, Know Your Customer (KYC) and cyber security service providers.\n        Customer ‘interface’ providers (like the ones who manage our in-app chat service).\n    .\n    Companies that do advertising for us (but we won’t share identifiable personal data with third parties for their own direct marketing unless you give us permission, and you can opt out any time).\n    Certain authorities that detect and prevent terrorism (including authorities outside the UK if one of your payments is processed through a worldwide payment system).\n    Anyone who you give us explicit permission to share it with.\n\nWe’ll also share it to comply with the law; to enforce our Terms and Conditions or other agreements; or to protect the rights, property or safety of us, our customers or others."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "As long as you’re using Monzo, and for 6 years after that to comply with the law. ",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "How long we keep it\n\nWe keep your data as long as you’re using Monzo, and for 6 years after that to comply with the law. In some circumstances, like cases of anti-money laundering or fraud, we may keep data longer if we need to and/or the law says we have to."
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "device_information",
+      "ethnic_origin",
+      "identity_documents",
+      "names",
+      "postal_address",
+      "social_network_details"
+    ],
+    "observations": "They say \"There may be times when you give us ‘sensitive’ information\" and then list the sensitive categories of data under GDPR. Very unclear whether they expect to collect this data of whether they are covering themselves legally.\n\nThey say they collect \"the settings on your phone\". It's not clear which settings those are.\n\nFrom your phone, they collect \"Things you give us explicit permission to see, like your address book, photos, geolocation and data from your camera.",
+    "sourceText": "The information we hold about you \n\n    Information submitted through our app or website\n\n    For example, when you sign up to the app and provide details such as your name, ID, selfie and address, or details we collect about how you use the app and website\n\n    There may be times when you give us ‘sensitive’ information, which includes things like your racial origin, political opinions, religious beliefs, trade union membership details or biometric data. We’ll only use this information in strict accordance with the law.\n    Details about your transactions with us\n\n    including any cards and accounts you use.\n    Information on how you use your phone\n\n    For example the mobile network you use, your IP address or operating system and the settings on your phone.\n    Information you give us permission to access on your phone\n\n    Things you give us explicit permission to see, like your address book, photos, geolocation and data from your camera.\n    Information from social networks or online accounts\n\n    Information from any accounts that you share with us.\n    Cookie information\n\n    Read our Cookie Policy for more info on what cookies are and how we use them.\n"
+  },
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "They use automated decision make lending decision like whether to offer an overdraft. You can opt out or ask for a manual review by email and in the app. They don't say which email address to opt out to.",
+    "specificity": "specific",
+    "sourceText": "Make responsible lending decisions, like offering you an overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "The information for making a complaint is to the Financial Ombudsman Service, not the Information Commissioner's Office.",
+    "specificity": "general",
+    "sourceText": "How to make a complaint\n\nIf you have a complaint, please contact us through the app or by emailing help@monzo.com and we’ll do our best to fix the problem. If you’re still not happy, you can refer your complaint to the Financial Ombudsman Service. For more details you can visit their website at www.financial-ombudsman.org.uk."
+  },
+  "securityStandards": {
+    "present": "not_present"
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "Check your credit history\n\nMarket and communicate our products and services and those of affiliated partners where we think these will be of interest to you",
+    "legalObligation": "Search your record at immigration and fraud prevention agencies\n\nPrevent illegal activities like money laundering, tax evasion and fraud\n\nMake responsible lending decisions, like offering you an overdraft",
+    "legitimateInterests": "Market products and services generally in app\n\nSearch your record at credit reference agencies when you sign up",
+    "observations": "They justify making automated decisions about lending as to meet their legal obligations."
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "help@monzo.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {},
+      "observations": "You can opt out or ask for a manual review by email and via the app."
+    }
+  },
+  "unusualProcessingPurposes": {},
+  "presentation": {
+    "plainLanguage": "fail",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
