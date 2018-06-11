@@ -1,0 +1,123 @@
+{
+  "organisationInformation": {
+    "name": "Atom Bank",
+    "number": "08632552",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [
+    "https://www.atombank.co.uk/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.atombank.co.uk/policies/terms-of-use"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "contactInfo": {
+      "postalAddress": "FAO The Data Protection Officer, Atom Bank, The Rivergreen Centre, Aykley Heads, Durham, DH1 5TS",
+      "emailAddress": "customersupport@atombank.co.uk"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "customersupport@atombank.co.uk"
+      },
+      "observations": "Each individual right is mentioned"
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "biometrics",
+      "criminal_records",
+      "date_of_birth",
+      "email_address",
+      "ethnic_origin",
+      "health",
+      "income",
+      "names",
+      "postal_address",
+      "race",
+      "religion",
+      "telephone_number"
+    ],
+    "observations": "Very detailed and organised under categories",
+    "sourceText": "What information do we collect about you?\n\nThis policy applies to personal information collected via the app, through the website, or through one of our affiliated intermediaries (where applicable). \n\nSensitive Personal Data\n\nIn the course of providing products and services to you, we may collect information that may reveal your racial or ethnic origin, physical or mental health, religious beliefs or alleged commission or conviction of criminal offences. Such information is considered ‘sensitive personal data’ and we will only collect this where it is entirely necessary, or you have deliberately made it public. If you do not allow us to process any sensitive personal data, this may mean that we are unable to provide some or all of the products or services you have requested from us.  You may inform us if you remove consent for us to process such personal data.\n\n  \n\nPersonal Data\n\nWhen you apply to become an Atom customer, we’ll ask you for some personal information in order to verify your identity and operate your account. This will vary depending on the type of product you apply for, but will generally include:\n\nPersonal information such as your name, address and date of birth in order to verify your identity.\n\nContact information including your telephone number and email address. \n\nYour biometrics in order to allow you to log-in, in other words your photo and a recording of your voice.  This is stored as an algorithm. \n\nInformation relating to your tax responsibilities, so that we can comply with our obligations under the Foreign Account Tax Compliance Act (‘FATCA’) and the Common Reporting Standards. \n\nDetails of a nominated bank account where you choose to have your interest paid-away, choose to withdraw your funds after your account has matured, or pay your mortgage direct debit.  \n\nBusiness Information, in order to support any business lending applications. \n\nFor mortgage customers, we may collect information relating to affordability to support your application and assist our lending decisions. "
+  },
+  "unusualProcessingPurposes": {
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Fraud prevention",
+      "Anti-money laundering",
+      "Credit reference agencies",
+      "Law enforcement",
+      "Regulators",
+      "Government departments like HMRC",
+      "Sales or servicing platforms"
+    ],
+    "specificity": "general",
+    "sourceText": "We will use your personal data in order to verify your identity. In order to do this, we may need to share some or all of your data with third parties, which may include fraud prevention, anti-money laundering and credit reference agencies (whose details we can share with you on request), law enforcement departments, regulators, government departments (e.g. HMRC) and the providers of our sales or servicing platforms."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Atom will not retain your personal information for longer than is necessary for the practices described in this policy.\n\nRegulatory requirements, for seven years, but longer in certain circumstances.\n\nMarketing data is retained until notified by a user.",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "How long do we keep your personal data?\n\nAtom will not retain your personal information for longer than is necessary for the practices described in this policy.\n\nRegulatory requirements dictate that we should retain your personal information for seven years following the closure of your account. In certain circumstances, we may have to store this data for a longer period. \n\nAny personal data we use for marketing purposes will be retained until you notify us that you no longer wish to receive this information. "
+  },
+  "lawfulBases": {
+    "isMissing": true,
+    "observations": "It appears information relating to lawful bases isn't standalone and is spread across multiple sections."
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "Uses data encryption, digital signatures, firewalls, intrusion detection, physical security, background checks for staff, strong security procedures across service operations",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present",
+    "observations": "Couldn't find information about international transfer."
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown",
+    "observations": "Unable to find a definitive answer, but reiterates the right to object to automated decision making."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Mentions and has a link to the Information Commissioner's Office",
+    "specificity": "specific",
+    "sourceText": "If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office https://www.ico.org.uk/."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
