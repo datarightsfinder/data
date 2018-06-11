@@ -1,0 +1,121 @@
+{
+  "organisationInformation": {
+    "name": "Coinbase UK",
+    "number": "09083955",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.coinbase.com/legal/privacy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "contactInfo": {
+      "emailAddress": "dpo@coinbase.com"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "privacy@coinbase.com"
+      },
+      "observations": "Also points users to the 'Privacy Rights Dashboard'."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "employment",
+      "gender",
+      "identity_documents",
+      "names",
+      "online_activity",
+      "postal_address",
+      "telephone_number"
+    ],
+    "sourceText": "PERSONAL INFORMATION COLLECTED\nWe collect personal information to provide you with our Services. When we require certain personal information from users it is because we are required by law to collect this information or it is relevant for specified purposes. Any information you provide to us that is not required is voluntary. You are free to choose whether to provide us with the types of personal information requested, but we may not be able to serve you as effectively or offer you all of our Services when you do choose not to share certain information with us.\n\nFor example, we collect personal information which is required under the law to open an account, add a payment method, or execute a transaction. We also collect personal information when you use or request information about our Services, subscribe to marketing communications, request support, complete surveys, or sign up for a CB event. We may also collect personal information from you offline, such as when you attend one of our events, or when you contact customer support. We may use this information in combination with other information we collect about you as set forth in this Policy.\n\nWe collect the following types of information:\n\nPersonal Identification Information: Full name, date of birth, age, nationality, gender, signature, utility bills, photographs, phone number, home address, and/or email.\n\nFormal Identification Information: Tax ID number, passport number, driver’s license details, national identity card details, photograph identification cards, and/or visa information.\n\nFinancial Information: Bank account information, payment card primary account number (PAN), transaction history, trading data, and/or tax identification.\n\nTransaction Information: Information about the transactions you make on our Services, such as the name of the recipient, your name, the amount, and/or timestamp.\n\nEmployment Information: Office location, job title, and/or description of role.\n\nOnline Identifiers: Geo location/tracking details, browser fingerprint, OS, browser name and version, and/or personal IP addresses.\n\nUsage Data: Survey responses, information provided to our support team, public social networking posts, authentication data, security questions, user ID, click-stream data and other data collected via cookies and similar technologies. Please read our Cookie Policy for more information."
+  },
+  "unusualProcessingPurposes": {
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Identity verification services",
+      "Service providers like bill collection, marketing, and technology services",
+      "Financial institutions with which we partner to process payments you have authorised",
+      "Companies or other entities that we plan to merge with or be acquired by",
+      "Companies that purchase Coinbase assets under bankruptcy/insolvency law",
+      "Law enforcement"
+    ],
+    "specificity": "general",
+    "observations": "States that \"CB will never sell or rent your personal information\".",
+    "sourceText": "WHY WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES\nWe take care to allow your personal information to be accessed only by those who really need to in order to perform their tasks and duties, and to share with third parties who have a legitimate purpose for accessing it. CB will never sell or rent your personal information. We will only share your information in the following circumstances:\n\nWe share your information with third party identity verification services in order to prevent fraud. This allows CB to confirm your identity by comparing the information you provide us to public records and other third party databases. These service providers may create derivative data based on your personal information that can be used solely in connection with provision of identity verification and fraud prevention services.\n\nWe may share your information with service providers under contract who help with parts of our business operations such as bill collection, marketing, and technology services. Our contracts require these service providers to only use your information in connection with the services they perform for us, and prohibit them from selling your information to anyone else.\n\nWe share your information with financial institutions with which we partner to process payments you have authorised.\n\nWe may share your information with companies or other entities that we plan to merge with or be acquired by. Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. You will receive prior notice of any change in applicable policies.\n\nWe may share your information with companies or other entities that purchase CB assets pursuant to a court-approved sale under U.S. bankruptcy law and / or where we are required to share your information pursuant to insolvency law in the U.K. or in any other jurisdiction;\n\nWe may share your information with law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreement or any other applicable policies.\n\nIf you establish a CB Account indirectly on a third party website or via a third party application, any information that you enter on that website or application (and not directly on a CB website) will be shared with the owner of the third party website or application and your information will be subject to their privacy policies."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Basic contact information is kept until user unsubscribes.\n\nContent like support desk comments, photographs, videos, blog posts may be kept indefinitely for audit and crime prevention purposes.\n\nPhone call recordings are kept for up to 6 years.\n\nCookies, webpage counters, analytics tools are kept for up to one year from expiry of a cookie.",
+    "observations": "Coinbase use an email suppression list.",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "RETENTION OF PERSONAL INFORMATION\nWe store your personal information securely throughout the life of your CB Account. We will only retain your personal information for as long as necessary to fulfil the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting obligations or to resolve disputes. While retention requirements vary by jurisdiction, information about our typical retention periods for different aspects of your personal information are described below.\n\nContact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis until you un-subscribe. Thereafter we will add your details to our suppression list indefinitely.\n\nContent that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept indefinitely after you close your account for audit and crime prevention purposes.\n\nRecording of our telephone calls with you may be kept for a period of up to six years.\n\nInformation collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to one year from expiry of the cookie."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "contract": "CB handles very sensitive information, such as your identification and financial data, so it is very important for us and our customers that we are actively monitoring, investigating, preventing and mitigating any potentially prohibited or illegal activities, enforcing our agreements with third parties, and/or violations of our posted user agreement or agreement for other Services. In addition, we may need to collect fees based on your use of our Services. We collect information about your account usage and closely monitor your interactions with our Services. We may use any of your personal information collected on our Services for these purposes. The consequences of not processing your personal information for such purposes is the termination of your account as we cannot perform our Services in accordance with our terms.",
+    "legalObligation": "Some of our core Services are subject to laws and regulations requiring us to collect and use your personal identification information, formal identification information, financial information, transaction information, employment information, online identifiers, and/or usage data in certain ways. For example, Coinbase must identify and verify customers using our Services in order to comply with anti-money laundering and terrorist financing laws across jurisdictions. In addition, we use third parties to verify your identity by comparing the personal information you provided against third-party databases and public records. When you seek permissions to raise Digital Currency buy and sell limits associated with your CB Account, we may require you to provide additional information which we may use in collaboration with service providers acting on our behalf to verify your identity or address, and/or to manage risk as required under applicable law. The consequences of not processing your personal information for such purposes is the termination of your account as we cannot perform the Services in accordance with legal and regulatory requirements.\n\nEEA Residents: For individuals who reside in the European Economic Area (including the United Kingdom) or Switzerland (collectively “EEA Residents”), pursuant to Article 6 of the EU General Data Protection Regulation (GDPR) or any equivalent legislation (collectively “EEA Data Protection Law”), we process this personal information to comply with our legal obligations.",
+    "legitimateInterests": "\n",
+    "observations": "Legitimate interests aren't clearly labelled, but these could include:\n\n* To provide Coinbase’s Services\n* To provide Service communications\n* To provide customer service\n* To ensure quality control\n* To ensure network and information security\n* For research and development purposes\n* To enhance your website experience\n* To facilitate corporate acquisitions, mergers, or transactions\n* To engage in marketing activities"
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "Mentions \"appropriate safeguards\" but doesn't go into any detail beyond using Payment Card Industry Data Security Standards (PCI DSS).",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "present",
+    "type": "assumed",
+    "observations": "Uses model contract clauses and EU-US Privacy Shield with international partners"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {},
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Provides a clickable email address to casework@ico.org.uk.",
+    "specificity": "specific",
+    "sourceText": "Right to lodge a complaint. If you believe that we have infringed your rights, we encourage you to contact us first at dpo@coinbase.com so that we can try to resolve the issue or dispute informally. You can also complain about our processing of your personal information to the relevant data protection authority. You can complain in the EU member state where you live or work, or in the place where the alleged breach of data protection law has taken place. In the UK, the relevant data protection authority is the Information Commissioner's Office (ICO).\n\nInformation Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, 0303 123 1113, casework@ico.org.uk."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
