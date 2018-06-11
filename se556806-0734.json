@@ -1,0 +1,129 @@
+{
+  "organisationInformation": {
+    "name": "iZettle AB",
+    "number": "556806-0734",
+    "registrationCountry": "se"
+  },
+  "organisationUrls": [
+    "https://www.izettle.com/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.izettle.com/gb/privacy-policy"
+  },
+  "dataProtectionOfficer": {
+    "contactInfo": {}
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "postalAddress": "iZettle AB, Attn: Privacy Function, Regeringsgatan 59, 111 56 Stockholm, Sweden",
+        "emailAddress": "dataprotection@izettle.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "credit_history",
+      "device_information",
+      "email_address",
+      "names",
+      "online_activity",
+      "passwords",
+      "postal_address",
+      "telephone_number"
+    ],
+    "observations": "Examples given under broader categories",
+    "sourceText": "Categories of personal data we process\n\nIdentification information: e.g. identification number, ID, passwords or equivalent\nContact information: e.g. name, address, phone number, email or equivalent\nFinancial information: e.g. bank details, card information, financial transactions or equivalent, credit history (including credit score), information related to invoices that we have issued.\nInformation related to legal requirements: e.g. customer due diligence and anti-money laundering requirements, bookkeeping.\nBehavioural and tracking details: e.g. location data, behavioural patterns, personal preferences, IP-number, cookie identifiers, unique identifier of devices you use to access and use the services and our websites"
+  },
+  "unusualProcessingPurposes": {
+    "present": "present",
+    "observations": "\"To be able to administer participation in competitions and/or events\""
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Rest of iZettle Group",
+      "Merchants (when a customer is using an iZettle Merchant)",
+      "Bisnode",
+      "Schufa",
+      "Experian",
+      "Callcredit",
+      "LexisNexis",
+      "Creditsafe",
+      "UC AB",
+      "Designated banks and relevant card networks",
+      "IT suppliers",
+      "Marketing suppliers",
+      "Tax authorities",
+      "Law enforcement"
+    ],
+    "specificity": "general",
+    "observations": "Credit agency partners are listed by name",
+    "sourceText": "Want to know more about our policy of sharing data with third parties?\niZettle Group.\n\nWe may share personal information with members of the iZettle Group for the purposes set out in this Privacy Policy.\n\nMerchants.\n\nIf you are an End-customer, iZettle may share your data with the Merchant from which you made a purchase. Such personal data is necessary for the Merchant to execute and administer your purchase, including for handling potential complaints and disputes. For the personal data shared with Merchants, the Merchant's data protection policy and personal data handling procedures apply. This means that iZettle may share personal data pertaining to such End-Customers that purchase something from the Merchant in the Online Store.\n\nThird party service providers.\n\nTo provide our services we disclose personal data about you which is necessary to identify you and perform an assignment or agreement with companies that we cooperate with in order to perform our services. These services include, but are not limited to, secure identification solutions and credit bureaus in the relevant country and between parties in the financial system such as banks.\n\nWe use the following credit bureaus:\n\nBisnode www.bisnode.se\nSchufa www.schufa.de\nExperian www.experian.nl\nCallcredit www.callcredit.co.uk\nEquifax www.equifax.co.uk\nLexisNexis www.lexisnexis.co.uk\nCreditsafe www.creditsafe.se\nUC AB www.uc.se\nOur designated banks and relevant card networks may also come to process your personal data for their own fraud prevention and risk management. Selected service providers, such as certain credit bureaus, may also come to process your personal data to enhance and develop their own services.\n\nThird parties that are data processors.\n\nSome of the third parties that we share personal data with are data processors. A data processor is such a party that processes personal data on our instructions and on our behalf.\n\nWe collaborate with selected suppliers, which include processing of personal data on behalf of us. Examples include suppliers of IT development, maintenance, hosting and support but also suppliers supporting us with marketing.\n\nWhen we share your personal data with data processors we only share them for purposes compatible with the purposes for which we have collected the data (such as performance of a contract). We always control all data processors and ensure that they can provide adequate guarantees as regards security and confidentiality of personal data. We have written agreements in place with all data processors through which they guarantee the security and confidentiality of personal data that they process on our behalf and limitations as regards third country transfers.\n\nThird parties that are data controllers.\n\nSome of the third parties that we share personal data with are independent data controllers. This means that we are not the ones that dictate how the data that we provide shall be processed. Examples are authorities, credit bureaus, acquirers and other financial institutions. When your data is shared with independent data controllers their data policies and personal data processing principles apply.\n\nAuthorities.\n\nWe also disclose personal data to authorities to the extent we are under a statutory obligation to do so. Such authorities include tax authorities, police authorities, enforcement authorities and supervisory authorities in relevant countries. We may also be required to provide competent authorities information about your use of our services, e.g. revenue or tax authorities, as required by law, which may include personal data such as your name, address and information regarding card transactions processed by us on your behalf through your use of our services."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Preventing, detecting and investigating money laundering, terrorist financing and fraud: minimum five (5) years after termination of the business connection\n\nBookkeeping regulations: seven (7) years\n\nDetails on performance of an agreement: up to ten (10) years after end of customer relationship to defend against possible claims\n\nRecorded telephone calls to our support: up to ninety (90) days from telephone call to support.",
+    "observations": "States that retention rules vary from country to country. Retention rules relate to reasons for keeping data.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "See below for examples of the retention periods that we apply:\n\nPreventing, detecting and investigating money laundering, terrorist financing and fraud: minimum five (5) years after termination of the business connection\nBookkeeping regulations: seven (7) years\nDetails on performance of an agreement: up to ten (10) years after end of customer relationship to defend against possible claims\nRecorded telephone calls to our support: up to ninety (90) days from telephone call to support.\nThe above is only for explanatory purposes and the retention times may differ from country to country."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "observations": "This information is available on the privacy policy under \"What information do we process about you, for what purposes and how is it lawful for us to do it?\" Each processing activity is sometimes split across two lawful bases"
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "Appropriate technical measures have been implemented. iZettle is PCI-DSS Level 1 certified.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "present",
+    "type": "assumed",
+    "observations": "Uses Standard Contractual Clauses for third country transfer, and Privacy Shield for US transfer. Also mentions transfer to Australia under standard clauses.",
+    "sourceText": "What about transfers to a third country?\nIf we transfer your personal data to a third country, i.e. a country outside of the European Economic Area (“EEA”) we will comply with all applicable laws in respect of such transfer, including making sure that your personal data is kept secure, and ensure that appropriate safeguards are in place to ensure there is adequate protection, such as entering into contracts in the form approved by the European Commission.\n\nOur preferred basis for transfer is the use of Standard Contractual Clauses. You can access a copy of the relevant EU model-clauses used by us for transfers by browsing to www.eur-lex.europa.eu and searching for 32010D0087.\n\nWe transfer your data to service providers in the US and we base such transfer on Standard Contractual Clauses and Privacy Shield. To learn more about Privacy Shield, which is an agreement on protection of personal data between the EU and the US, please read here: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en or https://www.privacyshield.gov/welcome\n\nWe also transfer your data to service providers in Australia and we base such processing on Standard Contractual Clauses."
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present",
+    "sourceText": "What about automated decision making?\nCurrently, iZettle does not carry out any such processing that is defined as solely automated decision making, including profiling, under the General Data Protection Regulation (“GDPR”) that has ”legal effects” or otherwise similarly significantly affect you."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Details for Swedish and British data regulators.",
+    "specificity": "specific",
+    "sourceText": "How do you exercise your rights and how can you contact us or the data protection authority?\nSend us an email at dataprotection@izettle.com and we’ll do our best to figure it out together.\n\nYou can also always contact us by sending a letter to iZettle AB, Attn: Privacy Function, Regeringsgatan 59, 111 56 Stockholm, Sweden.\n\nIf you are unhappy with our processing of your personal data you may lodge a complaint with or contact the Swedish data protection authority (Sw. Datainspektionen), at datainspektionen@datainspektionen.se or Box 8114, 104 20 Stockholm, Sweden, phone no +46 08-657 61 00 or the Information Commissioner´s Office (“ICO”) at 0303 123 1113 (local rate) or 01625 545 745 (if you prefer to use a national rate number) or send a letter to Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom or send an e-mail to ICO by following this link: https://ico.org.uk/global/contact-us/email/.\n\nYou may also seek a remedy through local courts if you believe your rights have been breached."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
