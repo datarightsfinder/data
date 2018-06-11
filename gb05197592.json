@@ -1,0 +1,132 @@
+{
+  "organisationInformation": {
+    "name": "Zopa",
+    "number": "05197592",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [
+    "https://www.zopa.com/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.zopa.com/privacy-policy"
+  },
+  "dataProtectionOfficer": {
+    "present": "not_present",
+    "contactInfo": {}
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {
+        "emailAddress": "contactus@zopa.com",
+        "telephoneNumber": "020 7580 6060"
+      },
+      "observations": "Zopa aim to respond within 30 days."
+    },
+    "rectification": {
+      "contactInfo": {},
+      "observations": "States that you can ask them to correct any information that is believed to be inaccurate. Will require supporting evidence, e.g. a copy of marriage certificate when changing name."
+    },
+    "erasure": {
+      "contactInfo": {},
+      "observations": "States that you an ask them to erase your personal information."
+    },
+    "restrictProcessing": {
+      "contactInfo": {},
+      "observations": "States that you can ask them to stop using your personal information."
+    },
+    "dataPortability": {
+      "contactInfo": {},
+      "observations": "States that you can \"ask us to give you your personal information in a structured, commonly used and machine-readable format or have it transmitted to another data controller\"."
+    },
+    "object": {
+      "contactInfo": {},
+      "observations": "States that Zopa will \"always give you a right to object whenever we intend to use your personal information for our legitimate interests\"."
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {
+        "emailAddress": "contactus@zopa.com",
+        "telephoneNumber": "020 7580 6060"
+      },
+      "observations": "You can ask for an underwriter to manually review a decision."
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "email_address",
+      "health",
+      "income",
+      "telephone_number"
+    ],
+    "observations": "Gives broad categories (\"contact information\", \"financial information\", \"information about your physical and mental health\") rather than specific categories.",
+    "sourceText": "The information we collect about you may include;\n\n* contact information (e.g. email address and telephone numbers)\n* financial information (e.g. your bank account and income details)\n* information about your physical and mental health."
+  },
+  "unusualProcessingPurposes": {
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Credit reference and fraud prevention agencies",
+      "Our regulators or government authorities, for example the Financial Conduct Authority, the Financial Ombudsman Service and the police",
+      "Collection agencies and lawyers to help us collect any money you owe us",
+      "Our suppliers, sub-contractors and third-party data processors",
+      "Retailers from whom you've purchased goods or services using loans provided by us",
+      "Anyone to whom we may transfer all or part of our assets",
+      "If we are unable to offer you a loan and if you consent, to credit brokers or other lenders who may be able to arrange credit for you.",
+      "Callcredit",
+      "Experian",
+      "Equifax"
+    ],
+    "specificity": "general",
+    "observations": "Credit reference agencies were listed seperately"
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Data is kept for up to six years after you close your account.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We'll keep your information for up to six years after you close your Zopa account, to prevent fraud and other financial crimes, to comply with our regulatory obligations and to establish, exercise or defend legal claims.\n\nIn exceptional circumstances, e.g. if there is an ongoing regulatory investigation or legal claim, we may retain our information beyond the six-year period."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "* Send you marketing messages on behalf of third parties\n* Refer you to credit brokers/other lenders if we're unable to offer you a loan\n* Hold any information relating to your physical and mental health you've given us",
+    "contract": "* To respond to your queries\n* To allow you to use our lending platform\n* To allow us to provide the services or financing you've requested",
+    "legalObligation": "* UK/EU anti-money laundering laws and regulations\n* UK/EU/UN sanctions (which prohibit us from providing products to certain individuals)\n* Rules and regulations imposed by the Financial Conduct Authority and HMRC",
+    "legitimateInterests": "* Developing and providing new products and services our customers will find useful\n* Protecting our customers from unnecessary risks\n* Preventing fraud and money laundering to protect our business\n* Ensuring we and investors who lend money via our platform earn a reasonable rate of return\n* Protecting us and our customers against harm to our collective rights and interests"
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "Zopa \"takes every reasonable measure to keep your information secure\" but \"can't guarantee the security or integrity of any personal information that is transferred\"",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present",
+    "observations": "No data is transferred outside the EEA, but third parties that do use contractual obligations and \"international frameworks\".",
+    "sourceText": "We don't currently transfer your data outside the European Economic Area (EEA). Whenever fraud prevention and credit reference agencies transfer your information outside the EEA, they impose contractual obligations on the recipients of that data to protect your personal information to the standard required in the EEA. They may also require recipients to subscribe to 'international frameworks' intended to enable secure data sharing."
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "Uses automation in the loan decision process, using user-provided data and data from other sources. Right to object is reiterated in this section.",
+    "specificity": "specific",
+    "sourceText": "When you apply for a loan we'll use an automated process to decide whether to lend to you, i.e. we may make our decision without any human involvement. This helps us to make fair and responsible lending decisions.\n\nThe process works by taking information you've provided when applying for the loan, any information we already have about you and information we obtain from third parties such as credit reference and fraud prevention agencies to calculate a credit score for you.\n\nThis information may include:\n\nHow long you've lived at your address\nYour account history with us\nThe number and type of credit agreements you have and how you've used them\nWhether you've been late making payments\nWhether you've had any court judgments made against you or whether you've been made bankrupt or had an IVA or other form of debt-related arrangement.\nUsing an automated credit scoring process means we may automatically decide that we are unable to offer you a loan, or only offer you a loan for a lower amount and/or shorter term that you requested. It also means that we may automatically decide that you pose a fraud or money laundering risk if our processing reveals your behaviour to be consistent with money laundering or known fraudulent activity, or is inconsistent with your previous submissions, or you appear to have deliberately hidden your true identity. See \"Your rights\" below, for more details about your rights in relation to automated decision making.\n\nOur credit scoring methods are regularly tested to ensure they remain fair, accurate and unbiased.\n\nYou can ask us to reconsider any declined decision by contacting us at contactus@zopa.com or by calling us on 020 7580 6060."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Has full, linked contact details for the ICO.",
+    "specificity": "specific",
+    "sourceText": "If you're unhappy with how we've handled your information you can refer your concerns to the Information Commissioner's Office, the body that regulates the handling of personal information in the UK, at:\n\nInformation Commissioner's Office\nWycliffe House,\nWater Lane,\nWimslow,\nSK9 5AF\nTel: 0303 123 1113\nWebsite: www.ico.org.uk"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
