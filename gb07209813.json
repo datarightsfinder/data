@@ -1,10 +1,12 @@
 {
   "organisationInformation": {
-    "name": "Transferwise",
+    "name": "TransferWise",
     "number": "07209813",
     "registrationCountry": "gb"
   },
-  "organisationUrls": [],
+  "organisationUrls": [
+    "https://transferwise.com"
+  ],
   "privacyNoticeUrl": {
     "url": "https://transferwise.com/privacy-policy"
   },
