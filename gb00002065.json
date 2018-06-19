@@ -1,0 +1,162 @@
+{
+    "organisationInformation": {
+      "name": "Lloyds Bank PLC",
+      "number": "00002065",
+      "registrationCountry": "gb"
+    },
+    "organisationUrls": [],
+    "privacyNoticeUrl": {
+      "url": "https://www.lloydsbank.com/privacy.asp"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "telephoneNumber": "03456021997"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "telephoneNumber": "03456021997"
+        },
+        "observations": "Deaf and BSL-using customers are able to use Lloyds' BSL SignVideo service to exercise their data protection rights."
+      },
+      "access": {
+        "contactInfo": {
+          "url": "https://apply.lloydsbank.co.uk/personal/a/gforms?formId=F010&prodType=GN",
+          "postalAddress": "DSAR Unit, Lloyds Bank Customer Service Recovery, Charlton Place C57, Andover, SP10 1RE"
+        }
+      },
+      "rectification": {
+        "contactInfo": {
+          "telephoneNumber": "03456021997"
+        },
+        "observations": "Customers can also exercise their right to rectification in any Lloyds Bank branch."
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {
+          "telephoneNumber": "03456021997"
+        },
+        "observations": "Customers can also exercise their right to data portability in any Lloyds Bank branch."
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {},
+        "observations": "Lloyds notes that customers have the following rights around automated decision making:\n\n* You can ask that we do not make our decision based on the automated score alone.\n* You can object to an automated decision, and ask that a person reviews it.\n\nThe policy instructs people wishing to exercise these rights to contact Lloyds. No specific contact details are provided."
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "biometrics",
+        "communications",
+        "credit_history",
+        "criminal_records",
+        "device_information",
+        "education",
+        "ethnic_origin",
+        "genetics",
+        "health",
+        "identity_documents",
+        "location",
+        "postal_address",
+        "race",
+        "religion",
+        "sex_life",
+        "sexual_orientation",
+        "social_network_details",
+        "social_security_number",
+        "trade_union_membership"
+      ],
+      "sourceText": "Financial - Your financial position, status and history\nContact - Your name, where you live and how to contact you\nSocio-Demographic - This includes details about your work or profession, nationality, education and where you fit into general social or income groupings\nTransactional - Details about payments to and from your accounts with us, and insurance claims you make\nContractual - Details about the products or services we provide to you\nLocational - Data we get about where you are. This may come from your mobile phone or the place where you connect a computer to the internet. It can also include shops where you buy something with your card\nBehavioural - Details about how you use products and services from us and other organisations\nTechnical - Details on the devices and technology you use\nCommunications - What we learn about you from letters and emails you write to us and conversations between us\nSocial Relationships - Your family, friends and other relationships\nOpen Data and Public Records - Details about you that are in public records, such as the Electoral Register, and information about you that is openly available on the internet\nUsage Data - Other data about how you use our products and services\nDocumentary Data - Details about you that are stored in documents in different formats, or copies of them. This could include things like your passport, drivers licence or birth certificate\nConsents - Any permissions, consents or preferences that you give us. This includes things like how you want us to contact you, whether you get paper statements, or prefer large-print formats\nNational Identifier - A number or code given to you by a government to identify who you are, such as a National Insurance number or social security number, or Tax Identification Number (TIN)\n\nSpecial types of data - The law and other regulations treat some types of personal information as special. We will only collect and use these types of data if the law allows us to do so:\n* Racial or ethnic origin\n* Religious, political or philosophical beliefs\n* Trade union membership\n* Genetic and bio-metric data\n* Health data\n* Lifestyle information, including data related to sex life or sexual orientation\n* Criminal records of convictions and offences\n* Allegations of criminal offences"
+    },
+    "unusualProcessingPurposes": {
+      "present": "present",
+      "observations": "Lloyds appear to list the protected categories of data from the GDPR in the \"Special types of data\" section, and indicate that they will \"only collect and use these types of data if the law allows us to do so\".\n\nIt is, however, unclear from any of the sections in the policy why Lloyds may have reason to collect data on a customer's sex life or sexual orientation."
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Other companies in Lloyds Banking Group",
+        "Central and local government",
+        "HM Revenue & Customs, regulators and other tax authorities",
+        "UK Financial Services Compensation Scheme and other deposit guarantee schemes",
+        "Law enforcement and fraud prevention agencies",
+        "Agents, suppliers, sub-contractors and advisers",
+        "Agents who help us to collect what is owed to us",
+        "Credit reference agencies (such as Callcredit, Equifax and Experian)",
+        "Someone linked with you or your business’s product or service",
+        "Other financial services companies (to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)",
+        "Independent Financial Advisors",
+        "Price comparison websites and similar companies",
+        "Employers (for instance, to confirm your identity if we ask for a mortgage reference)",
+        "Companies you ask us to share your data with (for Open Banking purposes)",
+        "If you apply for insurance through us, we may pass your personal or business details to the insurer",
+        "If you apply for insurance with us as the insurer, we may share your personal or business details with reinsurers",
+        "If you make an insurance claim, information you give to us or the insurer may be put on a register of claims",
+        "Debit, credit, and charge card transaction providers (Such as Visa and Mastercard)",
+        "The Direct Debit scheme",
+        "If you have a product which has a loyalty scheme like Avios or Everyday Offers, we will share your data with that scheme",
+        "If you have a product with benefits such as travel insurance or discount offers, we will share your data with the benefit providers",
+        "If you have a secured loan or mortgage with us, we may share information with other lenders who also hold a charge on the property",
+        "Companies we have a joint venture or agreement to co-operate with (such as a store or car dealership offering finance deals through us)",
+        "Organisations that introduce you to us",
+        "Market researchers",
+        "Advisers who help us to come up with new ways of doing business",
+        "Mergers and acquisitions"
+      ],
+      "specificity": "general",
+      "observations": "Although Lloyds are not able to name all potential parties, their breakdown of third-parties is clear and readable, and offers examples where appropriate.",
+      "sourceText": "Lloyds Banking Group \n* We may share your personal information with other companies in Lloyds Banking Group.\n\nAuthorities \n* This means official bodies that include:\n\nCentral and local government\n* HM Revenue & Customs, regulators and other tax authorities\n* UK Financial Services Compensation Scheme and other deposit guarantee schemes\n* Law enforcement and fraud prevention agencies.\n* Banking and financial services \n* Outside companies we work with to provide services to you and to run our business.\n\nAgents, suppliers, sub-contractors and advisers\n* These are types of firm that we use to help us run accounts, policies and services.\n* Agents who help us to collect what is owed to us\n* Credit reference agencies (such as Callcredit, Equifax and Experian)\n* Someone linked with you or your business’s product or service.\n    - This could mean a joint account holder, trustee, or fellow company director.\n* Other financial services companies (to help prevent, detect and prosecute unlawful acts and fraudulent behaviour)\n* Independent Financial Advisors.\n    - This could be someone who advises you on things like pensions or life assurance. We won’t share any personal information unless they have your consent to ask us for it.\n* Price comparison websites and similar companies.\n* Employers (for instance, to confirm your identity if we ask for a mortgage reference)\n\nCompanies you ask us to share your data with \n* This is to do with something called Open Banking , which gives you more freedom and control to use your own banking data. It can make it easier for you or your business to shop around for products like credit cards, savings and current accounts.\n\nInsurers \nWe share personal information with insurance industry companies to process claims and help reduce fraud. We do that in these ways:\n* If you apply for insurance through us, we may pass your personal or business details to the insurer.\n* If you apply for insurance with us as the insurer, we may share your personal or business details with reinsurers.\n* If you make an insurance claim, information you give to us or the insurer may be put on a register of claims. This will be shared with other insurers, our agents, suppliers and sub-contractors. In some cases we may also share it with our business partners, if you also have a relationship with them.\n* Other services and schemes \n    - These are organisations that we may need to share your personal information with, because of what you can do with the product or service you have with us.\n\nIf you have a debit, credit or charge card with us, we will share transaction details with companies which help us to provide this service (such as Visa and Mastercard). \n* This is needed to keep your account balance and statements up to date, for example.\n* If you use direct debits, we will share your data with the Direct Debit scheme.\n* If you have a product which has a loyalty scheme like Avios or Everyday Offers, we will share your data with that scheme.\n* If you have a product with benefits such as travel insurance or discount offers, we will share your data with the benefit providers. We may also share it with other companies involved in how you use the service (such as a private car park operator).\n* If you have a secured loan or mortgage with us, we may share information with other lenders who also hold a charge on the property (For example, the other party in a shared ownership scheme)\n\nGeneral business \nOutside companies we use to help grow and improve our business.\n* Companies we have a joint venture or agreement to co-operate with (such as a store or car dealership offering finance deals through us)\n* Organisations that introduce you to us\n    - This might be a store or car dealership that offers finance deals through us, or a price comparison website.\n* Market researchers\n    - We send data which these firms combine with data from other sources to produce market trend reports and advice.\n* Advisers who help us to come up with new ways of doing business.\n    - This might be a legal firm, IT supplier or consultancy.\n\nCompany mergers and takeovers \nWe may also share your personal information if the make-up of Lloyds Banking Group changes in the future:\n* We may choose to sell, transfer, or merge parts of our business, or our assets. Or we may try to bring other businesses into Lloyds Banking Group. \n    - This is sometimes called Mergers & Acquisitions or ‘company takeovers’.\n* During any such process, we may share your data with other parties involved. We’ll only do this if they agree to keep your data safe and private.\n* If the change to our Group happens, then other parties may use your data in the same way as set out in this notice."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Lloyds indicate that they may keep customer data for up to 10 years after a customer stops using their services.\n\nIn some cases, Lloyds note that they may keep data for longer than 10 years if they cannot delete it for legal, regulatory or technical reasons.\n\nData from insurance claims for building subsidence is kept for 15 years, and pension transfer data is kept indefinitely.",
+      "specificityCategory": "specific",
+      "specificityTime": "specific",
+      "sourceText": "We will keep your personal information for as long as you are a customer of Lloyds Banking Group.\n\nWe may keep your data for up to 10 years after you stop being a customer. The reasons we may do this are:\n* To respond to a question or complaint, or to show whether we gave you fair treatment\n* To study customer data as part of our own internal research\n* To obey rules that apply to us about keeping records\n\nWe may also keep your data for longer than 10 years if we cannot delete it for legal, regulatory or technical reasons. As an example, we have to hold pension transfer information indefinitely; and in cases of subsidence* we will keep insurance claims data for up to 15 years after you stop being a customer.\n\nWe will only use your personal information for those purposes and will make sure that your privacy is protected.\n\n* Subsidence is when a building becomes unsafe or damaged by ground sinking around it."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "• To manage our relationship with you or your business\n• To develop and carry out marketing activities\n• To study how our customers use products and services from us and other organisations\n• To communicate with you about our products and services",
+      "contract": "• To manage our relationship with you or your business\n• To develop and carry out marketing activities\n• To study how our customers use products and services from us and other organisations\n• To communicate with you about our products and services\n• To test new products\n• To manage how we work with other companies that provide services to us and our customers\n• To develop new ways to meet our customers' needs and to grow our business\n• To deliver of our products and services\n• To make and manage customer payments\n• To manage fees, charges and interest due on customer accounts\n• To collect and recover money that is owed to us\n• To manage and provide treasury and investment products and services\n• To detect, investigate, report, and seek to prevent financial crime\n• To manage risk for us and our customers\n• To obey laws and regulations that apply to us\n• To respond to complaints and seek to resolve them\n• To exercise our rights set out in agreements or contracts\n",
+      "legalObligation": "• To manage our relationship with you or your business\n• To develop and carry out marketing activities\n• To study how our customers use products and services from us and other organisations\n• To communicate with you about our products and services\n• To test new products\n• To manage how we work with other companies that provide services to us and our customers\n• To develop new ways to meet our customers' needs and to grow our business\n• To deliver of our products and services\n• To make and manage customer payments\n• To manage fees, charges and interest due on customer accounts\n• To collect and recover money that is owed to us\n• To manage and provide treasury and investment products and services\n• To detect, investigate, report, and seek to prevent financial crime\n• To manage risk for us and our customers\n• To obey laws and regulations that apply to us\n• To respond to complaints and seek to resolve them\n• To run our business in an efficient and proper way. This includes managing our financial position, business capability, planning, adding and testing systems and processes, managing communications, corporate governance, and audit",
+      "legitimateInterests": "• To manage our relationship with you or your business\n• To develop and carry out marketing activities\n• To study how our customers use products and services from us and other organisations\n• To communicate with you about our products and services\n• To test new products\n• To manage how we work with other companies that provide services to us and our customers\n• To develop new ways to meet our customers' needs and to grow our business\n• To deliver of our products and services\n• To make and manage customer payments\n• To manage fees, charges and interest due on customer accounts\n• To collect and recover money that is owed to us\n• To manage and provide treasury and investment products and services\n• To detect, investigate, report, and seek to prevent financial crime\n• To manage risk for us and our customers\n• To obey laws and regulations that apply to us\n• To respond to complaints and seek to resolve them\n• To run our business in an efficient and proper way. This includes managing our financial position, business capability, planning, adding and testing systems and processes, managing communications, corporate governance, and audit"
+    },
+    "securityStandards": {
+      "present": "not_present",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "dataProtectionRegister": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "present",
+      "observations": "The privacy policy features a comprehensive breakdown of the situations in which Lloyds make automated decisions based on customer data.",
+      "specificity": "specific",
+      "sourceText": "Here we tell you how we use automated systems to make decisions about you and your money. We also explain the rights you have to challenge decisions made this way.\n\nWe sometimes use systems to make automated decisions about you or your business. This helps us to make sure our decisions are quick, fair, efficient and correct, based on what we know. Automated decisions can affect the products, services or features we may offer you now or in the future, or the price that we charge you for them. They are based on personal information that we have or that we are allowed to collect from others.\n\nHere are the types of automated decision we make:\n\nPricing \nWe may decide what to charge for some products and services based on what we know. For instance, if you use our online mortgage calculator, it will use the personal financial details you put in to estimate the kind of mortgage we may offer you. If you apply for insurance, we will compare what you tell us with other records to work out how likely you are to make a claim. This will help us decide whether to offer you the product and what price to charge you.\n\nTailoring products, services, offers and marketing \nWe may place you in groups with similar customers. These are called customer segments. We use these to study and learn about our customers’ needs, and to make decisions based on what we learn. This helps us to design products, services and offers for different customer segments, and to manage our relationships with them. It also helps us tailor the marketing that individuals receive or are shown on our own and other websites and mobile apps, including social media.\n\nDetecting fraud \nWe use your personal information to help decide if your personal or business accounts may be being used for fraud or money-laundering. We may detect that an account is being used in ways that fraudsters work. Or we may notice that an account is being used in a way that is unusual for you or your business. If we think there is a risk of fraud, we may stop activity on the accounts or refuse access to them.\n\nOpening accounts\nWhen you open an account with us, we check that the product or service is relevant for you, based on what we know. We also check that you or your business meet the conditions needed to open the account. This may include checking age, residency, nationality or financial position.\n\nApproving credit \nWe use a system to decide whether to lend money to you or your business, when you apply for credit such as a loan or credit card. This is called credit scoring. It uses past data to assess how you’re likely to act while paying back any money you borrow. This includes data about similar accounts you may have had before.\n\nCredit scoring uses data from three sources:\n\n* Your application form\n* Credit reference agencies\n* Data we may already hold.\n\nIt gives an overall assessment based on this. Banks and other lenders use this to help us make responsible lending decisions that are fair and informed.\n\nCredit scoring methods are tested regularly to make sure they are fair and unbiased.\n\nYour rights\n\nAs a person you have rights over automated decisions.\n\n* You can ask that we do not make our decision based on the automated score alone.\n* You can object to an automated decision, and ask that a person reviews it.\n* If you want to know more about these rights, please contact us."
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "The policy links to a secure online contact form for submitting complaints.\n\nIt also contains links to the relevant data protection authorities for the UK, as well as Jersey, Guernsey, and the Isle of Man.",
+      "specificity": "specific",
+      "sourceText": "Please let us know if you are unhappy with how we have used your personal information.\n\nYou can contact us using our secure online contact form. You also have the right to complain to the regulator, and to lodge an appeal if you are not happy with the outcome of a complaint.\n\nIn the UK this is the Information Commissioner’s Office. Find out on their website how to report a concern .\n\nIn Jersey, please contact the Office of the Information Commissioner.\n\nIn Guernsey, please contact the Office of the Data Protection Commissioner.\n\nIn Isle of Man, please contact the Information Commissioner."
+    },
+    "presentation": {
+      "easyToFindInside": "pass"
+    }
+  }
