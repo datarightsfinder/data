@@ -1,0 +1,105 @@
+{
+  "organisationInformation": {
+    "name": "Transferwise",
+    "number": "07209813",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://transferwise.com/privacy-policy"
+  },
+  "dataProtectionOfficer": {
+    "present": "not_present",
+    "contactInfo": {}
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "privacy@transferwise.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "credit_history",
+      "email_address",
+      "location",
+      "names",
+      "postal_address",
+      "social_network_details",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "sourceText": "2.1 Information you give us.\n\n(a) You may give us information about you when you sign up to use our service, e.g. when you provide us with your personal details, such as your name and email address. This also includes information you provide through your continued use of our Services, participate in discussion boards or other social media functions on our Website or App, enter a competition, promotion or survey, and when you report a problem with our Services. The information you give us may include your name, address, e-mail address, phone number, financial information (including credit card, debit card, or bank account information), payment reason, geographical location, social security number, personal description and photograph.\n\n(b) We may also need additional commercial and/or identification information from your e.g. if you send or receive certain high-value or high volume transactions or as needed to comply with our anti-money laundering obligations under applicable law.\n\n(c) In providing the personal data of any individual (other than yourself) to us during your use of our Services, you promise that you have obtained consent from such individual to disclose his/her personal data to us, as well his/her consent to our collection, use and disclosure of such personal data, for the purposes set out in this Privacy Policy.\n\n2.2 Information we collect about you. With regard to your use of our Services we may automatically collect the following information:\n\n(a) details of the transactions you carry out when using our Services, including geographic location from which the transaction originates;\n\n(b) technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;\n\n(c) information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our Customer Support number.\n\n2.3 Information we receive from other sources. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties and may receive information about you from them.\n\nFor example:\n\n    the banks you use to transfer money to us will provide us with your basic personal information, such as your name and address, as well as your financial information such as your bank account details;\n    business partners may provide us with your name and address, as well as financial information, such as card payment information;\n    advertising networks, analytics providers and search information providers may provide us with pseudonymised information about you, such as confirming how you found our website;\n    credit reference agencies do not provide us with any personal information about yourself, but may be used to corroborate the information you have provided to us.\n\n2.4 Information from social media networks. If you log in to our Services using your social media account (for example, Facebook or Google) we will receive relevant information that is necessary to enable our Services and authenticate you. The social media network will provide us with access to certain information that you have provided to them, including your name, profile image and e-mail address. We use such information, together with any other information you directly provide to us when registering or using our Services, to create your account and to communicate with you about the information, products and services that you request from us. You may also be able to specifically request that we have access to the contacts in your social media account so that you can send a referral link to your family and friends. We will use, disclose and store all of this information in accordance with this privacy policy."
+  },
+  "unusualProcessingPurposes": {
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [],
+    "specificity": "general",
+    "observations": "List of third parties can be obtained by writing to privacy@transferwise.com",
+    "sourceText": "5.1 We may share your information with selected third parties including:\n\n    (a) affiliates, business partners, suppliers and sub-contractors for the performance and execution of any contract we enter into with them or you;\n    (b) advertisers and advertising networks solely to select and serve relevant adverts to you and others; and \n    (c) analytics and search engine providers that assist us in the improvement and optimisation of our site; and  \n    (d) our group entities or subsidiaries - which can be found by clicking here\n5.2 We may disclose your personal information to third parties:\n\n    (d) in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; \n    (e) if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Customer Agreement and other applicable agreements; or to protect the rights, property, or safety of TransferWise, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; \n    (f) to assist us in conducting or co-operating in investigations of fraud or other illegal activity where we believe it is reasonable and appropriate to do so; \n    (g) to prevent and detect fraud or crime;  \n    (h) in response to a subpoena, warrant, court order, or as otherwise required by law;   \n    (i) to assess financial and insurance risks; \n    (j) to recover debt or in relation to your insolvency; and \n    (k) to develop customer relationships, services and systems. \n\n5.3 We do not have a published list of all of the third parties with whom we share your data with, as this would be heavily dependant on your specific use of our Services. However, if you would like further information about who we have shared your data with, or to be provided with a list specific to You, you can request this by writing to privacy@transferwise.com."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "9.1 As a regulated financial institution, TransferWise is required by law to store some of your personal and transactional data beyond the closure of your account with us. Your data is only accessed internally on a need to know basis, and it will only be accessed or processed if absolutely necessary.\n\n9.2 We will always delete data that is not longer required by a relevant law or jurisdiction in which we operate.\n\n9.3 Retention periods defined for the storage of your data can be found by clicking here.\n\nBecause we're a regulated financial institution, TransferWise is obliged to store some of your personal and transactional data. Only a small number of our employees can see that data, and they'll only look at it if they absolutely need to. We always delete information that we no longer need. And everything we need to keep is subject to the highest levels of security.\n \nWhere you live \tData retention period\nUK & Europe \t6 years\nUS \t6 years\nSingapore \t6 years\nCanada \t6 years\nAustralia \t7 years\nJapan \t10 years\nRest of the world \t6 years\n\nPlease note: Retention periods could be subject to change, depending on where you live, changes to regulatory requirements, or other legal obligations that we need to adhere to. "
+  },
+  "lawfulBases": {
+    "isMissing": true
+  },
+  "securityStandards": {
+    "present": "present",
+    "url": "https://transferwise.com/privacy-policy",
+    "observations": "From the privacy policy: \n\n1.1 We are serious about guarding the security of your personal information and use a secure server to store your personal information. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using Transport Layer Security technology.\n\n1.2 As you will know, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data during transmission, and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.\n\n1.3 We restrict access of your personal information to those employees of TransferWise who have a business reason for knowing such information. We continuously educate and train our employees about the importance of confidentiality and privacy of customer information. We maintain physical, electronic and procedural safeguards that comply with the relevant laws and regulations to protect your personal information from unauthorised access.\n\n\n6.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (\"EEA\"). It may also be processed by staff operating outside the \nEEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your payment order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {
+    "present": "present",
+    "identifier": "Z2976089"
+  },
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "specificity": "specific",
+    "sourceText": "13.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@transferwise.com.\n\n13.2  If you feel that we have not addressed your questions or concerns adequately, you may make a complaint with the Information Commissioner’s Office in the United Kingdom. You may see their contact details via the ICO website."
+  },
+  "presentation": {
+    "plainLanguage": "fail",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
