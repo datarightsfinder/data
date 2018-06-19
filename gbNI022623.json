@@ -1,0 +1,142 @@
+{
+  "organisationInformation": {
+    "name": "Ulster Bank Commercial Services (N.I.)",
+    "number": "NI022623",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://digital.ulsterbank.co.uk/globals/privacy.html"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "telephoneNumber": "03457424365"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "telephoneNumber": "03457424365"
+      },
+      "observations": "The phone number listed here appears to be a general contact number used for all types of data protection issue."
+    },
+    "access": {
+      "contactInfo": {
+        "url": "https://supportcentre.ulsterbank.co.uk/Searchable/1022957952/How-do-I-submit-a-Subject-Access-Request-SAR.htm",
+        "postalAddress": "Ulster Bank, Subject Access Requests, Manchester Mailroom, 1 Hardman Boulevard, Manchester M3 3AQ",
+        "telephoneNumber": "03457424365"
+      },
+      "observations": "The Support Centre page appears to indicate that customers can also submit a Subject Access Request by visiting their local Ulster Bank branch."
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {
+        "url": "https://supportcentre.ulsterbank.co.uk/Searchable/1022957952/How-do-I-submit-a-Subject-Access-Request-SAR.htm",
+        "postalAddress": "Ulster Bank, Subject Access Requests, Manchester Mailroom, 1 Hardman Boulevard, Manchester M3 3AQ",
+        "telephoneNumber": "03457424365"
+      },
+      "observations": "Privacy policy suggests customers can exercise this right by submitting a Subject Access Request and specifying that they want the data to be in a portable format. The policy also indicates that Ulster Bank can provide the data directly to a third party \"if technically feasible\"."
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "biometrics",
+      "credit_history",
+      "criminal_records",
+      "date_of_birth",
+      "education",
+      "employment",
+      "ethnic_origin",
+      "health",
+      "identity_documents",
+      "names",
+      "postal_address",
+      "race",
+      "telephone_number",
+      "trade_union_membership"
+    ],
+    "sourceText": "- We collect and process various categories of personal information at the start of, and for the duration of, your relationship with us. We will limit the collection and processing of information to information necessary to achieve one or more legitimate purposes as identified in this notice. Personal information may include:\na) basic personal information, including name and address, date of birth and contact details;\nb) financial information, including account and transactional information and history;\nc) information about your family, lifestyle and social circumstances (such as dependents, marital status, next of kin and contact details);\nd) information about your financial circumstances, including personal wealth, assets and liabilities, proof of income and expenditure, credit and borrowing history and needs and goals;\ne) education and employment information;\nf) goods and services provided;\ng) visual images and personal appearance (such as copies of passports or CCTV images); and\nh) online profile and social media information and activity, based on your interaction with us and our websites and applications, including for example, your banking profile and login information, Internet Protocol (IP) address, smart device information, location coordinates, online and mobile banking security authentication, mobile phone network information, searches, site visits and spending patterns.\n\n- We may also process certain special categories of information for specific and limited purposes, such as detecting and preventing financial crime or to make our services accessible to customers.\n\n- We will only process special categories of information where we’ve obtained your explicit consent or are otherwise lawfully permitted to do so (and then only for the particular purposes and activities set out at Schedule A for which the information is provided). This may include:\na) information about racial or ethnic origin,\nb) religious or philosophical beliefs;\nc) trade union membership;\nd) physical or psychological health details or medical conditions; and\ne) biometric information, relating to the physical, physiological or behavioural characteristics of a person, including, for example, using voice recognition or similar technologies to help us prevent fraud and money laundering.\n\n- Where permitted by law, we may process information about criminal convictions or offences and alleged offences for specific and limited activities and purposes, such as to perform checks to prevent and detect crime and to comply with laws relating to money laundering, fraud, terrorist financing, bribery and corruption, and international sanctions. It may involve investigating and gathering intelligence on suspected financial crimes, fraud and threats and sharing data between banks and with law enforcement and regulatory bodies."
+  },
+  "unusualProcessingPurposes": {
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Law enforcement agencies, judicial bodies, government entities, tax authorities or regulatory bodies around the world (where required)",
+      "Other banks and third parties (to recover funds from misdirected payments or fraud)",
+      "Third parties who provide services to Ulster Bank",
+      "Debt collection agencies",
+      "Credit reference and fraud protection agencies",
+      "Third-party guarantors or other companies who provide you with benefits related to your service",
+      "Parties involved in potential insolvency, mergers, or acquisitions of Ulster Bank",
+      "Unspecified \"third parties\" (anonymised statistical and aggregate data only)"
+      "Any third party that provides customers with account information or payment services (with customer consent)",
+      "Other authorised users who have been added to your account"
+      "Other members of a customer's \"Fee Family\" (if that service is used)"
+    ],
+    "specificity": "general",
+    "observations": "Some of the parties with which data is being shared are described vaguely or are referred to as unspecified \"third parties\".",
+    "sourceText": "We will not share your information with anyone outside RBS except:\na) where we have your permission;\nb) where required for your product or service;\nc) where we are required by law and by law enforcement agencies, judicial bodies, government\nentities, tax authorities or regulatory bodies around the world;\nd) with other banks and third parties where required by law to help recover funds that have entered your account as a result of a misdirected payment by such a third party;\ne) with third parties providing services to us, such as market analysis and benchmarking,\ncorrespondent banking, and agents and sub-contractors acting on our behalf, such as the\ncompanies which print our account statements;\nf) with other banks to help trace funds where you are a victim of suspected financial crime and you have agreed for us to do so, or where we suspect funds have entered your account as a result of a financial crime;\ng) with debt collection agencies;\nh) with credit reference and fraud prevention agencies;\ni) with third-party guarantors or other companies that provide you with benefits or services (such as insurance cover) associated with your product or service;\nj) where required for a proposed sale, reorganisation, transfer, financial arrangement, asset disposal or other transaction relating to our business and/or assets held by our business;\nk) in anonymised form as part of statistics or other aggregated data shared with third parties; or\nl) where permitted by law, it is necessary for our legitimate interests or those of a third party,\nand it is not inconsistent with the purposes listed above.\n\n- If you ask us to, we will share information with any third party that provides you with account information or payment services. If you ask a third-party provider to provide you with account information or payment services, you’re allowing that third party to access information relating to your account. We’re not responsible for any such third party’s use of your account information, which will be governed by their agreement with you and any privacy statement they provide to you.\n\n- In the event that any additional authorised users are added to your account, we may share information about the use of the account by any authorised user with all other authorised users.\n\n- In the event that you link your assets and liabilities with your immediate family under a Fee Family, the sum of the combined assets and liabilities held within the Fee Family may be shared with other members of the Fee Family. In some instances this may allow other members of the Fee Family to calculate the combined assets and liabilities you hold with us.\n\n- RBS will not share your information with third parties for their own marketing purposes without your permission."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "We normally keep customer account records for up to six years after your relationship with the bank ends, whilst other records are retained for shorter periods, for example 90 days for CCTV records or 12 months for call recordings.",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "- By providing you with products or services, we create records that contain your information, such as customer account records, activity records, tax records and lending and credit account records. Records can be held on a variety of media (physical or electronic) and formats.\n\n- We manage our records to help us to serve our customers well (for example for operational reasons,\nsuch as dealing with any queries relating to your account) and to comply with legal and regulatory\nrequirements. Records help us demonstrate that we are meeting our responsibilities and to keep\nas evidence of our business activities.\n\n- Retention periods for records are determined based on the type of record, the nature of the activity, product or service, the country in which the relevant RBS company is located and the applicable local legal or regulatory requirements. We (and other RBS group companies) normally keep customer account records for up to six years after your relationship with the bank ends, whilst other records are retained for shorter periods, for example 90 days for CCTV records or 12 months for call recordings. Retention periods may be changed from time to time based on business or legal and regulatory requirements.\n\n- We may on exception retain your information for longer periods, particularly where we need to withhold destruction or disposal based on an order from the courts or an investigation by law enforcement agencies or our regulators. This is intended to make sure that the bank will be able to produce records as evidence, if they’re needed.\n\n- If you would like more information about how long we keep your information, please contact us at 03457 424365. Overseas number: +44 289 053 8033. Minicom: 0800 015 4422."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "contract": "* assess and process applications for products or services\n* provide and administer those products and services throughout your relationship with the bank;\n* manage and maintain our relationships with you and for ongoing customer service\n* administer any credit facilities or debts\n* communicate with you about your account(s) or the products and services you receive from us",
+    "legalObligation": "* confirm your identity\n* perform checks and monitor transactions and location data for the purpose of preventing and detecting crime\n* assess affordability and suitability of credit and analyse credit data for regulatory reporting;\n* share data with other banks and third parties to help recover funds that have entered your account as a result of a misdirected payment by such a third party\n* share data with police, law enforcement, tax authorities or other government and fraud prevention agencies where we have a legal obligation, including reporting suspicious activity and complying with production and court orders\n* deliver mandatory communications to customers or communicating updates to product and service terms and conditions\n* investigate and resolve complaints\n* conduct investigations into breaches of conduct and corporate policies by our employees;\n* manage contentious regulatory matters, investigations and litigation\n* perform assessments and analyse customer data for the purposes of managing, improving and fixing data quality\n* corporate risk management\n* investigate and report on incidents or emergencies on the bank’s properties and premises;\n* coordinate responses to business-disrupting incidents\n* monitor dealings to prevent market abuse.",
+    "legitimateInterests": "* monitor, maintain and improve internal business processes and services\n* ensure business continuity and disaster recovery\n* ensure network and information security\n* corporate risk management\n* accounting and reporting\n* protecting Ulster Bank's legal rights and interests\n* manage and monitor properties for the purposes of crime prevention\n * enable a sale, reorganisation or transfer of the business\n* identify new business opportunities\n* send customers relevant marketing information\n* understand customers' actions and expectations\n* monitor performance and effectiveness of the provided services\n* assess the quality of customer services and to provide staff training\n* analyse customer complaints\n* compensate customers for loss\n* identify our customers’ use of third-party products and services in order to facilitate the uses of customer information detailed above\n* combine your information with third-party data, such as economic data in order to understand customers’ needs better and improve our services\n* carry out financial, credit and insurance risk assessments\n* manage and take decisions about your accounts\n* carry out screening checks on customers and potential customers\n* share data with credit reference, fraud prevention agencies and law enforcement agencies\n* trace debtors and recover outstanding debt"
+  },
+  "securityStandards": {
+    "present": "present",
+    "url": "https://digital.ulsterbank.co.uk/personal/security-centre/how-we-protect-you.html",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "Applications to use Ulster Bank services may be processed on an automated basis using information taken from credit reference agencies.",
+    "specificity": "specific",
+    "sourceText": "Application decisions may be taken based solely on automated checks of information from credit reference and fraud prevention agencies and internal RBS records. To help us make decisions on when to give you credit, we use a system called credit scoring to assess your application. To work out your credit score, we look at information you give us when you apply; information from credit reference agencies that will show us whether you’ve kept up to date with payments on any credit accounts (that could be any mortgages, loans, credit cards or overdrafts), or if you’ve had any court action such as judgments or bankruptcy; your history with us such as maximum level of borrowing; and affordability, by looking at your available net income and existing debts. You have rights in relation to automated decision-making, including a right to appeal if your application is refused."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Complaints are directed to the Data Protection Officer, which is the same generic phone number used in other sections of the policy.",
+    "specificity": "specific",
+    "sourceText": "If you wish to raise a complaint on how we have handled your personal information, you can contact our Data Protection Officer who will investigate the matter. We hope that we can address any concerns you may have, but you can always contact the Information Commissioner’s Office (ICO). For more information, visit ico.org.uk"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
