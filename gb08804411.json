@@ -4,7 +4,9 @@
     "number": "08804411",
     "registrationCountry": "gb"
   },
-  "organisationUrls": [],
+  "organisationUrls": [
+    "https://revolut.com"
+  ],
   "privacyNoticeUrl": {
     "url": "https://www.revolut.com/terms"
   },
