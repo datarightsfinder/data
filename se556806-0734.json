@@ -2,7 +2,8 @@
   "organisationInformation": {
     "name": "iZettle AB",
     "number": "556806-0734",
-    "registrationCountry": "se"
+    "registrationCountry": "se",
+    "description": "Point of sale products for small businesses"
   },
   "organisationUrls": [
     "https://www.izettle.com/"
