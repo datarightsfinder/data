@@ -1,0 +1,108 @@
+{
+  "organisationInformation": {
+    "name": "Revolut",
+    "number": "08804411",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.revolut.com/terms"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "contactInfo": {}
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {},
+      "observations": "in-app information or ICO"
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "credit_history",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "identity_documents",
+      "income",
+      "location",
+      "postal_address",
+      "telephone_number"
+    ],
+    "sourceText": "3.1 We will collect and process the following data about you:\n\na) Information you give us \"Submitted Information\": This is information you give us about you by filling in forms on the App and/or the Site, or by corresponding with us (for example, by e-mail or via the chat functions on the App and/or the Site). It includes information you provide when you register to use the App, download or register the App, subscribe to any of our services, enter into any transaction on the App or the Site (such as a Top Up, Instant Transfer, Revolut Bank Transfer, Electronic Money Exchange), participate in discussion boards or other social media functions on the App or the Site, enter a competition, promotion or survey and when you report a problem with an App, the Services, or the Site. If you contact us, we will keep a record of that correspondence. The information you give us may include your name, address, date of birth, e-mail address, phone number, the Device's phone number, username, password and other registration information, financial, details of your bank account including the bank account number, bank sort code, IBAN, details of your debit and credit cards including the long number, relevant expiry dates and CVC, identification document numbers, copies of identification documents (for example, passport, driving licence and utility bill) personal description and photograph and any other information you provide us in order to prove your eligibility to use our services.\nb) Information we collect about you and your device. Each time you visit the App or our Site we will automatically collect the following information:\n(i) technical information, including the internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device information and the type of mobile device you use, a unique device identifier (for example, your Device's IMEI number, the MAC address of the Device's wireless network interface, or the mobile phone number used by the Device), mobile network information, your mobile operating system, the type of mobile browser you use, time zone setting \"Device Information\";\n(ii) information about your visit, including the full uniform resource locators (URL), clickstream to, through and from our site (including date and time), services you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, device information;\n(iii) transaction information including date, time, amount, currencies used, exchange rate, beneficiary details, details and location of the merchant or ATMs associated with the transaction, IP address of sender and receiver, sender's and receiver's name and registration information, messages sent or received with the payment, device information used to facilitate the payment and the payment instrument used;\n(iv) information stored on your Device, including if you allow Revolut access contact information from your address book, login information, photos, videos or other digital content, check ins (Content Information). The App will periodically recollect this information in order to stay up-to-date;\n(v) details of your use of our App or your visits to our Site including transaction details relating to your use of our services, including who you have sent money or electronic money to, foreign exchange transactions you have entered into, the time, date and location of the place the transaction was entered into.\nc) Location Information. We use GPS technology and your IP address to determine your location – this may be used when the App is running in the foreground and the background of your Device. This is used to prevent fraud, for instance if your mobile phone is saying that you are based in the UK but your card is being used to enter into an ATM Withdrawal or point of sale purchase in Spain, we may not allow that transaction to be processed. Our card protection and fraud-prevention measures require this personal data for the feature to work. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling location permission for the Revolut App within your device settings \"Location Information\".\nd) Information to help us deliver our service to you. We work closely with third parties in order to help us deliver our Service to you. These third parties are business partners (such as those we partner with to offer additional Revolut Services like credit), sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies, fraud prevention agencies, customer service providers and developers. Information we may collect about you from such parties can include credit search information, information which helps us to verify your identity or information relating to your payment transactions. Please see the 'Disclosure of your Information' section for more information.\ne) If you allow us to, we will collect friends lists from Facebook and similar information from other third parties such as Twitter and Google – the App will periodically re-collect this information in order to stay up-to-date.\n"
+  },
+  "unusualProcessingPurposes": {
+    "present": "present",
+    "observations": " photos, videos or other digital content on the device"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Fraud prevention agencies",
+      "Cloud storage providers",
+      "Banking and financial services partners",
+      "Credit reference agencies",
+      "Card manufacturing/personalisation and delivery companies",
+      "Advertisers and analytics providers",
+      "Companies within the Revolut group"
+    ],
+    "specificity": "general",
+    "observations": "You can find out third parties information by contacting Revolut support via in-App chat.\n",
+    "sourceText": "If you allow us to, we will collect friends lists from Facebook and similar information from other third parties such as Twitter and Google – the App will periodically re-collect this information in order to stay up-to-date.\n\n"
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "6 years",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "8. RETAINING YOUR INFORMATION\n8.1 Revolut is obligated under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692) to retain personal data about you and your Revolut Transactions for a period of five years. Also, as an FCA authorised e-money institution, we are under further regulatory obligations to retain your data for a certain amount of time. Under the E-Money Regulations 2011 you have the right to redeem your e-money up to six years after termination of your Revolut Account. We therefore use this retention requirement as a benchmark for all personal data that we receive from you. In order to not hold your information for longer than is strictly necessary we will not hold any of your personal data for more than 6 years after the termination of our business relationship."
+  },
+  "lawfulBases": {
+    "isMissing": false
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {},
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "specificity": "general"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "fail",
+    "easyToFindInside": "pass"
+  }
+}
