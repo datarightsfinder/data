@@ -1,0 +1,150 @@
+{
+    "organisationInformation": {
+      "name": "Barclays Bank UK PLC",
+      "number": "09740322",
+      "registrationCountry": "gb",
+      "description": "UK high-street bank."
+    },
+    "organisationUrls": [],
+    "privacyNoticeUrl": {
+      "url": "https://www.barclays.co.uk/important-information/privacy-policy/"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "The Data Protection Officer, Barclays Bank UK PLC, Leicester, LE87 2BB",
+        "emailAddress": "DPO@Barclays.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "url": "https://www.barclays.co.uk/important-information/control-your-data/"
+        },
+        "observations": "Barclays provide a web portal which provides easy individual links for a user to exercise their rights."
+      },
+      "access": {
+        "contactInfo": {
+          "url": "https://www.apply.barclays.co.uk/forms/gdpr?formtype=access"
+        }
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {
+          "url": "https://www.apply.barclays.co.uk/forms/gdpr?formtype=erasure"
+        }
+      },
+      "restrictProcessing": {
+        "contactInfo": {
+          "url": "https://www.apply.barclays.co.uk/forms/gdpr?formtype=restrict"
+        }
+      },
+      "dataPortability": {
+        "contactInfo": {
+          "url": "https://www.apply.barclays.co.uk/forms/gdpr?formtype=portability"
+        }
+      },
+      "object": {
+        "contactInfo": {
+          "url": "https://www.apply.barclays.co.uk/forms/gdpr?formtype=object"
+        }
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {},
+        "observations": "No individual web form is provided for users to exercise their rights around automated decision making, but the privacy policy indicates that users can contact Barclays to request an automated decision to be reviewed by a human being."
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "biometrics",
+        "credit_history",
+        "criminal_records",
+        "date_of_birth",
+        "device_information",
+        "health",
+        "identity_documents",
+        "names",
+        "postal_address",
+        "telephone_number"
+      ],
+      "sourceText": "Information we hold about you will often come from you directly (e.g. when you apply for a new product), this\nwill include the following:\n* personal details (e.g. name, date of birth, passport information or other identification information);\n* contact details (e.g. phone number, email address, postal address or mobile number);\n* biometric information (e.g. voice recognition when you call some of our call centres, as well as facial recognition for certain products);\n* transactional details (e.g. payments you make and receive);\n* financial information (e.g. bank account number, credit or debit card numbers, financial history) including information you provide for the purposes of providing payment initiation services and account information services regarding accounts you hold with other providers;\n* details about your health and lifestyle (e.g. to meet our regulatory obligations, including responsible lending);\n* information about criminal convictions and offences (e.g. for mortgage applications); and\n* information about any other Barclays products and services you currently have, you have applied for, or you have previously held.\n\nIf you do not provide personal data that we tell you is mandatory, it may mean that we are unable to provide you\nwith the services and/or perform all of our obligations under our agreement with you.\n\nWe will also hold information we collect about you from other sources, this will include:\n* the way you are using our branches, telephone services, websites or mobile applications;\n* your interactions with us, for example, through social media or other channels;\n* your digital devices where we perform various checks designed to ascertain and verify your residency to ensure we meet our regulatory obligations. These checks include identifying the IP address your device connects from and the collection of information about your use of the website or mobile app (including device type, operating system, screen resolution, and the way you interact with us);\n* the way you use your accounts, including information about payments you make or receive such as the date, amount, currency and the details of the payee or payer (for example, retailers or other individuals);\n* if you have used or made claims on any of the products and services that you have taken out with your current account e.g. travel, phone, and gadget insurance.\n* our own records about any other accounts or products you have with us or other providers;\n* information from credit reference agencies and fraud prevention agencies;\n* publically available information about you which is available online or otherwise;\n* organisations that provide their own data, or data from other third parties, to enable us to enhance the personal data we hold, and then provide more relevant and interesting products and services to you;\n* criminal record checks and information;\n* employers;\n* joint account holders;\n* people appointed to act on your behalf;\n* credit reference agencies (who may check the information against other databases – public or private – to which they have access);\n* other banks and financial institutions (for example because you have asked us to display your other accounts on our platforms, we have received information to address payments made in error, or you have switched your account to us);\n* fraud prevention agencies; and\n* publically available sources, such as media stories.\n\nIf you give us personal data about other people (such as dependants or joint account holders) which we’ll use to provide services, or if you ask us to share that information with third parties, for example to provide payment initiation or account information services, then you confirm that you know that they are aware of the information in this notice about how we will use their personal data. "
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Barclays Group companies",
+        "Payment-processing service providers",
+        "Other financial institutions who you ask us to deal with",
+        "Independent third-party service providers",
+        "Companies that you have paid from your Barclays account",
+        "Our service providers and agents",
+        "Our business partners who we provide services with",
+        "Our Account Pack partners",
+        "Insurance providers",
+        "Government Agencies",
+        "HM Revenue and Customs (HMRC)",
+        "Any third party after a restructure, sale or acquisition of any Barclays company or debt",
+        "Any third party after a restructure, sale or acquisition of any Barclays company or debt",
+        "Any potential guarantor",
+        "Social media companies",
+        "Your advisors",
+        "Fraud prevention agencies",
+        "Credit reference agencies",
+        "UK and overseas regulators, law enforcement agencies and authorities"
+      ],
+      "observations": "Data is shared with social media companies \"(in an encrypted format so that they can match this to personal data they already hold) to display messages to you about our products and services\"",
+      "sourceText": "- Barclays Group companies. Barclays Bank UK PLC is owned by Barclays PLC, so we work closely with other businesses and companies that fall under the Barclays Group family. We may share certain information with other Barclays Group companies for example, to provide you with products or services, for marketing purposes, for internal reporting and where those companies provide services to us.\n\n- Payment-processing service providers and others that help us process your payments, as well as other financial institutions who are members of the payment schemes or involved in making the payment, where that is needed in relation to specific payments, such as through Paym.\n\n- Other financial institutions who you ask us to deal with, for example when you switch your account from Barclays.\n\n- Independent third-party service providers who you (or a third party properly authorised to give instructions on your account) ask us to share information with, for example, payment initiation or account information services. If such information is shared with these third parties, we will have no control over how that information is used. You (or the person(s) with authority over your account) will need to agree the scope of such use directly with the third party.\n\n- Companies that you have paid from your Barclays account which request our help so they can apply a payment to you (because they didn’t receive the information they needed with the payment), for example, utility companies.\n\n- Our service providers and agents (including their sub-contractors). This may include, for example, third party collection agents, or where we pass your details to someone who will print your statements, or deliver you a gift or a gesture of goodwill.\n\n- We may share your personal data with our business partners who we provide services with, such as those whose name or logo appears on a card issued to you, for example a hotel or airline partner or card scheme. We may also share information with other service providers and agents who provide the services on their behalf.\n\n- Our Account Pack partners in order for you to be able to use their products and services, if you have a pack added to your current account. Information you provide to the insurer or service provider will also be shared with us, for example, any claim you may make.\n\n- Insurance providers, including insurance underwriters, coverholders, brokers, introducers, claims handlers and other such associated third parties. When you make an insurance claim, information you give us or the insurer may be put on a register of claims. This will be shared with other insurers.\n\n- Government Agencies. For example, the Skills Funding Agency, or its agents, third party suppliers/ subcontractors, advisers and group companies, for the purposes of operating the Professional and Career Development Loan;\n\n- For mortgage customers, to confirm and validate the income information you provide us, we may share information about you with HM Revenue and Customs (HMRC). HMRC may also use the information that we provide them to inform risk profiling activities and to establish any mismatch with declared income.\n\n- Any third party after a restructure, sale or acquisition of any Barclays company or debt, as long as that person uses your information for the same purposes as it was originally given to us or used by us (or both);\n\n- Anyone to whom we transfer or may transfer our rights and duties in this agreement.\n\n- Any potential guarantor.\n\n- Social media companies (data shared in an encrypted format so that they can match this to personal data they already hold) to display messages to you about our products and services.\n\n- Your advisers (such as accountants, lawyers, financial or other professional advisers) if you have authorised anyone like this to represent you, or any other person you have told us is authorised to give instructions or to use the account or products or services on your behalf (such as under a power of attorney);\n\n- UK and overseas regulators, law enforcement agencies and authorities in connection with their duties, such as crime prevention (whether directly or via third parties such as credit reference agencies), or carrying out social or economic statistical research. This may include payment details (including information about others involved in the payment).\n\n- Fraud prevention agencies. In particular, we will always tell fraud prevention agencies if you give us false or fraudulent information. They will also allow other organisations (in the UK or abroad), including law enforcement agencies, to access this information to prevent and detect fraud or other crimes. You can ask us for the details of the fraud prevention agencies we share information with.\n\n- Credit reference agencies. For more information on this, please see below."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Barclays indicate that most data will be retained for six or seven years following account closure or a transaction.\n\nThey note that data may be retained after this period if it is necessary to do so to comply with the law.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "We will keep your personal data for as long as we have a relationship with you. Once our relationship with you has come to an end (e.g. following closure of your account or following a transaction), or your application for a product is declined or you decide not to go ahead with it, we will only retain your personal data for a period of time that is calculated depending on the type of personal data, and the purposes for which we hold that information.\n\nWe will only retain information that enables us to:\n* Maintain business records for analysis and/or audit purposes;\n* Comply with record retention requirements under the law (for example, as required under legislation concerning the prevention, detection and investigation of money laundering and terrorist financing);\n* Defend or bring any existing or potential legal claims;\n* Maintain records of anyone who does not want to receive marketing from us;\n* Deal with any future complaints regarding the services we have delivered;\n* Assist with fraud monitoring; or\n* Assess the effectiveness of marketing that we may have sent you.\n\nThe retention period is often linked to the amount of time available to bring a legal claim, which in many cases is six or seven years following closure of your account or following a transaction. We will retain your personal data after this time if we are required to do so to comply with the law, if there are outstanding claims or complaints that will reasonably require your personal data to be retained, or for regulatory or technical reasons. If we do, we will continue to make sure your privacy is protected."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "- To contact customers with marketing and offers.",
+      "contract": "- To provide, manage and personalise our services to you.\n- To communicate with you about your product / service for legal, regulatory and servicing purposes.\n- To manage complaints, undertake remediation activities (e.g. PPI) and to resolve queries.\n- To develop and improve products and services through assessment and analysis of the information.\n- To undertake checks for the purposes of security, detecting and preventing fraud and money laundering, and to verify identity.\n- To recover debt owed and enforce other contractual obligations.\n- To apply for quotations for insurance products.\n- To provide payment initiation and account information services in relation to accounts you hold with us.\n- To verify your identity.\n- To prevent and detect fraud, money laundering and other crimes.",
+      "legalObligation": "- To provide, manage and personalise our services to you.\n- To communicate with you about your product / service for legal, regulatory and servicing purposes.\n- To manage complaints, undertake remediation activities (e.g. PPI) and to resolve queries.\n- To assess and analyse services and for training/quality purposes.\n- To undertake checks for the purposes of security, detecting and preventing fraud and money laundering, and to verify identity.\n- To recover debt owed and enforce other contractual obligations.\n- To apply for quotations for insurance products.\n- To provide payment initiation and account information services in relation to accounts you hold with us.\n- To verify your identity.\n- To prevent and detect fraud, money laundering and other crimes.\n- To comply with regulatory and legal obligations.\n- To prepare high-level anonymised statistical reports.",
+      "legitimateInterests": "- To provide, manage and personalise our services to you.\n- To manage complaints, undertake remediation activities (e.g. PPI) and to resolve queries.\n- To assess and analyse services and for training/quality purposes.\n- To develop and improve products and services through assessment and analysis of the information.\n- To undertake checks for the purposes of security, detecting and preventing fraud and money laundering, and to verify identity.\n- To contact customers with marketing and offers.\n- May share some personal data with social media companies to display relevant products and services to customers.\n- To recover debt owed and enforce other contractual obligations.\n- To apply for quotations for insurance products.\n- To verify your identity.\n- To prevent and detect fraud, money laundering and other crimes.\n- To comply with regulatory and legal obligations.\n- To prepare high-level anonymised statistical reports.\n- To personalise marketing messages for customers."
+    },
+    "securityStandards": {
+      "present": "present",
+      "url": "https://www.barclays.co.uk/security/protecting-your-account/",
+      "specificity": "specific"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "dataProtectionRegister": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "present",
+      "observations": "Automated decision making is used primarily for screening processes for the purposes of credit lending, and for assessing fraud and money laundering risks.",
+      "specificity": "specific",
+      "sourceText": "The way we analyse personal data in relation to our services may involve profiling, this means that we may process your personal data using software that is able to evaluate your personal aspects and predict risks or outcomes. We may also use profiling, or otherwise employ solely automated means, to make decisions about you that relate to:\n* credit and affordability assessment checks to determine whether your application will be accepted;\n* credit limit decisions;\n* anti-money laundering and sanctions checks;\n* identify and verification checks;\n* transaction monitoring for fraud & other financial crime, either to prevent you committing fraud, or to prevent you becoming a victim of fraud;\n* screening of individuals who may be classed as “politically exposed”;\n* assessments we are required to carry out by our regulators and applicable authorities to ensure we meet our regulatory obligations, for example making determinations about those at risk of becoming financially vulnerable under applicable regulations;\n* determining if an account is dormant / nil balance and dealing with its closure; and\n* determining the insurance premium value for customers.\n\nThis is known as “automated decision-making” and is only permitted when we have a legal basis for this type of decision-making. We may make automated decisions about you:\n* where such decisions are necessary for entering into a contract. For example, we may decide not to offer our services to you, or we may decide on the types of services that are suitable for you, or how much to charge you for our products based on your credit history and other financial information we have collected about you;\n* where such decisions are required or authorised by law, for example for fraud prevention purposes; or\n* where it is a reasonable way of complying with government regulation or guidance, such as our high level obligation to treat customers fairly.\n\nYou can contact us to request an automated decision to be reviewed by a human being. "
+    },
+    "complaintInformation": {
+      "present": "not_present",
+      "observations": "The policy provides generic contact details for \"questions about our privacy notice\" but does not specifically indicate where complaints should be directed.",
+      "specificity": "specific",
+      "sourceText": "We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to the data protection authority of the United Kingdom using their website - https://ico.org.uk."
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }
