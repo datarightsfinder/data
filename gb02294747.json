@@ -1,0 +1,164 @@
+{
+    "organisationInformation": {
+      "name": "Santander UK PLC",
+      "number": "02294747",
+      "registrationCountry": "gb",
+      "description": "UK high-street bank"
+    },
+    "organisationUrls": [],
+    "privacyNoticeUrl": {
+      "url": "https://www.santander.co.uk/uk/help-support/security-centre/privacy-statement"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "201 Grafton Gate East, Milton Keynes, MK9 1AN"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained"
+        },
+        "observations": "Santander provide a comprehensive web page with individual contact details for customers to exercise their rights."
+      },
+      "access": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained",
+          "postalAddress": "Subject Access Requests, Santander UK PLC, PO BOX 1111, Bradford, BD1 9NQ"
+        },
+        "observations": "Santander appear to only accept Subject Access Requests by post. More details can be found at the attached URL."
+      },
+      "rectification": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained",
+          "postalAddress": "Santander Business Banking, Bridle Road, Bootle, L30 4GB"
+        },
+        "observations": "The URL here provides several telephone numbers to exercise this right, depending on what service a customer holds with Santander.\n\nThe policy also notes that this right is exercisable in any Santander branch, or via online banking."
+      },
+      "erasure": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained",
+          "telephoneNumber": "08009123123"
+        },
+        "observations": "The policy also notes that this right is exercisable in any Santander branch."
+      },
+      "restrictProcessing": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained"
+        },
+        "observations": "The URL here provides several telephone numbers to exercise this right, depending on what service a customer holds with Santander.\n\nThe policy also notes that this right is exercisable in any Santander branch."
+      },
+      "dataPortability": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained"
+        },
+        "observations": "The URL here provides several telephone numbers to exercise this right, depending on what service a customer holds with Santander.\n\nThe policy also notes that this right is exercisable in any Santander branch."
+      },
+      "object": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained"
+        },
+        "observations": "Santander note that \"In certain circumstances you can object to the processing of your personal information\" and provide some information on opting-out of processing for marketing purposes."
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {
+          "url": "https://www.santander.co.uk/uk/help-support/your-personal-data-rights-explained"
+        },
+        "observations": "Santander note that customers can request that automated decisions are reviewed by a human, and provide several postal addresses to exercise this right depending on which Santander product the customer uses or wishes to use."
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "biometrics",
+        "communications",
+        "credit_history",
+        "date_of_birth",
+        "device_information",
+        "education",
+        "email_address",
+        "employment",
+        "income",
+        "location",
+        "names",
+        "postal_address",
+        "telephone_number"
+      ],
+      "sourceText": "The types of personal data we capture and use will depend on what you are doing on the website. We’ll use your personal data for some or all of the reasons set out in this Privacy Statement.  If you become a customer we’ll also use it to manage the account, policy or service you’ve applied for and we’ll provide you with a separate data protection statement specifically in relation to that as part of the online application journey. Some of the information relevant to that is included in this Privacy Statement for consistency. Examples of the personal data we use in relation to our websites may include:\n*Full name and personal details including contact information (e.g. home address and address history, email address, home and mobile telephone numbers);\n*Date of birth and/or age (e.g. to make sure that you are eligible to apply for a product or service);\n*Financial details (e.g. salary and details of other income, and details of accounts held with other providers if you apply for a product or service with us);\n*Records of products and services you’ve obtained or applied for, how you use them and the relevant technology used to access or manage them (e.g. mobile phone location data, IP address, MAC address);\n*Biometric data (e.g. fingerprints and voice recordings for TouchID and voice recognition);\n*Information from credit reference or fraud prevention agencies, electoral roll, court records of debt judgements and bankruptcies and other publicly available sources as well as information on any financial associates you may have if you apply for a product or service with us;\n*Family, lifestyle or social circumstances if relevant to the product or service you apply for (e.g. the number of dependants you have);\n*Education and employment details/employment status for credit and fraud prevention purposes if you apply for a product or service with us; and\n*Personal data about other named individuals as required. Where you provide the personal data of others you must have their authority to provide their personal data to us and share this Privacy Statement and any related data protection statement with them beforehand together with details of what you’ve agreed on their behalf."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "The Santander group of companies and associated companies",
+        "Sub-contractors and others who help Santander provide services",
+        "Companies and others providing services to Santander",
+        "Legal and professional advisors including auditors",
+        "Fraud prevention, credit reference, and debt collection agencies",
+        "Other organisations to do income verification and affordability checks",
+        "Law enforcement bodies",
+        "Government bodies and agencies in the UK and overseas",
+        "Courts",
+        "The Financial Services Ombudsman",
+        "Others in an emergency or to protect your vital interests",
+        "To other parties connected with your account (e.g. guarantors)",
+        "Parties involved in mergers and acquisitions with Santander",
+        "Market research organisations",
+        "Payment systems (e.g. Visa or MasterCard)",
+        "Anyone else where consent is given or as required by law"
+      ],
+      "specificity": "general"
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Santander indicate that they will retain data as long as necessary to deal with customer queries, for as long as customers may bring legal action against them, or for as long as their legal and regulatory requirements dictate.",
+      "observations": "The policy does not offer specific time periods but does break down the criteria that Santander will use to determine which retention period will apply to a piece of data.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "The following criteria are used to determine data retention periods for your personal data:\n\n* Retention in case of queries. We’ll retain your personal data as long as necessary to deal with your queries (e.g. if your application is unsuccessful) or for a sensible period in order for us to reply to your online query and then deal with queries you raise upon receipt);\n* Retention in case of claims. We’ll retain your personal data for as long as you might legally bring claims against us; and\n* Retention in accordance with legal and regulatory requirements. We’ll retain your personal data after your account, policy or service has been closed or has otherwise come to an end based on our legal and regulatory requirements."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "a) When you request us to disclose your personal data to other people or organisations such as a company handling a claim on your behalf, or otherwise agree to disclosures;\nb) When we process any special categories of personal data about you at your request (e.g. your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning your health, sex life or sexual orientation); and\nc) To send you marketing communications where we’ve asked for your consent to do so.",
+      "contract": "a) To take steps at your request prior to entering into it;\nb) To decide whether to enter into it;\nc) To manage and perform that contract;\nd) To update our records; and\ne) To trace your whereabouts to contact you about your account and recovering debt.\nf) If a 123 Mini Account is opened in trust, you understand that the trustee may have to hold a qualifying account for this account to remain open.",
+      "legalObligation": "a) When you exercise your rights under data protection law and make requests;\nb) For compliance with legal and regulatory requirements and related disclosures;\nc) For establishment and defence of legal rights;\nd) For activities relating to the prevention, detection and investigation of crime;\ne) To verify your identity, make credit, fraud prevention and anti-money laundering checks; and\nf) To monitor emails, calls, other communications, and activities on your account.",
+      "legitimateInterests": "a) For good governance, accounting, and managing and auditing our business operations;\nb) To search at credit reference agencies at your home and business address (if you are a business customer) if you’re over 18 and apply for credit;\nc) To monitor emails, calls, other communications, and activities on your account;\nd) For market research, analysis and developing statistics; and\ne) To send you marketing communications and for marketing to you in-branch, including automated decision making relating to this.",
+      "observations": "Santander provide a very clear breakdown of the lawful bases used for the processing of specific data."
+    },
+    "securityStandards": {
+      "present": "present",
+      "url": "https://www.santander.co.uk/uk/help-support/security-centre/our-approach-to-security",
+      "observations": "Santander provide some information about how they verify users for security purposes.",
+      "specificity": "specific"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "dataProtectionRegister": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "present",
+      "observations": "They use automated decision making\"to decide which of our other products or services might be of interest to customers, to analyse statistics, and to assess lending and insurance risks.",
+      "specificity": "specific",
+      "sourceText": "In some instances we’ll undertake automated processing and decision-making to decide which of our other products or services might be of interest to you. You have a right not to have a decision made based solely on automated processing (including profiling) that produces legal or similar effects. This doesn't apply where the processing is necessary for the performance of a contract, is authorised by law, or the person has given their consent to the processing (though they can revoke their consent thereafter). \n\nWhere you have been inadvertently affected by an automated decision, and/or you think we have made a mistake, or you have further information to support your case, there is an underwriting process in place. We can’t guarantee to reverse a decision, but we’ll always be happy to reconsider your application if you believe you have been wrongly declined.\n\n Automated decision making involves processing your personal data without human intervention to evaluate your personal situation such as your economic position, personal preferences, interests or behaviour, for instance if you have accounts with us, in relation to transactions on your accounts, your payments to other providers, and triggers and events such as account opening anniversaries and maturity dates. We may do this to decide what marketing communications and marketing in-branch is suitable for you, to analyse statistics and assess lending and insurance risks. All this activity is on the basis of our legitimate interests, to protect our business, and to develop and improve our products and services, except as follows; when we do automated decision making including profiling activity to assess lending and insurance risks, this will be performed on the basis of it being necessary to perform the contract with you or to take steps to enter into that contract."
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "The policy does not offer specific instructions on where to direct complaints to Santander directly, but does include contact details for the ICO.",
+      "specificity": "specific",
+      "sourceText": "You have the right to complain to the Information Commissioner’s Office. It has enforcement powers and can investigate compliance with data protection law: ico.org.uk."
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }
