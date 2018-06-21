@@ -1,0 +1,122 @@
+{
+  "organisationInformation": {
+    "name": "Flattr",
+    "number": "556772-5071",
+    "registrationCountry": "se",
+    "description": "Flattr is a microdonation subscription service where subscribers pay a monthly amount to their favourite websites and creators. "
+  },
+  "organisationUrls": [
+    "https://flattr.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://flattr.com/privacy#Privacy-Policy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "name": "Dr. Judith Nink",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "Flattr AB Box 4111 20312 Malmö Sweden",
+      "emailAddress": "privacy@flattr.com",
+      "telephoneNumber": "+49 (0) 221 / 65028 598"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "url": "https://flattr.com/contact",
+        "postalAddress": "Flattr AB Box 4111 20312 Malmö Sweden"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {},
+      "observations": "You can demand the erasure of your personal data if:\n\n- If they don't need your personal data for the purposes set out in the privacy policy\n- If you withdraw your consent and where there are no other legal grounds for collection and processing\n- If you object to the collection and processing of your data and there are no overriding legitimate grounds for collection and processing.\n\nThey will retain data if it's required for legal purposes.\n"
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {},
+      "observations": "You have the right to receive all personal data concerning you and which you have provided to Fluttr, in a structured, commonly-used and machine-readable format."
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "names"
+    ],
+    "observations": "Generally, Fluttr gives a very thorough account of the data collected and under which circumstances.",
+    "sourceText": "Collection and Processing on our Website\nAffiliate program (automatically)\nWhen you enter via a link from one of our affiliate partners profile pages on Flattr.com, we also Collect the profile on Flattr.com from which you are visiting us (referrer profile). This referer profile will be only Processed for payouts to the respective affiliate under our affiliate program.\n\nYour Flattr account (mandatory)\nAs the Extension’s main functionality is to contribute to the content that you love and for content creators or publishers to receive this money, to make use of all its advantages, independent from your role, you have to register by adding an email address and choosing a password. We may use your email address to verify it, to respond to your requests, send you reports, transfer subscription payments, etc.\n\nTo create your account, you also need to enter your name and, if applicable, the name of your business, date of birth, nationality and your country of residence. This data is needed for Processing transactions.\n\nDepending on your role, you need to provide us with additional personal data:\n\nContributor accounts / profiles\nAs a user who is only using the Services for contributing to content (hereinafter referred to as “Contributor”), you must provide us with your payment information (e.g. credit card) in order to set a subscription and process your contributions to content creators or publishers you have flattred.\n\nYou can also use the automatic flattering of new content from content platforms and social networks. Therefore, you can grant us access to you list of social media subscriptions (for each social media network you would like to flattr channels automatically) and a the respective channel you wish to be flattred automatically. We do not store your list of subscriptions you have on the respective platform or social network. We are only storing the information about the channels you have added. You can remove channels at any time.\n\nThe connection to a you as a Contributor to a flattr with a receiving creator or publisher will be deleted automatically three (3) months after you have flattred the respective content. We delete unclaimed flattrs after a second cycle, so users can see them for one (1) more month after they were used in a distribution. After, we only keep the anonymized statistics on a domain level.\n\nIndividual creator accounts\nAs an individual content creator who can both receive payments and contribute to content, you must also enter payment information in order to process your contributions to content creators you have flattred. For regulatory reasons, our payment provider must verify your account before you can withdraw any contributions. In this case, you need to provide our payment provider with a copy of your passport and a postal address. If you are representing a registered business, our payment provider will need further information in order to verify your account.\n\nFor receiving contributions, you must also enter the website(s) where your content is published and / or log in to the respective social media platforms and create a public profile on Flattr to help Flattr users to identify you more easily.\n\nContent creators can be individuals, organizations or businesses.\n\nPublisher accounts\nAs a business or organization publishing content, you must enter the website(s) where your content is published and / or connect any social media platforms you produce content on, as well as bank information, in order to receive contributions. This includes your postal address and details of your bank account.\n\nFor regulatory reasons, our payment provider must verify your account before you can withdraw any contributions. This requires you to provide the payment provider with further information.\n\nYou also need to create a public profile to help Flattr users to identify you more easily.\n\nProfiles\nIn order to help Flattr users to identify you more easily when contributing to your content, you need to create a public profile where you may enter a name, which will be displayed in connection with your profile, a profile headline and a description about you or the company you are representing. Furthermore, you may upload a company logo and / or a cover image.\n\nWe delete the profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers after a period of three (3) months. URLs without a recipient will be deleted after one (1) month after the end of a subscription period.\n\nTransactions and Collection of data (mandatory)\nAll transactions will be carried out by an external payment provider via the payment provider’s system (currently MANGOPAY SA, seated in Luxembourg). Flattr only has access to those transactions for support reasons.\n\nTransaction data of contributions from Contributors to a publisher or a creator are deleted as follows: Historic data are kept for three (3) months and basic transaction data are kept in accordance with tax retention periods for tax purposes only.\n\nVerification information (mandatory for payouts)\nBecause of legal obligations related to the payment provider’s license as an Electronic Money Issuer, the payment provider must verify your account before you can withdraw any money. These verification obligations are necessary in order to fight fraud, money laundering and the financing of terrorism. The verification process requires you to upload specific information and / or documents, which will be uploaded and stored on our payment provider’s systems only. The documents will be solely used for authentication purposes. We do not have access to those documents. The information / documents you must upload include:\n\nA scan of your or your legal representative’s passport/ID or other identification document. For German users: You are entitled, at your sole discretion, to redact the serial number and the access number on your ID and/or passport before uploading it.\nA scan proving your registration as a company\nA scan of the articles of association\nA shareholder declaration\nDeletion of accounts\nWhen deleting an account, all account data will be deleted directly, except for the following data, which must be retained for accounting purposes and/or for providing the Flattr service for a short period and will be automatically deleted at the end of the respective period:\n\nContributors:\nFlattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account. This is required for content creators’ and/or Publisher’s accounting. The flattrs cannot be connected to you.\nURLs without a recipient will be retained for one (1) more month after the end of the subscription period.\nContent creators/Publishers: For accounting reasons the profile name, flattred URL and the public profile will be retained for a period of three (3) months.\nWeb Analytics\nWe use Matomo, an open-source web analytics software, on flattr.com. Matomo uses “cookies”, which are text files placed on your computer, to help us analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address anonymized prior to its storage) will be stored on our servers. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.\n\nYou can deactivate analytics by clicking on Opt-Out.\n\nAnalytics data will be automatically deleted after 180 days.\n\nNewsletter\nFlattr provides You with various newsletter services free of charge. We use the newsletter to inform you about new products and send you general information about Flattr. You can choose which newsletters you would like to receive by ticking the respective boxes in your profile. Of course you can unsubscribe the newsletter at any time by opting-out in your profile settings. In addition, every newsletter contains the information on how you can unsubscribe the newsletter with effect for the future.\n\nCollection and Processing in the Flattr Extension (automatically)\nFor the purpose of providing the Services, which includes what content will be flattred, the Extension automatically Collects data. The Extension runs in your browser on your device. All data Collected when using the Extension will be stored and Processed in the Extension itself and will NOT be transferred to Flattr and / or eyeo GmbH (Flattr’s parent company) and, of course, not to any other third party, except for the URL you have flattered, which will be transferred to Flattr. This data is used by the Extension to decide automatically when and what will be flattred. The Extension Collects and Processes the following data to flattr the respective content:\n\nInformation related to the Extension (automatically)\nWhen using the Extension, we will automatically Collect the following data:\n\nOperating system\nExtension state changes\nauthentication\nupdate and reason for update\nstartup\nThis information will be used for improving our Services and for security purposes.\n\nWhen connecting the Extension with your account, Extension ID and version will be exchanged with flattr.com for security reasons.\n\nYour browsing behavior in the Extension (automatically)\nThe function of the extension is to determine what content (normally a URL) to flattr. Within the Extension only, we record interaction, browsing and navigation data to identify the content to flattr so your flattrs are actually given to the content you consume, you engage with and you pay attention to. This is only done locally in your browser and this data is never sent to us.\n\nWithin the Extension, meaning in your browser, under your control and not being sent to us, current measures to detect activity / inactivity are\n\nbrowsing data and timestamps, specifically URLs you visit (including previously visited pages) and the page title, on some multi-author pages (currently youtube.com only) the author of the respective webpage,\ninformation about tabs (creating, selecting, moving or closing tabs in the user interface, including which window and at which position the tab was created, as well as which window created it in case of popups, and whether a tab is audible and/or muted and also when this status changes),\npage load statuses to identify error pages, and browser idle state changes.\nAlso within the Extension, meaning in your browser, under your control and not being sent to us, we record\n\ninteraction data and timestamps, specifically\nthe occurrence of mouse movement,\nclicking, scrolling (including beginning and end scroll positions, as well as page width / height),\nzooming (including the zoom level) and\nthe occurrence of keys being pressed.\nEven within the Extension, we never record your mouse position and / or the exact keys you press.\n\nAgain please note, that this data is recorded only in the Extension and thus only on your device. This data will never be sent to us or any other party. It is used to determine your activity and engagement with sites and which sites will get your flattrs. This is how we guarantee the proper functioning of the extension and the payment to content creators.\n\nOnly the information about which sites should receive your flattrs will be transferred and Processed for the payment of the content creators.\n\nRecording of your interaction with the Extension\nThe Extension (meaning in your browser, under your control and not being sent to us) records your interaction with the Extension, including timestamps, as follows:\n\nAdding or removing domains to or from your own flattr enabled/disabled lists\nManually flattring URLs\nLooking at your list of flattrs within the icon popup\nDismissing a notification"
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "present",
+    "observations": "When you use their browser extension, some information is collected but stays on your device. \n\nThis include your browsing data, whether mouse movement happens, clicking, scrolling (including beginning and end scroll positions, as well as page width / height), zooming (including the zoom level) and whether keys are pressed. They don't collect mouse position or which keys are pressed."
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "criminal investigation authorities",
+      "public authorities who prosecute administrative offences",
+      "finance authorities"
+    ],
+    "specificity": "general",
+    "observations": "They appear not to share data with third parties for any reasons other than through legal obligation.",
+    "sourceText": "We will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission. We may only transfer your personal data to third parties without informing you separately beforehand in the following exceptional cases as explained below:\n\nIf required for legal proceedings / investigations, personal data will be transferred to the criminal investigation authorities and, if appropriate, to injured third parties. We will only do this if there are concrete indications of illegal and / or abusive behavior. We are also legally obliged to give certain public authorities information. These are criminal investigation authorities, public authorities who prosecute administrative offences entailing fines, and finance authorities.\nAs part of the further development of our business, it may happen that the structure of Flattr AB changes. The legal structure may be adapted, subsidiaries, business units or components may be created, bought or sold. In such transactions, customer information may be shared with the transmitted part of the company. In the event of a transfer of personal information, Flattr will ensure that it is done in accordance to this Privacy Policy and Swedish data protection laws."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "User profiles are kept for as long as you have an account except:\n\n- number of flattrs, which are retained for a period of six months after you delete your account. \n- unclaimed flattrs are anonymized one month after they're distributed\n- profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers are kept for three months\n- URLs without a recipient are kept for one month after subscription period.\n\nThey delete the profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers after a period of three months. URLs without a recipient are deleted one month after the end of a subscription period.\n\nFinanical transaction data is kept for 3 months\nBasic transaction data for tax purposes is kept for as long as tax law requires\nWeb analytics data is kept for 180 days",
+    "observations": "Fluttr are extremely thorough in detailing when different types of data are deleted.",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "How long do we keep data?\nExtension data:\nDeleted in connection with Extension deletion:\nEvents, unless submitted to us\nFlattrs\nSession data\nDomains (black-/whitelisted)\nEvents, you have actively submitted to us: 35 days after each beta feedback submission.\nDaily deletion after history processing (unless it fails):\nSession\nVisits\nUser profiles\nKept for the term of the agreement, except for\n\nnumber of flattrs, which are retained for a period of six (6) months after deletion of the account. * flattr with a receiving creator or publisher: connection to a Contributor automatically deleted after three (3) months after respective flattr.\nunclaimed flattrs will be anonymized after one (1) month after used in a distribution.\nprofile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers for a period of three (3) months.\nURLs without a recipient for one (1) month after subscription period.\nTransaction data:\nhistoric data for three (3) months\nbasic transaction data for tax purposes in accordance with tax retention periods\nAnalytics data\nFor 180 days.\n\nData sent with your consent:\nIdentifier will be removed three (3) months after submission."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "When subscribing for Fluttr's newsletter, you provide them with your consent.",
+    "contract": "All data you provide Fluttr in connection with the use of Flattr, including your account and when using the Extension.",
+    "legalObligation": "Collection and processing of your personal data may be necessary for compliance with a legal obligation",
+    "legitimateInterests": "Fluttr says, collection and processing may be necessary for the purposes of our legitimate interests and that they will inform you if that's the case."
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "\"You have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement\"",
+    "specificity": "general",
+    "sourceText": "Right to lodge a complaint with a supervisory authority\nYou have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of personal data relating to you infringes the GDPR.\n\n"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
