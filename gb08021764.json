@@ -1,0 +1,142 @@
+{
+  "organisationInformation" : {
+    "name" : "MoneySavingExpert.com",
+    "number" : "08021764",
+    "registrationCountry" : "gb",
+    "description" : "MoneySavingExpert.com is a British consumer finance information website providing information and journalistic articles enabling people to save money"
+  },
+  "organisationUrls" : [
+    "https://www.moneysavingexpert.com"
+  ],
+  "privacyNoticeUrl" : {
+    "url" : "https://www.moneysavingexpert.com/site/privacy-policy/"
+  },
+  "dataProtectionOfficer" : {
+    "present" : "present",
+    "role" : "Chief Risk Officer",
+    "contactInfo" : {
+      "url" : "",
+      "postalAddress" : "MoneySupermarket House, St. David's Park, Ewloe, Flintshire, CH5 3UZ.",
+      "emailAddress" : "DataRequest@moneysavingexpert.com"
+    }
+  },
+  "rights" : {
+    "isMissing" : false,
+    "general" : {
+      "contactInfo" : {
+        "url" : "https://www.moneysavingexpert.com/site/privacy-policy/",
+        "postalAddress" : "MoneySupermarket House, St. David's Park, Ewloe, Flintshire, CH5 3UZ.",
+        "emailAddress" : "DataRequest@moneysavingexpert.com"
+      },
+      "observations" : "If users have any queries relating to their use of personal information or any other related data protection questions it is suggested the user contacts Moneysavingexpert.com"
+    },
+    "access" : {
+      "contactInfo" : {}
+    },
+    "rectification" : {
+      "contactInfo" : {}
+    },
+    "erasure" : {
+      "contactInfo" : {
+        "url" : "https://www.moneysavingexpert.com/site/privacy-policy/",
+        "postalAddress" : "MoneySupermarket House, St. David's Park, Ewloe, Flintshire, CH5 3UZ.",
+        "emailAddress" : "DataRequest@moneysavingexpert.com"
+      },
+      "observations" : ""
+    },
+    "restrictProcessing" : {
+      "contactInfo" : {
+        "url" : "",
+        "postalAddress" : "",
+        "emailAddress" : ""
+      },
+      "observations" : "Individuals have the right to restrict our use of their information: including the right to 'block' MoneySavingExpert.com from using their personal information or limit the way in which they can use it."
+    },
+    "dataPortability" : {
+      "contactInfo" : {
+        "url" : "",
+        "postalAddress" : "",
+        "emailAddress" : ""
+      },
+      "observations" : "Individuals have the right to data portability, which is the right to request that they move, copy or transfer individuals personal information.\n"
+    },
+    "object" : {
+      "contactInfo" : {
+        "url" : "",
+        "postalAddress" : "",
+        "emailAddress" : ""
+      },
+      "observations" : "Individuals have the right to object to their use of individual's personal information including where they use it for their legitimate interests, or where they use individuals personal information to carry out profiling to inform their market research and user demographics. If individuals raise an objection they will stop processing individuals personal information unless very exceptional circumstances apply, in which case they will let individuals know why they're continuing to process individuals personal information.\n"
+    },
+    "automatedDecisionMaking" : {
+      "contactInfo" : {}
+    }
+  },
+  "dataCategoriesCollected" : {
+    "isMissing" : false,
+    "list" : [
+      "bank_account_details",
+      "date_of_birth",
+      "email_address",
+      "gender",
+      "online_activity",
+      "postal_address",
+      "telephone_number"
+    ],
+    "sourceText" : "2.\tPersonal information we collect\n\nWhen you register for the MSE Money Tips email you must provide us with your email address\nWhen you save your budget using our BudgetBrain tool we may collect your email address\nWhen you register to use our personalised tools, including Cheap Energy Club, Credit Club, Broadband Unbundled, eligibility tools and any other personalised tools that we may launch from time to time that we operate or are operated on our behalf (\"MSE Personalised Tools\"), you may provide us with: \n\nYour personal details, including without limitation your name, postal and billing addresses, email addresses, phone numbers, date of birth, title, marital status, dependants, employment status, income and primary bank\nWhen you register for certain products via forms on our Site you may provide us with:\n\nYour personal details, including your email address, name and postal address\nWhen you register as a participant in our Forum you may provide us with your email address and IP address\n\nWhen you visit our Site we may collect information about your online browsing behaviour and any devices you have used to access our Site (including your IP address, browser type and mobile device identifiers)"
+  },
+  "unusualProcessingPurposes" : {
+    "isMissing" : false,
+    "present" : "not_present",
+    "observations" : "Their grounds for processing your personal information are as follows:\n\nConsent – Where necessary they will only collect and process personal information if individuals have consented for them to do so. For example, when individuals register to use Cheap Energy Club, they will use individuals personal information to provide specific services.\n\nLegitimate Interests – they may use and process some personal information where they have sensible and legitimate business grounds for doing so.  Their legitimate interests for processing personal information are:\n\nto enable individuals to access and use the Site;\n\nto communicate with individuals about their use of the MSE Personalised Tools. For example, sending a confirmation email of individuals search results after they. have used the MSE Personalised Tools. Unless individuals have agreed, this won't include communications about consumer news, other MSE Personalised Tools, other MoneySaving tips, products and exclusives\n\nto improve their Site. They may use personal information to undertake demographic segmentation and generate profiling information to help them understand what individuals might be interested in and for market research. \n"
+  },
+  "thirdParties" : {
+    "isMissing" : false,
+    "list" : [
+      "Experian Ltd",
+      "Capital One Plc",
+      "Financial Conduct Authority"
+    ],
+    "specificity" : "specific",
+    "observations" : "MoneySavingExpert.com lists companies it shares data with by name and includes a description of why it may need to share that information.\n",
+    "sourceText" : "The personal information that we collect when you use our Site is confidential. We may disclose your personal information to a third party in the following circumstances:\n\n7.1. Our service providers – as described in sections 3.5 to 3.7 and 6 above, and for the purposes of providing certain services and enabling your interaction with the Site, such as your use of MSE Personalised Tools. These include:\n\n7.1.1. Experian Ltd (\"Experian\") – we operate Credit Club in conjunction with UK credit reference agency Experian. By submitting your details to Credit Club, you are consenting to them being passed to Experian and to us letting you know every time your Experian Credit Score or Experian Credit Report has been updated. For further information about how your details will be used, please see the rest of our Privacy Policy and Experian's terms and conditions;\n\n7.1.2. Capital One Plc (\"Capital One\") and HD Decisions, an Experian business (\"HD\") – we operate the eligibility tools in conjunction with Capital One and HD which partners with the following UK credit reference agencies: Callcredit Limited (\"Callcredit\"), Equifax Limited (\"Equifax\") and Experian from time to time. We will use the personal information you submit to enable your interaction with our eligibility tools. If you use our eligibility tools a credit report will be generated by carrying out a 'soft' credit check. 'Soft' credit checks allow you to get quotes without affecting your creditworthiness. The 'soft' credit checks will be used by Capital One to match against their lending criteria and HD to match against other providers' lending criteria. Capital One and HD's information is then used to let you know your percentage chances of successfully obtaining a credit card or loan. Note that your credit report will not be provided to you directly and we will not receive it either. By submitting your details, you are consenting to Capital One and HD passing them to Callcredit, Equifax and/or Experian. For further information about how your details will be used, please see the rest of our Privacy Policy and Capital One's terms and conditions and HD's terms and conditions.\n\nOur technical partners will not be permitted to use your personal information for their own marketing purposes unless you have consented to receive marketing from them on another site, as we won't ask for your permission to do this on our Site.\n\n7.2. If required or permitted to do so by law;\n\n7.3. If required to do so by any court, the Financial Conduct Authority or any other applicable regulatory, compliance, governmental or law enforcement agency;\n\n7.4. If necessary in connection with legal proceedings or potential legal proceedings;\n\n7.5. If ownership of all or part of our Site is transferred, in which case any purchaser would only be entitled to use that information in a way consistent with this Privacy Policy; and\n\n7.6. In line with our own Terms and Conditions (in particular section 8 regarding reporting offending Forum users to their ISP or to the authorities if their actions appear to amount to a crime).\n\nWe are part of the MoneySupermarket Group comprising the following brands: MoneySupermarket.com, TravelSupermarket.com and MoneySupermarket Go, and all operate in the UK. MoneySavingExpert.com's specific way of operating is governed by the legally binding Editorial Code. This includes that:\n\n6.1. Any personal information about you, including contact details (as opposed to aggregated or anonymised user behaviour data), we gather while operating our Site shall not be tracked or otherwise used by MoneySupermarket Group without your informed consent and the express permission of MoneySavingExpert.com's Executive Chairman (except for internal reporting, accounting or compliance purposes);\n\n6.2. If you give separate informed consent for your personal information to be shared across the MoneySupermarket Group it may then be used to speed up form filling, or to personalise or improve your experience if you then go to those websites;\n\n6.3. If we send you directly to MoneySupermarket Group's websites or you visit them independently, your personal information shall be subject to those websites' privacy policies; and\n\n6.4. Any of your personal information, including contact details, gathered while operating our Site shall not be sold to third parties or used for the purposes of unsolicited communications from other parts of the MoneySupermarket Group.\n"
+  },
+  "retentionRules" : {
+    "isMissing" : false,
+    "summary" : "Unless a longer retention period is required or permitted by law, they will only hold personal information on their systems for the period necessary to fulfil the purposes outlined in their Privacy Policy or until an individual request it is deleted. \n\nIf, individuals register for any of their services, and do not use them for a reasonable time (which may vary depending on the service(s) the individual has registered for) they may contact the indiviudual to ensure they're still happy to receive communications.\n\nIf they delete personal information it may persist on back-up or archival media for legal, tax or regulatory purposes.",
+    "specificityCategory" : "general",
+    "specificityTime" : "general",
+    "sourceText" : "Unless a longer retention period is required or permitted by law, we will only hold your personal information on our systems for the period necessary to fulfil the purposes outlined in this Privacy Policy or until you request it is deleted. If, having registered for any of our services, you do not use them for a reasonable time (which may vary depending on the service(s) you've registered for) we may contact you to ensure you're still happy to receive communications from us. Even if we delete your personal information it may persist on back-up or archival media for legal, tax or regulatory purposes."
+  },
+  "lawfulBases" : {
+    "isMissing" : false,
+    "consent" : "Consent – Where necessary we will only collect and process your personal information if you have consented for us to do so. For example, when you register to use Cheap Energy Club, we will use your personal information to provide the services detailed at section 3.4.1.\n",
+    "legitimateInterests" : "Legitimate Interests – We may use and process some of your personal information where we have sensible and legitimate business grounds for doing so. Under European privacy laws there is a concept of \"legitimate interests\" as a justification for processing your personal information. Our legitimate interests for processing your personal information are:\n\nto enable you to access and use the Site;\nto communicate with you about your use of the MSE Personalised Tools. For example, sending you a confirmation email of your search results after you have used the MSE Personalised Tools. Unless you have agreed, this won't include communications about consumer news, other MSE Personalised Tools, other MoneySaving tips, products and exclusives which we think you may be interested in; and\n\nto improve our Site. We may use your personal information to undertake demographic segmentation and generate profiling information to help us understand what you might be interested in and for market research. We are always working to make a better Site for you and using your personal information in this way helps us to do this."
+  },
+  "securityStandards" : {
+    "present" : "present",
+    "url" : "https://www.moneysavingexpert.com/site/privacy-policy/",
+    "observations" : "MoneySavingExpert say that keeping information about individuals secure is very important to them and they therefore store and process personal information in accordance with the high standards required under data protection legislation. \n\nFrom time to time and for operational reasons the personal information they collect may be transferred to and stored in countries outside of the European Economic Area (\"EEA\"). An individuals information may also be processed by some of their service providers which operate outside the EEA. \n\nThey note that different countries have different data protection and security laws and some of these do not offer the same level of protection as the UK.\n\nWhen they appoint their service providers to help them provide products and services (which may include some based in the USA), they say they take care to ensure that they have appropriate security measures in place.\n\n11.2. We do our best to keep the information you disclose to us secure. However, we can't guarantee its security. By using our Site you accept the inherent risks of providing information online and will not hold us responsible for any breach of security.",
+    "specificity" : "general"
+  },
+  "dataProcessingAddendum" : {},
+  "privacyShield" : {},
+  "dataProtectionRegister" : {
+    "present" : "not_present"
+  },
+  "automatedDecisionMaking" : {
+    "usesAutomatedDecisionMaking" : "unknown",
+    "observations" : "There isn't mention of how automated decision making is used in the privacy policy.",
+    "specificity" : "general"
+  },
+  "complaintInformation" : {
+    "present" : "present",
+    "specificity" : "specific",
+    "sourceText" : "If you're not satisfied with the way any complaint you make in relation to your personal information is handled by us then you may be able to refer your complaint to the relevant data protection regulator. In the UK, this is the Information Commissioner's Office."
+  },
+  "presentation" : {
+    "plainLanguage" : "pass",
+    "easyToFind" : "pass",
+    "easyToFindInside" : "pass"
+  }
+}
