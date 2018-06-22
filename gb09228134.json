@@ -1,0 +1,125 @@
+{
+  "organisationInformation": {
+    "name": "FUNDINGXCHANGE LIMITED",
+    "number": "09228134",
+    "registrationCountry": "gb",
+    "description": "Open banking service"
+  },
+  "organisationUrls": [
+    "https://www.fundingxchange.co.uk"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.fundingxchange.co.uk/terms/privacy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "emailAddress": "support@fundingxchange.co.uk"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "support@fundingxchange.co.uk",
+        "telephoneNumber": "02036959206"
+      },
+      "observations": "The policy provides an overview of rights under the GDPR and indicates that data subjects can exercise these rights using their support email address or local London telephone number."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "credit_history",
+      "email_address",
+      "identity_documents",
+      "income",
+      "postal_address",
+      "telephone_number"
+    ],
+    "sourceText": "We only collect personal data relevant to making and evaluating Finance Requests, issuing Indicative Offers via the Service, the administration of Accounts and the enforcement of Customer Agreements. Such personal data is given directly by you and by people or companies authorised by you to act on your behalf, and it may also include information obtained from those third parties authorised by you to share such information with us, including:\n\n(a)  information that you provide by filling in forms on the Service, posting User Content or requesting further services or reporting a problem;\n\n(b) information about your financial interests or financial position;\n\n(c)  your contact details, including your e-mail address, home address and telephone numbers;\n\n(d) details about your business, which may include details of Directors, Shareholders or Persons of Significant Control. This data will be taken from the open registers at Companies House.\n\n(e) copies of passports or other identification evidence that you provide for anti-money laundering and anti-fraud purposes;\n\n(f)  records of telephone calls and any correspondence between you and us;\n\n(g)  records of any surveys that you may be asked to complete for research purposes (although you do not have to respond to them);\n\n(h)  details of your visits to the Service and the resources that you access (see also our Cookie Policy);\n\n(i)  credit checks from referencing agencies to assess creditworthiness of you and your Business."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Credit reference agencies",
+      "Agents and subcontractors to operate the Funding Xchange service",
+      "Organisations providing centralised application matching service for anti-fraud",
+      "Regulatory and taxation authorities",
+      "Other third parties with user consent or upon request",
+      "Law enforcement or related bodies if under a duty to disclose",
+      "Companies involved in mergers and acquisitions",
+      "Marketing analytics companies"
+    ],
+    "specificity": "general",
+    "sourceText": "We will keep your personal data confidential and only disclose it to others for the purposes explained when you applied, as well as in the following specific circumstances:\n\n(a)  to a credit reference agency to check your identity and for Anti-Money Laundering purposes (it will also keep a record of your request and use it whenever anyone applies to be authenticated in your name);\n\n(b)  to inform credit reference agencies that you have an account and how you run that account;\n\n(c)  to our agents and subcontractors to use for the purpose of operating the Service, including customer support and providing services to us;\n\n(d)  to investigate, prevent or detect fraud or carry out checks against money laundering;\n\n(e)  to organisations providing a centralised application matching service which they collect from and about credit applications, for the purpose of preventing and detecting fraud;\n\n(f)  for audit purposes and to meet obligations to any relevant regulatory authority or taxing authority;\n\n(g)  if you request us, or give your permission for us to do so;\n\n(h)  if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply any agreements to which you are a party; or to protect our rights, property, or safety, or that of our customers or others (which includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction);\n\n(i)  in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or\n\n(j)  if substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets;"
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Funding Xchange note that (unless required by law) they will only hold personal information for as long as is necessary to fulfil the purposes outlined in the policy or until the data subject requests deletion.",
+    "specificityCategory": "general",
+    "specificityTime": "general",
+    "sourceText": "Unless a longer retention period is required or permitted by law, we will only hold your personal information on our systems for the period necessary to fulfil the purposes outlined in this Privacy Policy or until you request it is deleted.\n\nWith your consent, the information that we use for marketing purposes will be kept with us until you notify us that you no longer wish to receive this information. When you receive marketing communications from us you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "in some circumstances, we may ask for your consent to process your information in a particular way. To the extent that we are processing your information based on your consent, you will have the right to withdraw your consent at any time. You can do this by contacting us at support@fundingxchange.co.uk at any time.",
+    "contract": "in order to perform obligations that we undertake in providing the Service, or in order to take steps at your request to enter into a contract with us, it will be necessary for us to process your personal data;",
+    "legalObligation": "we are subject to certain legal requirements which may require us to process your information. We may also be obliged by law to disclose your information to a regulatory body or law enforcement agency;",
+    "legitimateInterests": "either we, or a third party, will need to process your information for the purposes of our (or a third party's) legitimate interests, provided we have established that those interests are not overridden by your rights and freedoms, including your right to have your information protected. Our legitimate interests include ensuring that our operations are conducted in an appropriate and efficient manner, responding to requests and enquiries from you or a third party, optimising our website and customer experience and informing you about our products and services;",
+    "observations": "The policy clearly lays out the four main legal bases which Funding Xchange relies on for the processing of data."
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "observations": "Funding Xchange note that they \"take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy\" but do not provide additional information on their methods of keeping personal data secure.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "\"Funding Xchange use elements of automated decisioning for the purpose of facilitating Indicative Offers via our online platform.\"",
+    "specificity": "specific",
+    "sourceText": "Funding Xchange use elements of automated decisioning for the purpose of facilitating Indicative Offers via our online platform. You have the right to object to this kind of automated processing of your information. If you wish to do so, please contact one of our Business Funding Specialists to discuss your request further and determine whether there are other options available to you."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "The organisation offers a specific complaints email address at complaints@fundingxchange.co.uk, which data subjects are directed to in the first instance.\n\nFor further complaints, customers are directed to complain to the ICO. A link to the ICO website is provided.",
+    "specificity": "specific",
+    "sourceText": "If you wish to raise a complaint on how we have handled your personal data, you can contact us to have the matter investigated.\n\nEmail - complaints@fundingxchange.co.uk\n\nPhone - 020 3695 9206\n\nIf you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office https://ico.org.uk"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
