@@ -1,136 +1,138 @@
 {
-    "organisationInformation": {
-      "name": "Squareup International Ltd.",
-      "number": "583287",
-      "registrationCountry": "ie",
-      "description": "Payment initiation service provider"
-    },
-    "organisationUrls": [],
-    "privacyNoticeUrl": {
-      "url": "https://squareup.com/gb/legal/privacy"
-    },
-    "dataProtectionOfficer": {
-      "present": "present",
-      "role": "Data Protection Officer",
-      "contactInfo": {
-        "postalAddress": "FAO: Data Protection Officer, Squareup International Ltd, Fumbally Square, Fumbally Lane, Dublin 8, Ireland",
-        "emailAddress": "privacy-eu@squareup.com"
-      }
-    },
-    "rights": {
-      "isMissing": false,
-      "general": {
-        "contactInfo": {
-          "emailAddress": "privacy-eu@squareup.com"
-        },
-        "observations": "Square appears to only provide this email address for the purposes of exercising data protection rights.\n\nThe policy also indicates that Square may need to take steps to verify a customer's identity before allowing them to exercise their rights."
-      },
-      "access": {
-        "contactInfo": {}
-      },
-      "rectification": {
-        "contactInfo": {}
-      },
-      "erasure": {
-        "contactInfo": {}
-      },
-      "restrictProcessing": {
-        "contactInfo": {}
-      },
-      "dataPortability": {
-        "contactInfo": {}
-      },
-      "object": {
-        "contactInfo": {}
-      },
-      "automatedDecisionMaking": {
-        "contactInfo": {}
-      }
-    },
-    "dataCategoriesCollected": {
-      "isMissing": false,
-      "list": [
-        "bank_account_details",
-        "bank_transactions",
-        "credit_history",
-        "device_information",
-        "email_address",
-        "identity_documents",
-        "location",
-        "names",
-        "postal_address",
-        "social_security_number",
-        "telephone_number"
-      ],
-      "sourceText": "Information You Provide to Access our Services\nWe collect information you provide when you apply or sign up for a Square account or other Services, go through our identity or account verification process, authenticate into your account, communicate with us, answer our surveys, upload content, or otherwise use the Services.\n\nWe collect the following information you share with us when you use our Services. This information is necessary for us to provide the Services to you and to allow us comply with applicable regulations, including but not limited to anti-money laundering and tax laws. Without it, we will not be able to provide you with the requested Services. The information that we collect from you includes:\n\nThe information that we collect from you includes:\n* Identification information. Your name; email address; postal address; phone number; photograph; birthdate; passport, driver’s licence, taxpayer identification, or other government-issued identification information; other historical, contact, and demographic information; signature, and authentication credentials (for example, information you use to login to your account), including IP address, when you apply or sign up for a Square account or other Services.\n* Financial information. Information such as bank account, payment card numbers, credit reports and other relevant publicly available information.\n* Tax information. Withholding allowances and tax filing status.\n* Transaction information. When you use our Services to make, accept, request, or record payments, we collect information about when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions.\n\nInformation You Provide to Enhance Your Experience\nYou can choose to provide us with additional information in order to obtain a better user experience when using our Services. This additional information will be processed with your consent and/or to provide you with services you request:\n\n* Other information you provide. We collect information that you voluntarily provide to us, including your survey responses; participation in contests, promotions, or other prospective seller marketing forms or devices; suggestions for improvements; referrals; or any other actions performed on the Services.\n\n\nInformation We Automatically Collect From Your Use of our Services\nWe automatically collect information about you and the devices you use to access the Services, such as your computer, mobile phone, or tablet to pursue our legitimate interest, in particular:\n* to provide, improve, develop and protect our content, products services and applications;\n* to personalise our website, products and Services for you;\n* to use third parties to check the validity of the sort code, account number and card number you submit in order to detect and prevent fraud;\n* to monitor accounts to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable laws.\n\nThe information we collect includes:\n* Geolocation Information. The location of your device, including your IP address, device language, and location of your network provider. You can disable collection of location information by changing the preferences on your mobile device or uninstalling Square Services from your device.\n* Device Information. Information about your device, including your hardware model, operating system and version, unique device identifier, mobile network information, and information about the device’s interaction with our Services.\n* Use Information. Information about how you use our Services, including your access time, “log-in” and “log-out” information, browser type and language, country and language setting on your device, Internet Protocol (“IP”) address, the domain name of your Internet service provider, other attributes about your browser, mobile device and operating system, any specific page you visit on our platform, content you view, features you use, the date and time of your visit to or use of the Services, your search terms, the website you visited before you visited or used the Services, data about the way you interact with our Services, and other clickstream data.\n* Business Information. Information about products and services you sell (including inventory, pricing and other data) and other information you provide about you or your business (including appointment, staffing availability, employee and contact data).\n* Employee Information. Information you collect from your employees, for example if you are an employer using Employee Management (including hours worked and other timecard data).\n* Customer Information. Information you collect from your customers, including email address, phone number, payment information or other information.\n\nInformation We Collect From Other Sources\nWe collect information from other sources and combine that with information we collect from you. We do not control, supervise or respond for how the third parties providing your information process your personal data, and any information request regarding the disclosure of your personal information to us should be directed to such third parties.\n\nThe information we collect about you from third parties includes:\n* Identity Verification. Information from third-party verification services (e.g. credit reference agencies, identity verification agencies, social media agencies (if you authorise us to do so) and through companies which provide third party analytics (see section on Cookies and Other Technologies)), credit bureaus, financial institutions, mailing list providers, and other publicly available sources. In some circumstances, where lawful, this information can include your government-issued identification information. We do this identity verification check for the purpose of anti-money laundering, identity verification, and fraud detection and prevention.\n* Background Information. To the extent permitted by applicable laws, we can obtain background check reports from public records of criminal convictions and arrest records. We can use your information, including your full name, government-issued identification number, and date of birth, to obtain such reports.\n* Credit, Compliance and Fraud. We can collect information about you from third parties in connection with any credit investigation, credit eligibility, identity or account verification process, fraud detection, or collection procedure, or as may otherwise be required by applicable law. This includes, without limitation, the receipt and exchange of account or credit-related information with any credit reporting agency or credit bureau, where lawful, and any person or corporation with whom you have had, currently have, or may have a financial relationship, including without limitation past, present, and future places of employment, financial institutions, and personal reporting agencies."
-    },
-    "unusualProcessingPurposes": {
-      "isMissing": false,
-      "present": "not_present"
-    },
-    "thirdParties": {
-      "isMissing": false,
-      "list": [
-        "With other users of our services with whom you interact",
-        "With our group companies including our parent company and other affiliates",
-        "Fraud prevention services",
-        "Identity verification services",
-        "Fee collection services",
-        "Financial institutions",
-        "Payment networks",
-        "Payment card associations",
-        "Credit bureaus",
-        "Partners providing services on Square's behalf",
-        "Other entities (including First Data) in connection with services",
-        "With third parties that run advertising campaigns, contests, special offers, or other events or activities",
-        "Other entities for the purposes of mergers and acquisitions",
-        "Government entities for the purposes of complying with applicable laws, regulations or legal processes",
-        "Other third parties with a customer's consent",
-        "Other third parties (in aggregated or anonymised form)"
-      ],
-      "specificity": "general",
-      "observations": "Square mentions that some data is shared with other \"third parties\" for the purposes of advertising and running campaigns. It does not indicate that this data is aggregated or anonymised.",
-      "sourceText": "We share information about you as follows:\n\nWith Other Users of our Services with Whom You Interact\n- With other users of our Services with whom you interact through your own use of our Services. This is necessary to provide our Services to you and fulfil our obligations in our Terms of Service, as well as in our legitimate interest to do so. For example, we share information when you make or accept a payment, appointment or money transfer using our Services.\n\nWith our Affiliates\n- With our group companies, including our parent company, Square, Inc., and other affiliates, for the purposes outlined above. This is necessary to provide our Services to you and fulfil our obligations in our Terms of Service, and in our legitimate interest to do so.\n\nWith Third Parties\n- With third parties to provide, maintain, and improve our Services, including service providers who access information about you to perform services on our behalf (e.g., fraud prevention, identity verification, and fee collection services), as well as financial institutions, payment networks, payment card associations, credit bureaus, partners providing services on Square’s behalf, and other entities (including First Data) in connection with Services.\n- With third parties that run advertising campaigns, contests, special offers, or other events or activities in connection with our Services.\n\nBusiness Transfers and Corporate Changes\n- Because it is in our legitimate interest to do so, we reserve the right to disclose and transfer all information related to the Services, including personal information:\n    * To a subsequent owner, co-owner, or operator of one or more of the Services; or\n    * In connection with (including, without limitation, during the negotiation or due diligence process of) a corporate merger, consolidation, or restructuring; the sale of substantially all of our stock and/or assets; financing, acquisition, divestiture, or dissolution of all or a portion of our business; or other corporate change.\n\nSafety and Compliance with Law\n- If we believe that disclosure is reasonably necessary (i) to comply with any applicable law, regulation, legal process or governmental request (e.g., from tax authorities, law enforcement agencies, etc.); (ii) to enforce or comply with our General Terms or other applicable agreements or policies; (iii) to protect our or our customers’ rights or property or the security or integrity of our Services; or (iv) to protect us, users of our Services or the public from harm, fraud, or potentially prohibited or illegal activities\n\nWith your Consent\n- With your consent. For example:\n    * At your direction or as described at the time you agree to share;\n    * When you authorise a third party application or website to access your information.\n\nAggregated and Anonymised Information\n- We also share (within our group of companies or with third parties) aggregated and anonymised information that does not specifically identify you or any individual user of our Services."
-    },
-    "retentionRules": {
-      "isMissing": false,
-      "summary": "Square indicate that they generally retain information \"only as long as reasonably necessary to provide you the Services or to comply with applicable law\".\n\nThe policy notes that there are other situations in which data must be retained for longer to comply with legal or regulatory obligations.",
-      "specificityCategory": "general",
-      "specificityTime": "general"
-    },
-    "lawfulBases": {
-      "isMissing": true,
-      "consent": "- Marketing of our Services;\n- Communicating with you about opportunities, products, services, contests, promotions, discounts, incentives, surveys, and rewards offered by us and select partners;",
-      "contract": "- Determining whether the Services are available in your country\n- Processing or recording payment transactions or money transfers, and otherwise providing you with the Square products and features you choose to use\n- Displaying historical transaction or appointment information\n- Delivering the information and support you request, including technical notices, security alerts, and support and administrative messages including to resolve disputes, collect fees, and provide assistance for problems with our Services or your Square account\n- Enforcing our Terms of Service or other applicable agreements or policies\n- Verifying your identity (e.g., through government-issued identification information)\n- Fulfilling any other purpose disclosed to you in connection with our Services",
-      "legalObligation": "- Investigating, detecting and preventing or reporting fraud, misrepresentations, security breaches or incidents, other potentially prohibited or illegal activities or to otherwise help protect your account, including to dispute chargebacks on your behalf\n- Protecting our, our customers’, or your customers’ rights or property, or the security or integrity of our Services\n- Verifying your identity (e.g., through government-issued identification information)\n- Complying with any applicable laws or regulations, or in response to lawful requests for information from the government or through legal process",
-      "legitimateInterests": "- Providing, maintaining and improving our Services\n- Developing new products and Services\n- Improving, personalising and facilitating your use of our Services\n- Measuring, tracking and analysing trends and usage in connection with your use or the performance of our Services\n- Sending you information we think you may find useful or which you have requested from us about our products and services\n- Conducting surveys and collecting feedback about our Services\n- Protecting our, our customers’, or your customers’ rights or property, or the security or integrity of our Services\n- Verifying your identity (e.g., through government-issued identification information)\n- Contacting you to resolve disputes, collect fees and provide assistance with our Services"
-    },
-    "securityStandards": {
-      "present": "present",
-      "url": "https://squareup.com/gb/en/security",
-      "observations": "Square provide a comprehensive breakdown of the technical and operational security measures they put in place to safeguard customer data.",
-      "specificity": "specific"
-    },
-    "dataProcessingAddendum": {
-      "present": "not_present"
-    },
-    "privacyShield": {},
-    "dataProtectionRegister": {},
-    "automatedDecisionMaking": {
-      "usesAutomatedDecisionMaking": "present",
-      "observations": "Square offer a breakdown of the situations in which automated decision making is used - namely: identity verification, fraud and crime detection, product development and creation, and marketing.",
-      "specificity": "specific",
-      "sourceText": "Some of our processes for how we use your information can involve profiling, automated processing and automated decisions. We need to do this to meet our own contractual obligations, to comply with applicable law (i.e., for fraud prevention purposes or where we are have a good faith belief we are under a legal or regulatory obligation to do so), and as it’s in our legitimate business interests to engage in such automated processing. For example:\n\n* Identity verification: We engage in profiling and automated processing, both directly and through the use of third party identification verification services, to verify your identity (so we can confirm you appear to be who you say you are). We set out more information on this above and how this affects you. If we cannot identify you, we may not be able to provide the Services to you. This identity verification check will be based on the information you provide to us and the results we get for the third party verification services (which is limited to the result of the check).\n* Fraud and crime detection and prevention: We have developed processes, for the purposes set out above, to check that our Services are not being used for fraudulent purposes. We will consider information you provide to access our Services, information you provide to enhance your experience, information we automatically collect from your use of our Services, and information we collect from other sources. We regularly check that our processes are up to date and implemented robustly and fairly to ensure that we can deliver the Services to you and that they are safe to use. If we believe in good faith that our fraud and crime prevention processing detects activities or use of our Services which could be used for fraudulent or criminal activities, we may not be able to provide the Services to you.\n* Product development and creation: We can process the information you provide to us, the information we collect from your use of our Services and the information we obtain from third parties automatically to improve our products and develop new products. The information we use will help us to understand what is important to our users, and how we can create better products and services.\n* Marketing: With your consent we can process the information you provide to us, the information we collect from your use of our Services and the information we obtain from third parties automatically to market new products and services to you by using cookies to serve ads to you or by delivering adverts in our applications or on our websites."
-    },
-    "complaintInformation": {
-      "present": "present",
-      "observations": "The policy contains some information about making complaints to Square and how they will be handled, and contains a link to Europa.EU's page with contact details for the relevant data protection authorities in EU member states.",
-      "specificity": "specific",
-      "sourceText": "If you have any questions or concerns regarding our notice or if you believe our notice or applicable laws relating to the protection of your personal information have not been respected, you can file a complaint with our Privacy Department listed above and we will respond to let you know who will be handling your matter and when you can expect a further response. We can request additional details from you regarding your concerns and may need to engage or consult with other parties in order to investigate and address your issue. We will keep records of your request and any resolution.\n​\nIf your request or concern is not satisfactorily resolved by us, you can approach your local data protection authority (see http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html)."
-    },
-    "presentation": {
-      "plainLanguage": "pass",
-      "easyToFind": "pass",
-      "easyToFindInside": "fail"
+  "organisationInformation": {
+    "name": "Squareup International Ltd.",
+    "number": "583287",
+    "registrationCountry": "ie",
+    "description": "Payment initiation service provider"
+  },
+  "organisationUrls": [
+    "https://squareup.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://squareup.com/gb/legal/privacy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "FAO: Data Protection Officer, Squareup International Ltd, Fumbally Square, Fumbally Lane, Dublin 8, Ireland",
+      "emailAddress": "privacy-eu@squareup.com"
     }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "privacy-eu@squareup.com"
+      },
+      "observations": "Square appears to only provide this email address for the purposes of exercising data protection rights.\n\nThe policy also indicates that Square may need to take steps to verify a customer's identity before allowing them to exercise their rights."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "credit_history",
+      "device_information",
+      "email_address",
+      "identity_documents",
+      "location",
+      "names",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "sourceText": "Information You Provide to Access our Services\nWe collect information you provide when you apply or sign up for a Square account or other Services, go through our identity or account verification process, authenticate into your account, communicate with us, answer our surveys, upload content, or otherwise use the Services.\n\nWe collect the following information you share with us when you use our Services. This information is necessary for us to provide the Services to you and to allow us comply with applicable regulations, including but not limited to anti-money laundering and tax laws. Without it, we will not be able to provide you with the requested Services. The information that we collect from you includes:\n\nThe information that we collect from you includes:\n* Identification information. Your name; email address; postal address; phone number; photograph; birthdate; passport, driver’s licence, taxpayer identification, or other government-issued identification information; other historical, contact, and demographic information; signature, and authentication credentials (for example, information you use to login to your account), including IP address, when you apply or sign up for a Square account or other Services.\n* Financial information. Information such as bank account, payment card numbers, credit reports and other relevant publicly available information.\n* Tax information. Withholding allowances and tax filing status.\n* Transaction information. When you use our Services to make, accept, request, or record payments, we collect information about when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions.\n\nInformation You Provide to Enhance Your Experience\nYou can choose to provide us with additional information in order to obtain a better user experience when using our Services. This additional information will be processed with your consent and/or to provide you with services you request:\n\n* Other information you provide. We collect information that you voluntarily provide to us, including your survey responses; participation in contests, promotions, or other prospective seller marketing forms or devices; suggestions for improvements; referrals; or any other actions performed on the Services.\n\n\nInformation We Automatically Collect From Your Use of our Services\nWe automatically collect information about you and the devices you use to access the Services, such as your computer, mobile phone, or tablet to pursue our legitimate interest, in particular:\n* to provide, improve, develop and protect our content, products services and applications;\n* to personalise our website, products and Services for you;\n* to use third parties to check the validity of the sort code, account number and card number you submit in order to detect and prevent fraud;\n* to monitor accounts to prevent, investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable laws.\n\nThe information we collect includes:\n* Geolocation Information. The location of your device, including your IP address, device language, and location of your network provider. You can disable collection of location information by changing the preferences on your mobile device or uninstalling Square Services from your device.\n* Device Information. Information about your device, including your hardware model, operating system and version, unique device identifier, mobile network information, and information about the device’s interaction with our Services.\n* Use Information. Information about how you use our Services, including your access time, “log-in” and “log-out” information, browser type and language, country and language setting on your device, Internet Protocol (“IP”) address, the domain name of your Internet service provider, other attributes about your browser, mobile device and operating system, any specific page you visit on our platform, content you view, features you use, the date and time of your visit to or use of the Services, your search terms, the website you visited before you visited or used the Services, data about the way you interact with our Services, and other clickstream data.\n* Business Information. Information about products and services you sell (including inventory, pricing and other data) and other information you provide about you or your business (including appointment, staffing availability, employee and contact data).\n* Employee Information. Information you collect from your employees, for example if you are an employer using Employee Management (including hours worked and other timecard data).\n* Customer Information. Information you collect from your customers, including email address, phone number, payment information or other information.\n\nInformation We Collect From Other Sources\nWe collect information from other sources and combine that with information we collect from you. We do not control, supervise or respond for how the third parties providing your information process your personal data, and any information request regarding the disclosure of your personal information to us should be directed to such third parties.\n\nThe information we collect about you from third parties includes:\n* Identity Verification. Information from third-party verification services (e.g. credit reference agencies, identity verification agencies, social media agencies (if you authorise us to do so) and through companies which provide third party analytics (see section on Cookies and Other Technologies)), credit bureaus, financial institutions, mailing list providers, and other publicly available sources. In some circumstances, where lawful, this information can include your government-issued identification information. We do this identity verification check for the purpose of anti-money laundering, identity verification, and fraud detection and prevention.\n* Background Information. To the extent permitted by applicable laws, we can obtain background check reports from public records of criminal convictions and arrest records. We can use your information, including your full name, government-issued identification number, and date of birth, to obtain such reports.\n* Credit, Compliance and Fraud. We can collect information about you from third parties in connection with any credit investigation, credit eligibility, identity or account verification process, fraud detection, or collection procedure, or as may otherwise be required by applicable law. This includes, without limitation, the receipt and exchange of account or credit-related information with any credit reporting agency or credit bureau, where lawful, and any person or corporation with whom you have had, currently have, or may have a financial relationship, including without limitation past, present, and future places of employment, financial institutions, and personal reporting agencies."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "With other users of our services with whom you interact",
+      "With our group companies including our parent company and other affiliates",
+      "Fraud prevention services",
+      "Identity verification services",
+      "Fee collection services",
+      "Financial institutions",
+      "Payment networks",
+      "Payment card associations",
+      "Credit bureaus",
+      "Partners providing services on Square's behalf",
+      "Other entities (including First Data) in connection with services",
+      "With third parties that run advertising campaigns, contests, special offers, or other events or activities",
+      "Other entities for the purposes of mergers and acquisitions",
+      "Government entities for the purposes of complying with applicable laws, regulations or legal processes",
+      "Other third parties with a customer's consent",
+      "Other third parties (in aggregated or anonymised form)"
+    ],
+    "specificity": "general",
+    "observations": "Square mentions that some data is shared with other \"third parties\" for the purposes of advertising and running campaigns. It does not indicate that this data is aggregated or anonymised.",
+    "sourceText": "We share information about you as follows:\n\nWith Other Users of our Services with Whom You Interact\n- With other users of our Services with whom you interact through your own use of our Services. This is necessary to provide our Services to you and fulfil our obligations in our Terms of Service, as well as in our legitimate interest to do so. For example, we share information when you make or accept a payment, appointment or money transfer using our Services.\n\nWith our Affiliates\n- With our group companies, including our parent company, Square, Inc., and other affiliates, for the purposes outlined above. This is necessary to provide our Services to you and fulfil our obligations in our Terms of Service, and in our legitimate interest to do so.\n\nWith Third Parties\n- With third parties to provide, maintain, and improve our Services, including service providers who access information about you to perform services on our behalf (e.g., fraud prevention, identity verification, and fee collection services), as well as financial institutions, payment networks, payment card associations, credit bureaus, partners providing services on Square’s behalf, and other entities (including First Data) in connection with Services.\n- With third parties that run advertising campaigns, contests, special offers, or other events or activities in connection with our Services.\n\nBusiness Transfers and Corporate Changes\n- Because it is in our legitimate interest to do so, we reserve the right to disclose and transfer all information related to the Services, including personal information:\n    * To a subsequent owner, co-owner, or operator of one or more of the Services; or\n    * In connection with (including, without limitation, during the negotiation or due diligence process of) a corporate merger, consolidation, or restructuring; the sale of substantially all of our stock and/or assets; financing, acquisition, divestiture, or dissolution of all or a portion of our business; or other corporate change.\n\nSafety and Compliance with Law\n- If we believe that disclosure is reasonably necessary (i) to comply with any applicable law, regulation, legal process or governmental request (e.g., from tax authorities, law enforcement agencies, etc.); (ii) to enforce or comply with our General Terms or other applicable agreements or policies; (iii) to protect our or our customers’ rights or property or the security or integrity of our Services; or (iv) to protect us, users of our Services or the public from harm, fraud, or potentially prohibited or illegal activities\n\nWith your Consent\n- With your consent. For example:\n    * At your direction or as described at the time you agree to share;\n    * When you authorise a third party application or website to access your information.\n\nAggregated and Anonymised Information\n- We also share (within our group of companies or with third parties) aggregated and anonymised information that does not specifically identify you or any individual user of our Services."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Square indicate that they generally retain information \"only as long as reasonably necessary to provide you the Services or to comply with applicable law\".\n\nThe policy notes that there are other situations in which data must be retained for longer to comply with legal or regulatory obligations.",
+    "specificityCategory": "general",
+    "specificityTime": "general"
+  },
+  "lawfulBases": {
+    "isMissing": true,
+    "consent": "- Marketing of our Services;\n- Communicating with you about opportunities, products, services, contests, promotions, discounts, incentives, surveys, and rewards offered by us and select partners;",
+    "contract": "- Determining whether the Services are available in your country\n- Processing or recording payment transactions or money transfers, and otherwise providing you with the Square products and features you choose to use\n- Displaying historical transaction or appointment information\n- Delivering the information and support you request, including technical notices, security alerts, and support and administrative messages including to resolve disputes, collect fees, and provide assistance for problems with our Services or your Square account\n- Enforcing our Terms of Service or other applicable agreements or policies\n- Verifying your identity (e.g., through government-issued identification information)\n- Fulfilling any other purpose disclosed to you in connection with our Services",
+    "legalObligation": "- Investigating, detecting and preventing or reporting fraud, misrepresentations, security breaches or incidents, other potentially prohibited or illegal activities or to otherwise help protect your account, including to dispute chargebacks on your behalf\n- Protecting our, our customers’, or your customers’ rights or property, or the security or integrity of our Services\n- Verifying your identity (e.g., through government-issued identification information)\n- Complying with any applicable laws or regulations, or in response to lawful requests for information from the government or through legal process",
+    "legitimateInterests": "- Providing, maintaining and improving our Services\n- Developing new products and Services\n- Improving, personalising and facilitating your use of our Services\n- Measuring, tracking and analysing trends and usage in connection with your use or the performance of our Services\n- Sending you information we think you may find useful or which you have requested from us about our products and services\n- Conducting surveys and collecting feedback about our Services\n- Protecting our, our customers’, or your customers’ rights or property, or the security or integrity of our Services\n- Verifying your identity (e.g., through government-issued identification information)\n- Contacting you to resolve disputes, collect fees and provide assistance with our Services"
+  },
+  "securityStandards": {
+    "present": "present",
+    "url": "https://squareup.com/gb/en/security",
+    "observations": "Square provide a comprehensive breakdown of the technical and operational security measures they put in place to safeguard customer data.",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "Square offer a breakdown of the situations in which automated decision making is used - namely: identity verification, fraud and crime detection, product development and creation, and marketing.",
+    "specificity": "specific",
+    "sourceText": "Some of our processes for how we use your information can involve profiling, automated processing and automated decisions. We need to do this to meet our own contractual obligations, to comply with applicable law (i.e., for fraud prevention purposes or where we are have a good faith belief we are under a legal or regulatory obligation to do so), and as it’s in our legitimate business interests to engage in such automated processing. For example:\n\n* Identity verification: We engage in profiling and automated processing, both directly and through the use of third party identification verification services, to verify your identity (so we can confirm you appear to be who you say you are). We set out more information on this above and how this affects you. If we cannot identify you, we may not be able to provide the Services to you. This identity verification check will be based on the information you provide to us and the results we get for the third party verification services (which is limited to the result of the check).\n* Fraud and crime detection and prevention: We have developed processes, for the purposes set out above, to check that our Services are not being used for fraudulent purposes. We will consider information you provide to access our Services, information you provide to enhance your experience, information we automatically collect from your use of our Services, and information we collect from other sources. We regularly check that our processes are up to date and implemented robustly and fairly to ensure that we can deliver the Services to you and that they are safe to use. If we believe in good faith that our fraud and crime prevention processing detects activities or use of our Services which could be used for fraudulent or criminal activities, we may not be able to provide the Services to you.\n* Product development and creation: We can process the information you provide to us, the information we collect from your use of our Services and the information we obtain from third parties automatically to improve our products and develop new products. The information we use will help us to understand what is important to our users, and how we can create better products and services.\n* Marketing: With your consent we can process the information you provide to us, the information we collect from your use of our Services and the information we obtain from third parties automatically to market new products and services to you by using cookies to serve ads to you or by delivering adverts in our applications or on our websites."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "The policy contains some information about making complaints to Square and how they will be handled, and contains a link to Europa.EU's page with contact details for the relevant data protection authorities in EU member states.",
+    "specificity": "specific",
+    "sourceText": "If you have any questions or concerns regarding our notice or if you believe our notice or applicable laws relating to the protection of your personal information have not been respected, you can file a complaint with our Privacy Department listed above and we will respond to let you know who will be handling your matter and when you can expect a further response. We can request additional details from you regarding your concerns and may need to engage or consult with other parties in order to investigate and address your issue. We will keep records of your request and any resolution.\n​\nIf your request or concern is not satisfactorily resolved by us, you can approach your local data protection authority (see http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html)."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
   }
+}

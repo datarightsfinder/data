@@ -5,7 +5,9 @@
     "registrationCountry": "gb",
     "description": "Insurance company"
   },
-  "organisationUrls": [],
+  "organisationUrls": [
+    "https://www.aviva.co.uk"
+  ],
   "privacyNoticeUrl": {
     "url": "https://www.aviva.co.uk/legal/privacy-policy.html"
   },

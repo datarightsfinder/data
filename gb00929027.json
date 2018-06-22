@@ -5,7 +5,9 @@
     "registrationCountry": "gb",
     "description": "Bank"
   },
-  "organisationUrls": [],
+  "organisationUrls": [
+    "https://personal.natwest.com"
+  ],
   "privacyNoticeUrl": {
     "url": "https://personal.natwest.com/global/privacy.html"
   },

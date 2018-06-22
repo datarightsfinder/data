@@ -5,7 +5,9 @@
     "registrationCountry": "gb",
     "description": "Bank"
   },
-  "organisationUrls": [],
+  "organisationUrls": [
+    "https://digital.ulsterbank.co.uk"
+  ],
   "privacyNoticeUrl": {
     "url": "https://personal.rbs.co.uk/global/privacy.html"
   },
