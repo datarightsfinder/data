@@ -1,0 +1,63 @@
+{
+  "organisationInformation": {
+    "name": "Projects By IF",
+    "number": "09802689",
+    "registrationCountry": "gb"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {},
+  "dataProtectionOfficer": {
+    "contactInfo": {}
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": []
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": []
+  },
+  "retentionRules": {
+    "isMissing": false
+  },
+  "lawfulBases": {
+    "isMissing": false
+  },
+  "securityStandards": {},
+  "dataProcessingAddendum": {},
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {},
+  "complaintInformation": {},
+  "presentation": {}
+}
