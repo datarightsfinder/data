@@ -14,7 +14,7 @@
   "dataProtectionOfficer": {
     "name": "Firstname Lastname",
     "contactInfo": {
-      
+      "emailAddress": "example@example.com"
     }
   },
   "rights": {
