@@ -2,7 +2,8 @@
   "organisationInformation": {
     "name": " National Westminster Bank PLC",
     "number": "00929027",
-    "registrationCountry": "gb"
+    "registrationCountry": "gb",
+    "description": "Bank"
   },
   "organisationUrls": [],
   "privacyNoticeUrl": {

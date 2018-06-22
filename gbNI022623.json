@@ -2,7 +2,8 @@
   "organisationInformation": {
     "name": "Ulster Bank Commercial Services (N.I.)",
     "number": "NI022623",
-    "registrationCountry": "gb"
+    "registrationCountry": "gb",
+    "description": "Bank"
   },
   "organisationUrls": [],
   "privacyNoticeUrl": {

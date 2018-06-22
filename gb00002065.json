@@ -2,7 +2,8 @@
     "organisationInformation": {
       "name": "Lloyds Bank PLC",
       "number": "00002065",
-      "registrationCountry": "gb"
+      "registrationCountry": "gb",
+      "description": "Bank"
     },
     "organisationUrls": [],
     "privacyNoticeUrl": {

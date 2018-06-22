@@ -2,7 +2,8 @@
     "organisationInformation": {
       "name": "Bank of Scotland PLC",
       "number": "SC327000",
-      "registrationCountry": "gb"
+      "registrationCountry": "gb",
+      "description": "Bank"
     },
     "organisationUrls": [],
     "privacyNoticeUrl": {
