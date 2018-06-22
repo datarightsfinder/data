@@ -12,6 +12,7 @@
     "url": "https://projectsbyif.com/how-if-uses-data"
   },
   "dataProtectionOfficer": {
+    "present": "present",
     "name": "Firstname Lastname",
     "contactInfo": {
       "emailAddress": "example@example.com"
