@@ -1,0 +1,121 @@
+{
+  "organisationInformation": {
+    "name": "Gocompare.com Limited",
+    "number": "05799376",
+    "registrationCountry": "gb",
+    "description": "GoCompare is a British financial services comparison website."
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.gocompare.com/about/privacy/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "Gocompare.com Limited, Imperial House  Imperial Way,Newport, NP10 8UH",
+      "emailAddress": "dpo@gocompare.com",
+      "telephoneNumber": "01633 654060"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {},
+      "observations": "We must erase your personal information following your request except in limited circumstances prescribed by law, such as where we need to retain your personal information in order to comply with a legal obligation or in order to establish, exercise or defend legal claims. In these circumstances, we will restrict our processing of your personal information by putting it 'beyond use'. \n\nThis means that your personal information is deleted from our website and retained only in a separate and restricted database, where it will not be processed for any purpose other than as detailed above. Access to this database is managed by our DPO and is strictly limited."
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {},
+      "observations": "No automated decision making is done on the site. \n\nA disclaimer is not provided for automated decision making for the services that you may reach having used Go Compare (which Compare The Market makes a point of mentioning). "
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "criminal_records",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "employment",
+      "health",
+      "names",
+      "online_activity",
+      "postal_address",
+      "telephone_number"
+    ],
+    "observations": "Place of birth may be recorded.\n\nDetails about you and your financial situation....",
+    "sourceText": "Depending upon the way in which you use our website and the individual products and services you are looking to buy, we may obtain the following:\n \na. personal information so that we can identify who you are. For example, this information may include your name and date and place of birth;\n \nb. personal information so that we can contact you. For example, this information may include your home address, your email address and your contact telephone numbers;\n \nc. personal information so that we can help you find a product or service. For example, this information may include details about you and your financial situation, your work or profession or the risk you are looking to insure; \n \nd. other more sensitive personal information so that we can help you find a product or service. For example, this information may include details about your health or criminal convictions and offences. This data is known as 'special category data' and we will only collect this data if the law allows us to do so; and\n \ne. behavioural and/or technical personal information. For example, this information may include details about how you browse our website and the devices and technology you use to browse our website."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Members of corporate group",
+      "DVLA",
+      "Regulatory bodies",
+      "Law enforcement",
+      "Fraud prevention agencies",
+      "Third parties to whom Go Compare sell, transfer or merge parts of their business with"
+    ],
+    "specificity": "specific",
+    "observations": "GoCompare keeps a list of third parties it shares data with at https://www.gocompare.com/partner-list/ and https://www.gocompare.com/third-party-partner-list/\n\nWhen you ask GoCompare to compare prices for your insurance quote, they may send your data to all the insurance companies they work with.\n\nGoCompare runs a partner programme with different classes: white label and affiliate. Affiliate is a company that pays to be placed in a particular position on GoCompare, white label is a product that is made by one c\n",
+    "sourceText": "Partner List\n\nCar Insurance\n\nSwiftcover\nEndsleigh\nBudget\nThe AA\nThe AA\nWiser Choice\nRAC\nLadybird\nComplete Car EXTRA +\nOneQuote Direct\nMotor Quote Direct\nQuoteline Direct\nSheilas' Wheels\nesure\nMasterQuote\nM&S\nM&S\nPerformance Direct\niGO4\niGO4\nDial Direct Premier\nAutonet\nGrove & Dean\nOneQuote Direct Elite\nFirst Alternative\nBell\nChurchill\nPrivilege\nPost Office\nThe Co-operative Insurance\nOne Call Insurance\nFirst\nAdmiral\nNCI\nHughes\nFlux Direct\niGO4 Value\niGO4 Value\niGO4 More\nRight Choice\nGeoffrey\nCollingwood\nCity\nJohn Lewis\nCoverbox\nDiamond\nElephant\nAXA\nMCE\nInsure Wiser\nBG Insurance\nPremium Choice\nHalifax\nInsure 2 Drive\nSaga\nThe Insurance Factory\nLloyds Bank\nInsure Wiser Platinum\nLV=\nLV= Extra\nQuotemehappy\nInsureTheBox\nInsureTheBox\nInsureTheBox\nSheilas' Wheels Broker\nesure Broker\nClements Worldwide\nMore Than\nThe Co-operative Young Driver\nA Choice\nHastings Direct SmartMiles\nAutosaint\nGoSkippy\nWiseDriving Box\nCarrot\nGo Girl\nAutonet Plus\nZenith\nQuick-Sure\nGeneral Accident\nEndsleigh Graduate\nSure Thing\nSheilas' Wheels Model Driver\nCollingwood Telematics\nRIAS\nU Drive Cover\nTesco Bank Cover\nMore Than Smart Wheels\nTesco Bank Cover Plus\nSure Thing Max\nInsure Your Motor\nComplete Car Cover\nMy Policy\nDebenhams\nJust Motor Insurance\nJust Motor Insurance\nLancaster\nSureterm Direct\nBrightside\nHastings Essentials.\nInsure Pink.\nHastings Direct.\nHastings Premier.\nAcorn\nAdmiral LittleBox\nTesco Bank Box Insurance\nAbbey\nPrivilege DriveXpert\nH&R\nDial Direct\nRAC Insurance\nSainsburys\nWiseDriving App\nScreentrade\nYounger But Wiser\nProvident\nO2 Drive\nBank of Scotland Car Insurance\nSantander Car Insurance\n1st Central\n1st Central Plus\n1st Central Premier\nSwinton Essentials\nSwinton Classic\nSure Thing Dash Cam\ningenie\nInsure OK\nSmart Driver Club\nEndsleigh.\nO2 Drive - Box on Board\nGeneral Accident Telematics\nFlux Direct Telematics\n\nVan Insurance\n\nComplete Van EXTRA +\nVan Quote Direct\nQuoteline Direct\nAutonet\nPerformance Direct\nGladiator\nConstructaquote\nBudget\nDial Direct\nOne Insurance Solution\nAdmiral\nGrove & Dean\nBG Insurance\nHastings Direct\nPost Office\nInsure Wiser\nAutonet Plus\nHughes\nMy Van Quote\nAutonet Protect Plus\nVanLine Direct\nThe Insurance Factory\nMore Than\nA Choice\nAXA\nFlux Direct\nZenith\nGeoffrey\nMCE\nOne Call Insurance\nGoSkippy\nHastings Premier\nCity\nFirst Van\nSwiftcover\nNova\nRAC\nBrightside Insurance Services Ltd\nPrincipal\nAcorn Van\nSure Thing\nSure Thing Max\nLloyds Bank Van Insurance\nChurchill Van Insurance\n\nPet Insurance\n\nAnimal Friends\nPurely Pets\nHelpUCover\nPetpals Direct\nHealthy Pets\nJohn Lewis\nPet Protect\nArgos\nThe AA\nMore Than\nPaws and Claws\nLegal & General\nM&S\nSainsbury's Bank\nTesco Bank\nPost Office Money\nE&L\nPet-Insurance\nInsure Your Paws\n4Paws Pet Insurance\nScratch & Patch\n\nHome Insurance\n\nEndsleigh\nQuoteline Direct\nMasterQuote\nThe AA\nThe AA\nesure\nSaga\nMore Than\nSheilas' Wheels\nBudget\nPost Office\nBradford & Bingley\nChurchill\nPrivilege\nPrivilege Platinum\nAutonet\nJukes\niGO4\nLV=\nDial Direct\nFresh\nInsure4Retirement\nHomeProtect\niGO4 Essentials\niGO4 More\nHughes\nQuote Your Home\nOne Call Insurance\nIntasure\nGetcover\nInsure Wiser\nHastings Direct\nMagnet\nAim4agreatquote\nThe Co-operative Insurance\nHome Insurer\nLV= Select\nQuotemehappy\nPolicy Expert\nZurich\nAdmiral Platinum\nAdmiral Gold\nAdmiral\nComputer Quote\nTesco Bank\nJohn Lewis Essential\nJohn Lewis Plus\nJohn Lewis Premier\nBritish Gas\nHastings Premier\nRIAS\nAssetsure\nLegal & General Essentials\nLegal & General Extra\nIntelligent\nTogether\nBank of Scotland\nHalifax\nRAC Insurance\nSwinton Premier\nSwinton Classic\nSainsbury's Bank\nAXA HomeSafe\nAXA HomeSmart\nAXA HomeSure\nSwift Made\nSwift More\nLloyds Bank\nChurchill Home Plus\n\nMotorbike Insurance\n\nMotorCycle Direct\nBennetts\nJust Motorcycle Insurance\neBike\nH&R\nPerformance Direct\nGrove & Dean\nWicked Quotes\nMCE\nExpress\nBikesure\nHastings Direct\nMCD Gold\nInsure Wiser\nDevitt\nBennetts Additions\nScoot & Commute\nMCD Diamond\nLexham\nHastings Premier\nMotorcycle Action Group\nBikesure Elite\nPrincipal\nPost Office\nGoSkippy\nRight Choice\nCarole Nash\nEntire Cover\nThe AA\nOne Call Insurance Services Ltd\nRAC\nSwinton Insurance\nBrightside Motorcyle\n\nThird Party partner list\n\nTravel\n\nSkyScanner\\tAffiliate\nThe Idol\\tWhite Label\n\nMoney\n\nLovemoney\\tWhite Label\nLondon & Country\\tWhite Label\n\nProtection\n\nThe Idol\\tWhite label\nLondon & Country\\tAffiliate\nLifesearch\\tAffiliate\nAssured Futures\\tAffiliate\nActiveQuote\\tWhite label\nHome Services\nRunpath\\tWhite Label\nConsumerChoices\\tWhite Label\nComparison Creator\\tWhite Label\n\nBusiness\n\nSimply Business\\tWhite Label\nMakeitcheaper \\tAffiliate\n\nInsurances\n\nIntasure (Blenheim Park)\\tAffiliate\nEndsleigh\\tAffiliate\nDay Insure\\tAffiliate\nTempcover\\tAffiliate\nCuvva\\tAffiliate\nTowergate\\tAffiliate\nNova insurance\\tAffiliate\nAdrain Flux\\tAffiliate\nHome protect\\tAffiliate\nWarranty Direct\\tAffiliate\nMotorEasy\\tAffiliate\nALA\\tAffiliate\nE&L\\tAffiliate\nMyWeddingInsurance\\tAffiliate\nAssetsure\\tAffiliate\nHaul in One\\tAffiliate\nMotorEasy\\tAffiliate\nI-Wonder\\tWhite Label\nExotic Direct (Brooks Braithwaite)\\tAffiliate\nAutonet\\tAffiliate\n\nWe impose strict restrictions on the things that our approved partners and third party product providers may do with personal information that we give to them. Our approved partners and third party product providers may process personal information that we give to them in order to:\n \na. assess your eligibility for the products or services which you have expressed an interest in;\n \nb. determine your identity and the amount of your premium and hence carry out checks: \n \ni. with fraud prevention agencies in order to detect and prevent financial crime, including fraud;\n \nii. with credit reference agencies, which will appear as soft searches on your credit report and hence should not adversely affect your credit profile; \n \niii. with public and private higher education sources in order to verify your student or graduate status; and\n \niv. against information they already hold about you (for example, if you are an existing member of their loyalty schemes or otherwise already known to their corporate group); and\n \nc. share personal information with their insurance underwriters and relevant industry databases, such as the Claims and Underwriting Exchange (which holds information about incidents reported to insurers that may or may not have resulted in a claim).\n \nIf you intend to purchase products or services from any of our approved partners or third party product providers, you are strongly encouraged to read the terms of that partner's or third party product provider's own privacy policy in order satisfy yourself as to the purposes for which your chosen supplier will use your personal information. \n \nWhen you leave our website, you are also strongly encouraged to read the privacy policy of every website that you visit in order to satisfy yourself as to the purposes for which those third party website owners and operators will use any personal information you give to them."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "n",
+    "specificityTime": "specific",
+    "sourceText": "We keep personal information for up to six (6) years following the date on which it is provided to us or only for as long as is reasonably necessary thereafter in order to:\n\na. respond fully to any questions or complaints;\n\nb. evidence that we have treated customers fairly or satisfy some other legal, accounting, tax or reporting requirement; and\n\nc. establish, exercise or defend legal claims in accordance with statutory limitation periods."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "If you opt-in to particular services, for example the continuous savings service, GoCompare would process your personal information in order to obtain a car insurance quote on a person's behalf.\n\nIf you opt-in to receive renewal reminders from GoCompare they will get in touch with you to remind when your car insurance is up for renewal.\n\nIf you opt-in to receive general marketing from GoCompare they may send you newsletters, information about their latest offers, products and promotions.\n\nIf you opt-in to receive contact from partners who provide you with the two cheapest quotes, those partners would receive your contact details so they can contact you in order to progress a sale.\n",
+    "contract": "Sharing personal information with approved partners and third party product providers.\n\nProcessing personal information to send you service information.\n\nThese are necessary to provide you a service to you.",
+    "legitimateInterests": "Approved third party partners - https://www.gocompare.com/third-party-partner-list/ - can be sent information about you and what you are trying to insure. GoCompare may then subsequently process your personal data to verify a sale has taken place between you and their party partners, or their approved partners.\n\nProcessing personal information so that they can provide a more user-friendly, intuitive and enjoyable price and product comparison experience.\n\nProcessing your personal information in order to detect and prevent financial crime, including fraud.\n\nProcessing your personal data to verify a sale between you and one of their approved partners or third party product providers has taken place.\n\nProcessing your personal information to personalise or improve aspects of their service delivery.",
+    "observations": "Consent for partners to contact you has limited contact provision in it:\n\nThose partners should not contact you on more than three occasions within ninety days following the date on which you obtain a quote via our website. \n\nBases for processing is in a three column table which is a useful way of presenting the information."
+  },
+  "securityStandards": {
+    "present": "present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {
+    "present": "not_present"
+  },
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "specificity": "specific",
+    "sourceText": "You can complain to us or the Information Commissioner's Office at any time. However, we appreciate the chance to deal with your concerns so please do contact us in the first instance. "
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
