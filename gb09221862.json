@@ -1,0 +1,138 @@
+{
+  "organisationInformation": {
+    "name": "Clear Score Technology Limited",
+    "number": "09221862",
+    "registrationCountry": "gb",
+    "description": "Open banking service"
+  },
+  "organisationUrls": [
+    "https://www.clearscore.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.clearscore.com/privacy-policy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "emailAddress": "privacy@clearscore.com"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "privacy@clearscore.com"
+      },
+      "observations": "ClearScore direct data subjects to the email the Data Protection Officer in order to exercise any of their rights."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "employment",
+      "income",
+      "location",
+      "names",
+      "postal_address",
+      "telephone_number"
+    ]
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "present",
+    "observations": "ClearScore indicate that they collect some additional information from users of their mobile app. They do not provide justification for why this information is necessary:\n\n* \"call log details – we will access your phone call history (this includes the phone numbers used for calls or SMS messages sent or received, duration of calls and the time of the communication).\"\n* \"the amount of mobile and Wi-Fi data which other applications on your phone use (this is the upload and download usage per applications, total upload and download usage for the device and the time spent in the applications)\"\n* \"battery charging behaviour - we receive notification of changes to your battery as they occur\""
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Amazon Web Services, Inc",
+      "Blenheim Chalcot IT Services India Private Limited",
+      "Blenheim Chalcot IT Services India Private Limited",
+      "Chattermill Analytics Limited",
+      "Domo, Inc.",
+      "Emailage Limited",
+      "Iovation, Inc.",
+      "Onfido Limited",
+      "Segment.io, Inc.",
+      "Truelayer Limited",
+      "Zendesk, Inc.",
+      "Other companies in ClearScore's group",
+      "Credit reference agencies",
+      "Fraud prevention agencies",
+      "Product providers (business partners who offer you credit cards, loans, car finance, mortgages and other related products)",
+      "Service providers used by ClearScore for analysis and profiling of credit information",
+      "Analytics and search engine providers",
+      "Companies involved in potential mergers and acquisitions",
+      "Any third parties to which disclosure would be legally required"
+    ],
+    "specificity": "general",
+    "observations": "ClearScore offers a clear breakdown of companies who data may be shared with, listing a number of parties by name directly.",
+    "sourceText": "We may share your data with other members of our group and with other third parties, such as our service providers, advertisers, Credit Reference Agencies and Fraud Prevention Agencies.\n\nWe may need to disclose your data to others to ensure the smooth provision to you of the products, services and information you request. Your data may be disclosed to the other entities as described below.\n\nThese third parties act on our instructions and are processors of your information.\n\nWe may share your data with other members of our group and with other third parties, such as our service providers, advertisers, Credit Reference Agencies and Fraud Prevention Agencies.\n\nSubprocessors. We may share your information with the following subprocessors:\n* Amazon Web Services, Inc.\tCloud Service Provider\n* Blenheim Chalcot IT Services India Private Limited\tCustomer Support Management Provider\n* Blueshift, Inc.\tCustomer Relationship Management Provider\n* Chattermill Analytics Limited\tCustomer Relationship Management Provider\n* Domo, Inc.\tData Storage and Analytics Provider\n* Emailage Limited\tFraud Prevention Tool Provider\n* Iovation, Inc.\tFraud Prevention Tool Provider\n* Onfido Limited\tFraud Prevention Tool Provider\n* Segment.io, Inc.\tData Segregation Tool Provider\n* Truelayer Limited\tData Aggregator Provider\n* Zendesk, Inc.\tCustomer Support Provider\n* Group company. We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.\n\nSelected third parties. We may also share your information with selected third parties including:\n\nCredit Reference Agencies, to obtain your credit score and credit report on your behalf and to provide our services to you (please see “Credit Reference Agencies” below for more detail)\nFraud prevention agencies, to prevent crime and trace those responsible (please see \"Fraud Prevention Agencies” below for more detail)\nproduct providers, such as our business partners who offer you credit cards, loans, car finance, mortgages and other related products, to:\n* assess if you are an existing customer and for fraud prevention purposes\n* conduct analysis to provide you with better products and services in the future, and for segmentation purposes\n* pre-fill an application form with the product provider\n* assess your probability of being accepted for a product\nThe product provider does not have permission to use this data for any other purpose including marketing\n\nservice providers we use (such as comparison sites and aggregators) for analysis and profiling of your credit information (and any other data provided by you or on your behalf) to identify and inform you of credit products that are likely to be suited to your credit circumstances through targeted advertising. When you click to search for credit offers on our website or our apps, these service providers will record a ‘soft credit search’ on your credit file, but this record will be invisible to other lenders, so by itself it will not affect their lending decision and it will not affect your credit score. You can opt out of this if you want to in your \"My Account\" section, however, if you do opt out of this, we will not be able to show you ads that are specifically targeted to you and will only be able to show you generic ads, which may not be suited to your credit circumstances\n* advertisers that require the aggregated data ( whereby individuals cannot be individually identified), to perform services on our behalf, including selecting and serving relevant adverts\n* analytics and search engine providers that assist us in the improvement and optimisation of our service\n* if we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets (or the buyer or seller’s advisers)\n* if we or part or all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets\n* if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and other agreements; or to protect the rights, property, or safety of Clear Score Technology Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.\n\nCredit Reference Agencies. If you register to use our services we will obtain on your behalf, in accordance with our Terms, copies of your credit report and credit score from designated Credit Reference Agencies. In order to provide these services to you, we will share your information with such Credit Reference Agencies.\n\nThe information which we provide to the CRA may be supplied by them to other organisations such as Fraud Prevention Agencies and used by those organisations for the purposes of checking identity, preventing fraud, tracing and collection of debt. The CRA may also use the data to undertake statistical analysis.\n\nIf you choose to apply for a product, the lender will undertake a full credit check and provide you with further privacy information for that product. More information about each CRA and what it does with personal data is available here.\n\nFraud Prevention Agencies. We will share your personal information with fraud prevention agencies. If false or inaccurate information is provided and fraud is identified, details of this fraud will be passed to these agencies. Law enforcement agencies may access and use this information. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "ClearScore commit to deleting personal data within 30 days if an account is terminated.\n\nWhile accounts remain active, ClearScore indicate that they do not keep information longer than is necessary for the purpose of which they are using it.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "If your account is terminated, we will delete your personal data within 30 days. While your account remains active, we keep your information for no longer than is necessary depending on the purpose for which we are using it.\n\nHow long we keep your information will depend on the purpose for which we use it. While you are a customer of ours, we will only retain your information for as long as is necessary for those purposes.\n\nAfter termination of your account, we may continue to use anonymised data (which does not identify individual users) which is aggregated with anonymised data of other users. We use this aggregated anonymised data for data analysis, profiling and research purposes, for example to gain insights about our users. We may also keep your email address to ensure that you no longer receive any communications from us as well as your name, date of birth and latest address for fraud prevention purposes and for the exercise or defence of a legal claim."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "We will always seek your consent to process certain types of information where we are legally required to do so. You have the right to withdraw or decline your consent at any time.",
+    "contract": "We need you to give us the information you provide, and to collect information about you from the Credit Reference Agencies or other third parties in order for us to provide you with our services as agreed in our contract with you. We cannot provide our services to you without collecting the information you give us because we need certain information from you to be able to seek your credit report and score and to show suitable financial offers to you.\n\nFor other types of information (such as the information we collect based on your use of the website and information we receive from our sources about you), we process this information for the purposes of providing our services to you as agreed in our contract and for the purpose of to enable us to:\n\n* provide a secure website to our customers; and\n* analyse our users’ behaviour and preferences, and information collected from users' devices in order to have information required to be able to improve the services we provide to our customers and the user experience on our website.",
+    "legitimateInterests": "We may process your personal data for the purposes of our legitimate interests or for the legitimate interests of our product providers or other suppliers provided that such processing does not outweigh your rights and freedoms. As an example, we may process your personal data to:\n* display tailored product offers to you\n* comply with laws that apply to us\n* provide you with our service, including for the purpose of quality control and analysis\n* protect you and us from fraud or other threats\n* conduct analysis, segmentation and profiling of your data in order to provide you with direct marketing communications\n* improve our service and manage our customer relationships\n* Where we rely on legitimate interests, you have the right to object at any time."
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "observations": "ClearScore commit to protecting personal data but do not provide any specific information about how this is done.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "ClearScore use automated decisionmaking for the purposes of:\n* Identity verification\n* Tailoring products and services\n* Tailoring communications",
+    "specificity": "specific",
+    "sourceText": "We use an automated decision making system to make automated decisions based on personal information we have about you. This helps us to make sure our decisions are quick and fair, based on what we know.\n\nIdentity verification. We use an automated decision making system to verify the details you provide against those held by third party providers. If you do not pass the check using the automated system, we cannot provide our services to you without being able to verify your identity.\n\nTailored products and services. We may use your information to predict the probability that you may be accepted for a product, or to determine the best order or manner in which to display products to you.\n\nTailored communications. We want to make sure we’re only sending you emails that are relevant to you, and so we will use your personal information to determine which content you may be more interested in receiving.\n\nYou’ve the right not to be subject to a decision based solely on automated processing, including profiling. We understand that not everyone is comfortable with decisions being left entirely up to machines. If you have any questions about automated decision making, please contact us via privacy@clearscore.com."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "ClearScore direct complaints about their processing of data to their Data Protection Officer's contact details in the first instance, and to the ICO where complains remain unresolved.",
+    "specificity": "specific",
+    "sourceText": "You can address any questions, comments, complaints or requests regarding this Privacy Notice to the Data Protection Officer at privacy@clearscore.com.\n\nIf you are not satisfied with our response to any complaints you raise with us or you believe our processing of your information does not comply with the data protection law, we suggest you contact our Data Protection Officer. However, you can make a complaint to the Information Commissioner’s Office (ICO) at any time.\n\nPlease see the ICO website for further information – https://ico.org.uk/make-a-complaint/."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
