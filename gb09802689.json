@@ -12,7 +12,9 @@
     "url": "https://projectsbyif.com/how-if-uses-data"
   },
   "dataProtectionOfficer": {
-    "contactInfo": {}
+    "contactInfo": {
+      "name": "Firstname Lastname"
+    }
   },
   "rights": {
     "isMissing": false,
