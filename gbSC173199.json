@@ -1,0 +1,129 @@
+{
+  "organisationInformation": {
+    "name": "Tesco Personal Finance PLC",
+    "number": "SC173199",
+    "registrationCountry": "gb",
+    "description": "Banking and insurance"
+  },
+  "organisationUrls": [
+    "https://www.tescobank.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.tescobank.com/help/privacy-and-cookies/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "The Data Protection Officer, Tesco Bank, PO BOX 27009, Glasgow, G2 9EZ"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "postalAddress": "The Data Protection Officer, Tesco Bank, PO BOX 27009, Glasgow, G2 9EZ"
+      },
+      "observations": "Tesco provide a specific form for Subject Access Requests, but direct all other queries to the postal address for their Data Protection Officer."
+    },
+    "access": {
+      "contactInfo": {
+        "url": "https://www.tescobank.com/assets/sections/help/pdf/Data-Subject-Access-Request-Application-Form.pdf"
+      }
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "credit_history",
+      "device_information"
+    ],
+    "observations": "Tesco do not provide comprehensive information on the categories of data that they collect, instead choosing to note that they may collect personal data which the user provides.",
+    "sourceText": "What the law says about processing\n- The law requires us to tell you how we process your personal data. “Processing” is a legal term but means anything we do with your personal data, such as collecting, gathering, obtaining, administering, adapting, keeping and deleting your personal data.\n\nWe collect and keep data about you\n- This includes the personal data you give via our website or over the phone when you apply for a product, request a quotation and throughout your time as a Tesco Bank customer (this includes personal data you may store in the ‘save and retrieve’ function before you submit a quote or an application, and information you submit indirectly via price comparison websites). It also includes personal data you give us any time you write to us or contact us electronically.\n\nWe keep data about your accounts and policies\n- This includes transactions and payments you make and receive.\n\nWe may also gather other data about you\n- We may also obtain and combine data about you from other places, such as the wider Tesco Group, credit reference agencies, financial crime prevention agencies, the Claims and Underwriting Exchange, and publicly available resources, such as the electoral register and the internet.\n- We do this so we can make sure the personal data we hold about you is accurate, to perform checks, and make you offers.\n\nWe will keep and use personal data about other people connected to your products\n- This includes anybody insured under your policy, paying your premiums or occupying your home. We will also keep any personal data you give us about anyone nominated to act on your behalf (this is for the security questions they need to answer before they can change anything on your account/policy).\n\nMore information about the times when we collect personal data about you\n- When you call us - we monitor and record calls to and from our customer service centres to improve our service and to prevent and detect fraud.\n- When you contact us electronically (e.g. by email or internet) - we may collect an electronic identifier, such as your internet protocol address.\n- When you visit our website - when your browse our website, we collect data about your browsing habits using cookies.\n\nWe will only ask for necessary personal data unless we tell you otherwise\n- We will ask for personal data that is essential for us to know so that we can provide our products or services to you. If we ask for personal data that is not essential, we will explain why and tell you the consequences if you do not provide us with the personal data."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Anyone you nominate to act on your behalf",
+      "Claims and Underwriting Exchange (CUE) and other similar organisations",
+      "Regulatory bodies and authorities",
+      "Credit reference agencies",
+      "Fraud and financial crime prevention agencies",
+      "Tesco Bank's panel of insurers",
+      "The insurers shown on your policy schedule",
+      "Service providers (including those who provide funding, debt management, administration, fraud and financial crime detection and professional services)",
+      "Other lenders or companies (if we are, or are considering, transferring the rights and obligations we have with you)",
+      "Other pet insurers, if we have invited you to renew your pet insurance with them",
+      "Tesco Group and Tesco stores in connection with a Clubcard",
+      "Other Tesco Group companies",
+      "Market research agencies"
+    ],
+    "specificity": "general",
+    "sourceText": "* with anyone you nominate to act on your behalf\n* with the Tesco Bank Providers\n* with regulatory bodies and authorities\n* with credit reference agencies\n* with fraud and other financial crime prevention agencies\n* with our panel of insurers (at the quotation stage)\n* with the insurers shown on your policy schedule\n* with our service providers (including those who provide funding, debt management, administration, fraud and financial crime detection and professional services)\n* with other lenders or companies, (if we are, or are considering, transferring the rights and obligations we have with you)\n* with another pet insurer, if we have invited you to renew your pet insurance with them\n* with Tesco Group and Tesco stores, in connection with your Clubcard (for example, to allocate points or discounts, or where you have agreed to receive marketing)\n* with other Tesco Group companies\n* with our market research agency to contact you with relevant surveys\n\nTesco Bank Providers:\n* with the Claims and Underwriting Exchange (CUE) and other similar organisations\n* with Tesco Bank so that they can make sure that they can make sure that the personal data they hold about you is accurate, to update your claims history and make you offers with other companies that help us to provide our services\n* with other insurers or reinsurers for claim administration purposes"
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Tesco claim to keep personal data for a \"reasonable period only\".\n\nOnce an account is closed, personal data is kept for up to 10 years.\n\nData about applications which did not result in a customer taking out a product is kept for up to 7 years.\n\nPersonal data is also kept for marketing purposes for 3 years after a customer's last activity with Tesco Bank.\n\nTesco also note that data may be kept longer for the purposes of legal proceedings, legal obligations, or other legitimate business reasons.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We keep your personal data for a reasonable period only\nHow long we keep your personal data will depend on:\n* what type of product or service we are providing for you\n* how long laws or regulations say we must\n* what we need for fraud and other financial crime prevention\n* what we need to lend responsibly\n* other legitimate business reasons (for example because we need to respond to a complaint or legal claim)\n\nHow long do we keep data when you no longer use our service?\n* We keep your personal data once your account is closed, your insurance policies have lapsed for up to 10 years.\n\nWhen you have applied but not taken out a product\n* We keep insurance quote data and banking application data for up to 7 years. We do this to help us understand more about you, to help develop our products and services, and to protect you and us against fraud and other forms of financial crime. We may also use this information if you apply for a product again in the future.\n\nRetention for Marketing Purposes\n* We keep your personal data for 3 years after your last activity with us.\n\nIn all cases, we will retain the personal data for so long as that personal data is needed for an ongoing investigation, legal proceedings, insurance claim or an outstanding audit."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "contract": "\"To provide our services to you we will need to use your personal data, and personal data relating to joint applicants, additional cardholders, other insured persons, and anyone else whose personal data is connected with providing a particular product or service.\"",
+    "legalObligation": "\"We can only provide our products or services if we can use your personal data in this way. The law says we must ask for certain mandatory information, and make certain checks.\"",
+    "legitimateInterests": "These are other uses allowed by law which are necessary to enable us to provide the products and services. These include:\n* detecting and preventing fraud, other forms of financial crime, and other unlawful acts\n* tracing and recovering debt\n* managing and operating our business\n* improving our business\n\nThe law allows us to use your personal data in reasonable ways to help us improve our business. The ways we might use your personal data to improve our business are to:\n* understand customers' needs and requirements\n* develop and test products and services\n* carry out research and analysis on our products and services\nWhen we use your personal data to improve our business, we always make sure we keep the amount of data we collect and use to an absolute minimum."
+  },
+  "securityStandards": {
+    "present": "present",
+    "url": "https://www.tescobank.com/security/how-we-protect-you/",
+    "observations": "Tesco offers some brief information about how they secure personal data.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "Tesco note that automated decision making is used for customers with a Tesco Clubcard, to decide what deals and offers to provide customers.\n\nTesco offer a link to \"find out more\" about how they monitor their automated decision making, but it appears to only direct users to the \"Contact Us\" section of the website.",
+    "specificity": "specific",
+    "sourceText": "We use your Clubcard data to help us work out offers\n\nWe do this by looking at your Clubcard data in different ways to help us understand more about you (we call this ‘profiling’). Profiling includes things such as how likely we think you are to pay back money we lend you, how often you use other Tesco products and services, and how you prefer to shop. Profiling helps us to create a number of ‘Clubcard scores’, which we can then use as one of the factors in our automated decision-making process.\n\nWhere applicable, at the point of applying, individual offers you receive may be affected by your credit rating. We may also take into account whether or not you are a Clubcard customer.\n\nProfiling allows us to tailor offers specifically for you. This means that different Clubcard customers may get different offers. Where we do use profiling, those customers will receive better offers and/ or be more likely to be accepted for the product requested than non-Clubcard customers who have a broadly equivalent credit rating."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Tesco Bank direct complains about their data handling to their Data Protection Officer in the first instance, and also provide contact details for the ICO.",
+    "specificity": "specific",
+    "sourceText": "Contact us for more information about how we handle your personal data\n\nIf you have concerns about how we handle your personal data, or just want more details, please call us (see contact us section on our website) or write to the address below. We will try and sort things out as quickly as we can.\n\n\nFor more data about your rights, visit the Information Commissioner’s Office website\n\nThe Information Commissioner’s Office is the UK’s independent authority set up to uphold information rights, and promote data privacy for individuals.\n\nIf you have a complaint or concern about how we have handled your personal data and we have not been able to sort it out to your satisfaction, you have the right to lodge a complaint with the ICO."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
