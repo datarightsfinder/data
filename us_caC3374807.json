@@ -1,0 +1,122 @@
+{
+  "organisationInformation": {
+    "name": "Zoho Corporation",
+    "number": "C3374807",
+    "registrationCountry": "us_ca",
+    "description": "Develop and maintain CRM software."
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.zoho.eu/privacy.html"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "url": "https://www.zoho.eu/privacy.html",
+      "postalAddress": "Data Protection Officer, Zoho Corporation BV, Hoogoorddreef 15, 1101 BA Amsterdam, The Netherlands",
+      "emailAddress": "dpo@zohocorp.com"
+    }
+  },
+  "rights": {
+    "isMissing": true,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "device_information",
+      "email_address",
+      "location",
+      "names",
+      "telephone_number"
+    ],
+    "observations": "Other information they collect: Company name, country, IP address, browser type, language preference, time zone, referring URL, date and time of access, operating system, mobile device manufactur, mobile network information, clicks, scrolls, features accessed, access type and frequency, errors generated, performance data, storage utilized, user settings and configuration, device used to access site and locations.\n\nOther information they collect on mobiles: camera, call history, contact information, photo library, \"other information\".\n\nThey do not use third-party cookies on their website.",
+    "sourceText": "Information that you provide us\n\ni. Account signup : When you sign up for an account to access one or more of our services, we ask for information like your name, contact number, email address, company name and country to complete the account signup process. You'll also be required to choose a unique username and a password for accessing the created account. You may also provide us with more information such as your photo, time zone and language, but we don’t require that information to sign up for an account. After signing up, you will have the option of choosing a security question and an answer to the security question — if you provide these, they will be used only while resetting your password.\n\nii. Event registrations and other form submissions: We record information that you submit when you (i) register for any event, including webinars or seminars, (ii) subscribe to our newsletter or any other mailing list, (iii) submit a form in order to download any product, whitepaper, or other materials, (iv) participate in contests or respond to surveys, or (v) submit a form to request customer support or to contact Zoho for any other purpose.\n\niii. Payment processing : When you buy something from us, we ask you to provide your name, contact information, and credit card information or other payment account information. When you submit your card information, we store the name and address of the cardholder, the expiry date and the last four digits of the credit card number. We do not store the actual credit card number. For quick processing of future payments, if you have given us your approval, we may store your credit card information or other payment information in an encrypted format in the secured servers of our Payment Gateway Service Providers.\n\niv. Testimonials : When you authorize us to post testimonials about our products and services on websites, we may include your name and other personal information in the testimonial. You will be given an opportunity to review and approve the testimonial before we post it. If you wish to update or delete your testimonial, you can contact us at privacy@zohocorp.com\n\nv. Interactions with Zoho : We may record, analyze and use your interactions with us, including email, telephone, and chat conversations with our sales and customer support professionals, for improving our interactions with you and other customers.\n\nInformation that we collect automatically\n\ni. Information from browsers, devices and servers : When you visit our websites, we collect information that web browsers, mobile devices and servers make available, such as the internet protocol address, browser type, language preference, time zone, referring URL, date and time of access, operating system, mobile device manufacturer and mobile network information. We include these in our log files to understand more about visitors to our websites.\n\nii. Information from first party cookies and tracking technologies : We use temporary and permanent cookies to identify users of our services and to enhance user experience. We embed unique identifiers in our downloadable products to track usage of the products. We also use cookies, beacons, tags, scripts, and other similar technologies to identify visitors, track website navigation, gather demographic information about visitors and users, understand email campaign effectiveness and for targeted visitor and user engagement by tracking your activities on our websites. We only use first-party cookies and do not use third-party cookies or other third-party tracking technologies on our websites. You can learn more about the cookies used on our websites here . We also use first-party Local Storage Objects (LSOs) such as HTML5 to store content information and preferences to provide certain features.\n\niii. Information from application logs and mobile analytics : We collect information about your use of our products, services and mobile applications from application logs and in-house usage analytics tools, and use it to understand how your business use and needs can improve our products. This information includes clicks, scrolls, features accessed, access time and frequency, errors generated, performance data, storage utilized, user settings and configurations, and devices used to access and their locations.\n\nInformation that we collect from third parties\n\ni. Signups using federated authentication service providers : You can log in to Zoho Services using supported federated authentication service providers such as LinkedIn, Microsoft and Google. These services will authenticate your identity and give you the option to share certain personal information with us, such as your name and email address.\n\nii. Referrals : If someone has referred any of our products or services to you through any of our referral programs, that person may have provided us your name, email address and other personal information. You may contact us at privacy@zohocorp.com to request that we remove your information from our database. If you provide us information about another person, or if another person gives us your information, we will only use that information for the specific reason for which it was provided to us.\n\niii. Information from our reselling partners and service providers : If you contact any of our reselling partners, or otherwise express interest in any of our products or services to them, the reselling partner may pass your name, email address, company name and other information to Zoho. If you register for or attend an event that is sponsored by Zoho, the event organizer may share your information with us. Zoho may also receive information about you from review sites if you comment on any review of our products and services, and from other third-party service providers that we engage for marketing our products and services.\n\niv. Information from social media sites and other publicly available sources : When you interact or engage with us on social media sites such as Facebook, Twitter, Google+ and Instagram through posts, comments, questions and other interactions, we may collect such publicly available information, including profile information, to allow us to connect with you, improve our products, or better understand user reactions and issues. We must tell you that once collected, this information may remain with us even if you delete it from the social media sites. Zoho may also add and update information about you, from other publicly available sources."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Employees and independant contractors",
+      "Marketing and advertising partners",
+      "Domain registrars",
+      "Reselling partners",
+      "Marketplace application developers",
+      "Event organizers",
+      "web analytics providers",
+      "payment processors"
+    ],
+    "specificity": "general",
+    "observations": "Employees and independant contractors are bound by the privacy policy.\n\nInformation passed to third-party service providers is aggregated and de-identified.\n\nUsers can opt out of sharing their data with reselling partners.\n\nPartial list of third parties can be found here: https://www.zoho.eu/privacy/sub-processors.html",
+    "sourceText": "All Zoho group entities listed here have access to the information covered in Part I. We do not sell any personal information. We share your information only in the ways that are described in this Privacy Policy, and only with parties who adopt appropriate confidentiality and security measures.\n\nEmployees and independent contractors : Employees and independent contractors of all Zoho group entities have access to the information covered in Part I on a need-to-know basis. We require all employees and independent contractors of Zoho group entities to follow this Privacy Policy for personal information that we share with them.\n\nThird-party service providers : We may need to share your personal information and aggregated or de-identified information with third-party service providers that we engage, such as marketing and advertising partners, event organizers, web analytics providers and payment processors. These service providers are authorized to use your personal information only as necessary to provide these services to us.\n\nDomain registrars : When you register a domain through Zoho from domain name registrars, we share your name and contact information such as your physical address, email address and phone number with them as per the ICANN domain registration rules.\n\nReselling partners : We may share your personal information with our authorized reselling partners in your region, solely for the purpose of contacting you about products that you have downloaded or services that you have signed up for. We will give you an option to opt out of continuing to work with that partner.\n\nMarketplace application developers : When you install or purchase any application developed using Zoho's APIs that is posted on Zoho’s online marketplace, your name and email address will be shared with the developer of the application, so they may engage with you directly as the provider of that application or service. Zoho does not control the use of your personal information by the developers, which will be based on their own privacy policies.\n\nOther cases : Other scenarios in which we may share the same information covered under Parts I and II are described in Part III."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Service data (\"All the information entrusted to Zoho is collectively termed “service data”\") is deleted from servers after you delete your account after 9 months.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We retain your personal information for as long as it is required for the purposes stated in this Privacy Policy. Sometimes, we may retain your information for longer periods as permitted or required by law, such as to maintain suppression lists, prevent abuse, if required in connection with a legal claim or proceeding, to enforce our agreements, for tax, accounting, or to comply with other legal obligations. When we no longer have a legitimate need to process your information, we will delete or anonymize your information from our active databases. We will also securely store the information and isolate it from further processing on backup discs until deletion is possible.\n\nRetention of information\n\nWe hold the data in your account as long as you choose to use Zoho Services. Once you terminate your Zoho user account, your data will eventually get deleted from active database during the next clean-up that occurs once in 6 months. The data deleted from active database will be deleted from backups after 3 months."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "We're required to have a legal basis for collecting and processing your information. In most cases, we either have your consent or need the information to provide the service you've requested from us. When that's not the case, we must demonstrate that we have another legal basis, such as our legitimate business interests.",
+    "legitimateInterests": "We're required to have a legal basis for collecting and processing your information. In most cases, we either have your consent or need the information to provide the service you've requested from us. When that's not the case, we must demonstrate that we have another legal basis, such as our legitimate business interests."
+  },
+  "securityStandards": {
+    "present": "present",
+    "url": "https://www.zoho.eu/security.html",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "present",
+    "type": "form",
+    "url": "https://accounts.zoho.eu/u/h#privacy/dpa",
+    "sourceText": "To enable you to be compliant with the data protection obligations under the General Data Protection Regulation, we are prepared to sign a Data Processing Addendum (DPA) that is based on Standard Contractual Clauses. You can request a DPA from Zoho by completing this form . Once we get your request, we'll forward the DPA to you for your signature."
+  },
+  "privacyShield": {
+    "present": "present",
+    "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TOJbAAO&status=Active"
+  },
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Not very specific.",
+    "specificity": "general",
+    "sourceText": "We make every effort, including periodic reviews, to ensure that personal information you provide is used in conformity with this Privacy Policy. If you have any concerns about our adherence to this Privacy Policy or the manner in which your personal information is used, kindly write to us privacy@zohocorp.com We'll contact you, and if required, coordinate with the appropriate regulatory authorities to effectively address your concerns."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
