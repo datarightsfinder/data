@@ -1,0 +1,118 @@
+{
+  "organisationInformation": {
+    "name": "Compare the Market Limited",
+    "number": "10636682",
+    "registrationCountry": "gb",
+    "description": "comparethemarket.com is a UK price comparison site."
+  },
+  "organisationUrls": [
+    "https://www.comparethemarket.com"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.comparethemarket.com/information/privacy-policy"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "Compare the Market Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS",
+      "emailAddress": "ctm.dpo@bglgroup.co.uk"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {},
+      "observations": "You have to include your email address, full name, date of birth and full address when making an access request."
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {},
+      "observations": " If you ask Compare the Market to erase your data, they will keep the personal data if they need to to comply with fraud prevention law."
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {},
+      "observations": "Compare the Market may still use some data relating to you to comply with fraud prevention law."
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {},
+      "observations": "Compare the Market don't make decisions about you wholly by automated means. Quotes provided by other insurance companies means that they do use automated decision making to assess your quotes. You need to contact the insurance company, rather than Compare the Market, if you want to have a quote reviewed."
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "criminal_records",
+      "date_of_birth",
+      "email_address",
+      "employment",
+      "health",
+      "identity_documents",
+      "income",
+      "names",
+      "postal_address"
+    ],
+    "observations": "Historical driving history, insurance claims history, details about your home/vehicle\n\nThey collect \"details about your relationship\". It's unclear if that means a romantic relationship or the relationship with Compare the Market.",
+    "sourceText": "The personal data that we use for the purposes set out in this Part includes: your name, contact details, date of birth, address history, driving history, claims history, any previous convictions, medical history, details about your vehicle and/or your home and belongings, details about your relationship, information about your employment and income, identification information and your no claims history."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "present",
+    "observations": "Compare the Market also has an app called Meerkat Movies which is unrelated to the core business of price comparison. Meerkat Movies collects your location, information about your device, and will send you marketing information if you consent to that.\n\n"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [],
+    "specificity": "specific",
+    "observations": "When you use Compare the Market, they will share your data with all the companies whose price they compare. They keep a list of the third parties they share data with here: https://www.comparethemarket.com/trusted-partners/",
+    "sourceText": "This is CSV,,,,,\n\"Car \ninsurance\",\"Home\ninsurance\",\"Van\ninsurance\",\"Motorbike\ninsurance\",\"Pet\ninsurance\",\"Other\npartners\"\n1st Central,AA,A-Plan,Bike Sure,Perfect Pet,Assured Futures \n1st Central Plus,Admiral,Admiral,Just Motorcycle Insurance,Animal Friends,Comparison Creator\n1st Central Premier,Admiral Gold,Gladiator,Devitts,Insure Your Paws,Decision Technologies\nAA,Admiral Platinum,Flux Direct,Post Office,Asda,Energy Helpline\nA-Plan, ,Complete Van,eBike,Debenhams,Energylinx\nAcorn Insurance,Homenet,Autonet,Go Skippy,SunLife,Lifesearch\nAdmiral,Home Protect underwritten by Axa,Autonet Plus,Motorcycle Direct,HelpUCover,Love Money\nBell,Home Protect,Autonet Protect,Performance Direct,Post Office,Moneyquest\nDiamond,Quotemehappy.com,Autonet Protect Plus,Grove & Dean,Stride, The Idol\nElephant,AXA,AXA,Hastings Direct,www.pet-insurance.co.uk,YOUR Insurance\nAdmiral Little Box,Swiftcover,Swiftcover,Hastings Premier,The Equine and Livestock Insurance Company Limited, \nRIAS,Barclays Home,Brightside,Scooters & Bikes,Healthy Pets, \nQuote a Car,British Gas,One Insurance Solution,MCE,Argos, \nComplete Car,Aim4agreatquote,Go Skippy,Principal Insurance,John Lewis, \nAutonet,Churchill,First,RAC Group,Legal & General, \nAutonet Plus,Churchill Plus,Budget,Wicked Quotes,Liverpool Victoria, \nQuotemehappy, ,Dial,Right Choice,M & S, \nGeneral Accident,Now4Cover,Geoffrey Insurance,Bennetts,More Than, \nAXA,Privilege,Performance Direct,Bennetts Additions,Pet Pals, \nSwiftcover,Privilege Platinum,Grove & Dean, Entire Cover,Pet Protect, \nInsure Wiser,One Home,Hastings Direct, ,Sainsbury's, \nCarrot Insurance,Endsleigh,Hastings Premier, ,Tesco Pet, \nCollingwood Insurance,eSure,Lloyds, ,Purely Pets, \nCoop Young Driver,Sheilas Wheels,Post Office, ,UIS Crystal, \nProvident Insurance,Fresh Home,Insurance Factory, ,UIS Pearl, \nChurchill,Budget,Zenith, ,UIS Ruby, \nDriveXpert,Dial,Zenith Plus, ,UIS Diamond, \nPrivilege,Performance Direct,MCE Van, ,Paws & ONE PAWS, \nCover box,Grove & Dean,Constructaquote.com, ,Paws & TWO PAWS, \nBrightside,Hastings Direct,More Than, ,Paws & THREE PAWS, \nGo Skippy,Hastings Premier,Nova, ,Paws & FOUR PAWS, \nDebenhams, ,One Call, ,Paws & FIVE PAWS, \nEndsleigh, ,A Choice, ,PDSA Petsurance -- Accident Only, \nEndsleigh Cover,iGO4 insurance,Principal Insurance, ,\"Lifetime £1,000\", \nEndsleigh Direct,Insure4Retirement,Quoteline Direct, ,\"Lifetime £2,000\", \nEndsleigh Graduate,John Lewis Essential,RAC Group, ,\"Lifetime £3,000\", \neSure ,John Lewis Plus,Vanline Direct, ,\"Lifetime £4,000\", \nEsure Broker,John Lewis Premier,VanQuoteDirect, ,\"Lifetime £5,000\", \nSheilas Wheels,BBG, My Van Quote, , 4 Paws Pet Insurance, \nSheilas Wheels Broker,Post Office, My Policy, , VetsMediCover, \nSheilas Wheels Broker Model Driver,Post Office Premier, , ,The Insurance Emporium, \nOnequote Direct,RAC, , ,Computer , \nFirst,SunLife, , , , \nAutosaint,Legal & General, , , , \nLadybird,Legal & General Extra, , , , \nBudget,Skipton Protect, , , , \nClements, , , , , \nDial Direct,Skipton Protect Plus, , , , \nDial Direct Premier,Lloyds Home, , , , \nGeoffrey Insurance,Halifax Home, , , , \nPerformance Direct,Halifax Sum Insured, , , , \nGrove & Dean,Bank of Scotland Home, , , , \nHastings Direct,More Than, , , , \nHastings Essentials,NEOS Good, , , , \nHastings Premier,NEOS Better, , , , \nPeoples Choice,Policy Expert, , , , \nFlux Direct,Quoteline Direct, , , , \nInsure Pink,Saga, , , , \nSmartmiles,Saga Premier, , , , \nHughes,Sainsburys, , , , \n4youngdrivers,Swinton Classic, , , , \nInsure your Motor,Swinton Premier, , , , \niGO4 insurance,Tesco Standard, , ,,\nWiseDriving,Quote Your Home, , , , \nIngenie,Zurich, , , , \nInsure The Box,Intelligent Insurance, , , , \nCo-op Eco, , , , , \nThe Insurance Emporium, , , , , \nJohn Lewis, , , , , \nBank of Scotland, , , , , \nCIS, , , , , \nHalifax, , , , , \n , , , , , \nLloyds, , , , , \nM&S Premier, , , , , \nM&S Unbundled, , , , , \nO2, , , , , \nO2 Drive Box on Board, , , , , \nPost Office, , , , , \nPost Office Premier, , , , , \nRAC, , , , , \nRAC Black Box, , , , , \nSantander, , , , , \nSunLife, , , , , \nZenith, , , , , \nSureterm, , , , , \nInsurance Factory, , , , , \nLancaster Insurance, , , , , \nMore Than, , , , , \nMore Than Smart Wheels, , , , , \nMy Policy, , , , , \nNCI Insurance, , , , , \nQuote Detective, , , , , \nOnecall, , , , , \nGirls Drive Better, , , , , \nPremium Choice, , , , , \nA Choice, , , , , \nRight Choice, , , , , \nGo Girl, , , , , \nInsure2drive, , , , , \nDrive Smart, , , , , \nSaga, , , , , \nSainsbury's, , , , , \nSky Insurance, , , , , \n , , , , , \nSmartdriver, , , , , \nSurething, , , , , \nSurething Max, , , , , \nSwinton Classic, , , , , \nSwinton Essential, , , , , \nTesco Standard, , , , , \nTesco Cover+, , , , , \nTesco Box 6000, , , , , \nTesco Box 8000, , , , , \nTesco Box 10000, , , , , \nMasterquote, , , , , \nGA Telematics, , , , , "
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Generally, Compare the Market will keep your data for a period of 5 years from when you obtain your quote. If you have an account, they will keep your data while your account with us is active and then if you stop using your account we will generally retain your data for a period of 5 years from that point",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We'll only keep your personal data as long as we need it and ensure it is securely destroyed when it is no longer required. We do however need to keep certain data after we have provided you with your quotes for certain periods as detailed below.\n\nGenerally, you can expect us to keep your data for a period of 5 years from when you obtain your quote. If you have an account with us we will keep your data while your account with us is active and then if you stop using your account we will generally retain your data for a period of 5 years from that point (unless there is a requirement for us to keep the data for longer, for example if there are any ongoing queries or claims relating to your quotes).\n\nWe keep data for these periods as it plays an important part in allowing us to undertake fraud detection and prevention activities, allows us to deal with any queries or complaints that may arise regarding quotes that have been provided and allow us to carry out research and analysis to help us improve our products and services (as described in the section headed \"What do we use your data for?\" above).\n\nAny of our partners who process your data to provide a quote should only keep the data for as long as is necessary in relation to the quote they have provided. If you take out a policy with one of our insurance partners, that partner will keep your personal data in line with its own retention periods and you should check that insurance partner's Privacy Policy for further information.\n\nIf you use the 'Your Documents' facility we will keep your documents for a period of 5 years from the date you last used the account as described above.\n\n"
+  },
+  "lawfulBases": {
+    "isMissing": false
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "observations": "They say they place obligations on third parties to keep data secure. They say data is securely destroyed when it is no longer required",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present",
+    "observations": "Compare the Market don't do automated decision making but the insurance companies they share data with will necessarily make automated decisions about you. You should contact those companies if you want to review a decision.",
+    "specificity": "specific",
+    "sourceText": "You have the right to ask for significant decisions that have been made about you wholly by automated means to be reviewed. We do not make any significant decisions about you wholly by automated means. However, the nature of the quotes provided by our insurance partners means that they have to use this kind of automated decision making to assess your quotes. If you want any wholly automated decisions in relation to your quotes to be reviewed, you will need to contact the partner who has produced the relevant quote."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "In the first instance, contact Compare the Meerkat here: https://ctm.secure.force.com/faq\n\nYou can also contact the Information Commissioner's Office at www.ico.org.uk",
+    "specificity": "general",
+    "sourceText": "If you have a complaint regarding how your personal data has been processed by us then please contact us first using the complaints procedure set out here.  You also have the right to complain to the Information Commissioner’s Office, which regulates data protection compliance. You can find more information by visiting their website www.ico.org.uk.\n\n"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
