@@ -1,0 +1,140 @@
+{
+  "organisationInformation": {
+    "name": "HSBC UK Bank PLC",
+    "number": "09928412",
+    "registrationCountry": "gb",
+    "description": "Bank"
+  },
+  "organisationUrls": [
+    "https://www.hsbc.co.uk"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.hsbc.co.uk/privacy-notice"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "FAO DPO, P.O. Box 6201, Coventry CV3 9HW"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "postalAddress": "FAO DPO, P.O. Box 6201, Coventry CV3 9HW"
+      },
+      "observations": "HSBC do not offer specific contact details for exercising individual rights and provide only a single postal contact for their Data Protection Officer."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "criminal_records",
+      "date_of_birth",
+      "email_address",
+      "gender",
+      "health",
+      "identity_documents",
+      "location",
+      "names",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "sourceText": "Information that you provide to us, e.g.:\n* personal details, e.g. name, previous names, gender, date and place of birth;\n* contact details, e.g. address, email address, landline and mobile numbers;\n* information concerning your identity e.g. photo ID, passport information, National Insurance number, National ID card and nationality;\n* market research, e.g. information and opinions expressed when participating in market research;\n* user login and subscription data, e.g. login credentials for phone and online banking and mobile banking apps;\n* other information about you that you give us by filling in forms or by communicating with us, whether face-to-face, by phone, email, online, or otherwise;\n* if our relationship arises out of an insurance policy or claim, we may also collect:\n    - information regarding your family members or other third parties who might be covered by or benefit from your insurance policy, or be financially dependent on you;\n    - information which is relevant to your insurance policy including details of previous policies and claims history. This will depend on the type of policy that you have with us;\n    - lifestyle information, e.g. your smoking status and alcohol consumption if you apply for a life insurance policy;\n    - details about your physical or mental health which are relevant to your insurance policy or claim, e.g. if you make a claim we may ask for medical information relating to the claim;\n    - details about your criminal convictions or related information. This will include information relating to offences or alleged offences;\n    - any other information which is relevant to a claim that you make\n\nInformation we collect or generate about you, e.g.:\n* your financial information and information about your relationship with us, including the products and services you hold, the channels you use and your ways of interacting with us, your ability to get and manage your credit, your payment history, transactions records, market trades, payments into your account including salary details and information concerning complaints and disputes;\n* information we use to identify and authenticate you, e.g. your signature and your biometric information, such as your voice for voice ID, or additional information that we receive from external sources that we need for compliance purposes;\n* geographic information, e.g. about which branches or ATMs you use;\n* information included in customer documentation, e.g. a record of advice that we may have given you;\n* marketing and sales information, e.g. details of the services you receive and your preferences;\n* cookies and similar technologies we use to recognise you, remember your preferences and tailor the content we provide to you – our cookie policy contains more details about how we use cookies and can be found at www.hsbc.co.uk/1/2/cookie-policy;\n* risk rating information, e.g. credit risk rating, transactional behaviour and underwriting information;\n* investigations data, e.g. due diligence checks, sanctions and anti-money laundering checks, external intelligence reports, content and metadata related to relevant exchanges of information between and among individuals and/or organisations, including emails, voicemail, live chat, etc.;\n* records of correspondence and other communications between us, including email, live chat, instant messages and social media communications;\n* information that we need to support our regulatory obligations, e.g. information about transaction details, detection of any suspicious and unusual activity and information about parties connected to you or these activities.\n\nInformation we collect from other sources, e.g.:\n* information you’ve asked us to collect for you, e.g. information about your accounts or holdings with other companies including transaction information;\n* information from third party providers, e.g. information that helps us to combat fraud or that relates to your social interactions (including your communications via social media, between individuals, organisations, prospects and other stakeholders acquired from companies that collect combined information);\n* if our information arises out of an insurance policy or claim, we may also collect:\n    - information relating to your insurance application where you apply for a policy via a comparison website or aggregator;\n    - information relating to your medical records, with your agreement;\n    - information relating to your insurance claims history;\n    - information from other parties involved in your insurance policy or claim;\n    - information from publicly available sources."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Other HSBC Group companies and any sub-contractors",
+      "Joint account holders, trustees, beneficiaries or executors",
+      "Guarantors",
+      "Customer beneficiaries or intermediaries",
+      "Other financial institutions",
+      "Asset managers",
+      "Brokers who introduce you to HSBC",
+      "Entities with an interest in products or services HSBC provides to you",
+      "Any people or companies where required for mergers and acquisitions",
+      "Law enforcement, government, courts, dispute resolution bodies, regulators, or auditors",
+      "Other parties involved in disputes",
+      "Fraud prevention agencies",
+      "Anyone who provides instructions or operates accounts on your behalf",
+      "Card processing suppliers",
+      "Other parties involved in providing your insurance policy or administering insurance claims",
+      "Medical experts and rehabilitation providers (for the purposes of insurance claims)",
+      "Research groups, universities, or advertisers (aggregated or anonymised information only)"
+    ],
+    "specificity": "general",
+    "sourceText": "We may share your information with others where lawful to do so including where we or they:\n• need to in order to provide you with products or services you’ve requested, e.g. fulfilling a payment request;\n• need to in order to provide you with your insurance policy or to administer your claim; have a public or legal duty to do so, e.g. to assist with detecting and preventing fraud, tax evasion and financial crime;\n• need to in connection with regulatory reporting, litigation or asserting or defending legal rights and interests;\n• have a legitimate business reason for doing so, e.g. to manage risk, verify your identity, enable another company to provide you with services you’ve requested, or assess your suitability for products and services;\n• have asked you for your permission to share it, and you’ve agreed.\n\nWe may share your information for these purposes with others including:\n• other HSBC Group companies and any sub-contractors, agents or service providers who work for us or provide services to us or other HSBC Group companies (including their employees, sub-contractors, service providers, directors and officers);\n• any joint account holders, trustees, beneficiaries or executors;\n• people who give guarantees or other security for any amounts you owe us;\n• people you make payments to and receive payments from;\n• your beneficiaries, intermediaries, correspondent and agent banks, clearing houses, clearing or settlement systems, market counterparties and any companies you hold securities in through us, e.g. stocks, bonds or options;\n• other financial institutions, lenders and holders of security over any property you charge to us, tax authorities, trade associations, credit reference agencies, payment service providers and debt recovery agents;\n• any fund managers who provide asset management services to you and any brokers who introduce you to us or deal with us for you;\n• any entity that has an interest in the products or services that we provide to you, including if they take on the risk related to them;\n• any people or companies where required in connection with potential or actual corporate restructuring, merger, acquisition or takeover, including any transfer or potential transfer of any of our rights or duties under our agreement with you;\n• law enforcement, government, courts, dispute resolution bodies, our regulators, auditors and any party appointed or requested by our regulators to carry out investigations or audits of our activities;\n• other parties involved in any disputes, including disputed transactions;\n• fraud prevention agencies who’ll also use it to detect and prevent fraud and other financial crime and to verify your identity;\n• anyone who provides instructions or operates any of your accounts on your behalf, e.g. Power of Attorney, solicitors, intermediaries, etc;\n• anybody else that we’ve been instructed to share your information with by either you, a joint account holder or anybody else who provides instructions or operates any of your accounts on your behalf;\n• our card processing supplier(s) to carry out credit, fraud and risk checks, process your payments, issue and manage your card;\n• If our relationship arises from an insurance policy or claim, we’ll also share your information with:\n    – other parties involved in providing your insurance policy, e.g. the intermediary or insurer who provides your policy;\n    – third parties involved in the administration of the relevant insurance policy or claim including loss adjusters, claims handlers, private investigators, experts and our advisors;\n    – where relevant, medical experts and rehabilitation providers."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "HSBC indicate that they will normally keep banking data for a period of 7 years after the end of a relationship with a customer.\n\nThe policy also indicates that some information may be kept for longer where needed for legitimate purposes.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We keep your information in line with our data retention policy. For example we’ll normally keep your core banking data for a period of seven years from the end of our relationship with you. This enables us to comply with legal and regulatory requirements or use it where we need to for our legitimate purposes such as managing your account and dealing with any disputes or concerns that may arise.\n\nWe may need to retain your information for a longer period where we need the information to comply with regulatory or legal requirements or where we may need it for our legitimate purposes, e.g. to help us respond to queries or complaints, fighting fraud and financial crime, responding to requests from regulators, etc.\n\nIf we don’t need to retain information for this period of time, we may destroy, delete or anonymise it more promptly"
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "contract": "* need to process the information to carry out an agreement we have with you;",
+    "legalObligation": "* need to process the information to comply with a legal obligation;",
+    "publicTask": "* believe the use of your information as described is in the public interest, e.g. for the purpose of preventing or detecting crime;",
+    "legitimateInterests": "* need to pursue our legitimate interests;\n* need to establish, exercise or defend our legal rights;\n* need to use your information for insurance purposes.",
+    "observations": "Unlike some other policies, HSBC only offer a generic overview of the lawful bases they use for processing data, but do not describe in detail what data is processed under each basis."
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "The privacy policy offers a vague description of how information is secured.\n\n\"We use a range of measures to keep your information safe and secure which may include encryption and other forms of security. We require our staff and any third parties who carry out any work on our behalf to comply with appropriate compliance standards.\"",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "The policy indicates that HSBC use automated decision making to make credit decisions and to carry out fraud and money laundering checks.",
+    "specificity": "specific",
+    "sourceText": "We may use automated systems to help us make decisions, e.g. when you apply for products and services, to make credit decisions and to carry out fraud and money laundering checks. We may use technology that helps us identify the level of risk involved in customer or account activity, e.g. for credit, fraud or financial crime reasons, or to identify if someone else is using your card without your permission.\n\nYou may have a right to certain information about how we make these decisions. You may also have a right to request human intervention and to challenge the decision. More details can be found in the ‘Your rights’ section below."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "The privacy policy does not offer information on how to complain to HSBC, but does include information about submitting a complaint to the ICO.",
+    "specificity": "specific",
+    "sourceText": "You also have a right to complain to the UK Information Commissioner’s Office by visiting www.ico.org.uk, or to the data protection regulator in the country where you live or work."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}

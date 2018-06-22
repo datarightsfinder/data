@@ -1,0 +1,127 @@
+{
+    "organisationInformation": {
+      "name": "Stripe, Inc.",
+      "number": "270465600",
+      "registrationCountry": "us_de",
+      "description": "Payment initiation service provider"
+    },
+    "organisationUrls": [],
+    "privacyNoticeUrl": {
+      "url": "https://stripe.com/gb/privacy"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "emailAddress": "dpo@stripe.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "url": "https://www.stripe.com/contact",
+          "postalAddress": " FAO: Stripe Legal, Stripe, 185 Berry Street, Suite 550, San Francisco, CA 94107"
+        },
+        "observations": "Stripe do not provide specific contact information for exercising individual data protection rights."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "date_of_birth",
+        "device_information",
+        "email_address",
+        "names",
+        "postal_address",
+        "social_security_number",
+        "telephone_number"
+      ],
+      "observations": "Stripe indicate that they may also collect information about online activities on third-party websites, devices, apps and other online features and services.",
+      "sourceText": "Personal Data is any information that relates to an identified or identifiable individual. The Personal Data that you provide directly to us through our Sites will be apparent from the context in which you provide the data. In particular:\n* When you register for a Stripe account we collect your full name, email address, and account log-in credentials.\n* When you fill-in our online form to contact our sales team, we collect your full name, work email, country, and anything else you tell us about your project, needs and timeline.\n* When you use the “Remember Me” feature of Stripe Checkout, we collect your email address, payment card number, CVC code and expiration date.\n* When you respond to Stripe emails or surveys we collect your email address, name and any other information you choose to include in the body of your email or responses. If you contact us by phone, we will collect the phone number you use to call Stripe. If you contact us by phone as a Stripe User, we may collect additional information in order to verify your identity.\n\nIf you are a Stripe User, you will provide your contact details, such as name, postal address, telephone number, and email address. As part of your business relationship with us, we may also receive financial and personal information about you, such as your date of birth and government identifiers associated with you and your organization (such as your social security number, tax number, or Employer Identification Number).\n\nIf you are a Customer, when you make payments or conduct transactions through a Stripe User’s website or application, we will receive your transaction information. Depending on how the Stripe User implements our Services, we may receive this information directly from you, or from the Stripe User or third parties. The information that we collect will include payment method information (such as credit or debit card number, or bank account information), purchase amount, date of purchase, and payment method. Different payment methods may require the collection of different categories of information. The Stripe User will determine the payment methods that it enables you to use, and the payment method information that we collect will depend upon the payment method that you choose to use from the list of available payment methods that are offered to you by the Stripe User.\n\nWhen we conduct fraud monitoring, prevention and detection activities, we may also receive Personal Data about you from our business partners, financial service providers, identity verification services, and publicly available sources (e.g., name, address, phone number, country), as necessary to confirm your identity and prevent fraud. Our fraud monitoring, detection and prevention services may use technology that helps us assess the risk associated with an attempted transaction that is enabled on the Stripe User’s website or the application that collects information.\n\nYou may also choose to submit information to us via other methods, including: (i) in response to marketing or other communications, (ii) through social media or online forums, (iii) through participation in an offer, program or promotion, (iv) in connection with an actual or potential business relationship with us, or (v) by giving us your business card or contact details at trade shows or other events.\n\nOur Sites use cookies and other technologies to function effectively. These technologies record information about your use of our Sites, including:\n* Browser and device data, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the language version of the Sites you are visiting;\n* Usage data, such as time spent on the Sites, pages visited, links clicked, language preferences, and the pages that led or referred you to our Sites.\n* We also may collect information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services. We use Google Analytics on our Sites to help us analyze Your use of our Sites and diagnose technical issues.\n\nTo learn more about the cookies that may be served through our Sites and how You can control our use of cookies and third-party analytics, please see our Cookie Policy."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Other stripe entities",
+        "Identity verification services",
+        "Website hosting services",
+        "Data analysis services",
+        "Information technology services",
+        "Customer service companies",
+        "Auditing services",
+        "Third-party business partners (such as credit card networks)",
+        "Companies which Stripe acquires or merges with, or who acquire or merge with Stripe",
+        "Law enforcement agencies, regulatory agencies, and other public and government authorities"
+      ],
+      "specificity": "general",
+      "sourceText": "Stripe does not sell or rent Personal Data to marketers or unaffiliated third parties. We share your Personal Data with trusted entities, as outlined below.\n\na. Stripe. We share Personal Data with other Stripe entities in order to provide our Services and for internal administration purposes.\n\nb. Service providers. We share Personal Data with a limited number of our service providers. We have service providers that provide services on our behalf, such as identity verification services, website hosting, data analysis, information technology and related infrastructure, customer service, email delivery, and auditing services. These service providers may need to access Personal Data to perform their services. We authorize such service providers to use or disclose the Personal Data only as necessary to perform services on our behalf or comply with legal requirements. We require such service providers to contractually commit to protect the security and confidentiality of Personal Data they process on our behalf. Our service providers are predominantly located in the European Union and the United States of America.\n\nc. Business partners. We share Personal Data with third party business partners when this is necessary to provide our Services to our Users. Examples of third parties to whom we may disclose Personal Data for this purpose are banks and payment method providers (such as credit card networks) when we provide payment processing services, and the professional services firms that we partner with to deliver Stripe Atlas.\n\nd. Our Users and third parties authorized by our Users. We share Personal Data with Users as necessary to maintain a User account and provide the Services. We share data with parties directly authorized by a User to receive Personal Data, such as when a User authorizes a third party application provider to access the User’s Stripe account using Stripe Connect. The use of Personal Data by an authorized third party is subject to the third party’s privacy policy.\n\ne. Corporate transactions. In the event that we enter into, or intend to enter into, a transaction that alters the structure of our business, such as a reorganization, merger, sale, joint venture, assignment, transfer, change of control, or other disposition of all or any portion of our business, assets or stock, we may share Personal Data with third parties for the purpose of facilitating and completing the transaction.\n\nf. Compliance and harm prevention. We share Personal Data as we believe necessary: (i) to comply with applicable law, or payment method rules; (ii) to enforce our contractual rights; (iii) to protect the rights, privacy, safety and property of Stripe, you or others; and (iv) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Stripe retain personal data for as long as a customer uses Stripe services, and then for as long as is necessary to comply with their legal and regulatory obligations. Stripe indicate that they also retain personal data to comply with tax, accounting, and financial reporting obligations.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "If you are a Stripe User, we retain your Personal Data as long as we are providing the Services to you. We retain Personal Data after we cease providing Services to you, even if you close your Stripe account, to the extent necessary to comply with our legal and regulatory obligations, and for the purpose of fraud monitoring, detection and prevention. We also retain Personal Data to comply with our tax, accounting, and financial reporting obligations, where we are required to retain the data by our contractual commitments to our financial partners, and where data retention is mandated by the payment methods that we support. Where we retain data, we do so in accordance with any limitation periods and records retention obligations that are imposed by applicable law."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "contract": "We use Personal Data for the purpose of entering into business relationships with prospective Stripe Users, and to perform the contractual obligations under the contacts that we have with Stripe Users. Activities that we conduct in this context include:\n\n* Creation and management of Stripe accounts and Stripe account credentials, including the evaluation of applications to commence or expand the use of our Services;\n* Creation and management of Stripe Checkout accounts;\n* Accounting, auditing, and billing activities; and\n* Processing of payments with Stripe Checkout, communications regarding such payments, and related customer service.",
+      "legalObligation": "We use Personal Data to verify the identity of our Users in order to comply with fraud monitoring, prevention and detection obligations, laws associated with the identification and reporting of illegal and illicit activity, such as AML (Anti-Money Laundering) and KYC (Know-Your-Customer) obligations, and financial reporting obligations. For example, we may be required to record and verify a User’s identity for the purpose of compliance with legislation intended to prevent money laundering and financial crimes. These obligations are imposed on us by the operation of law, industry standards, and by our financial partners, and may require us to report our compliance to third parties, and to submit to third party verification audits.",
+      "legitimateInterests": "We rely on our legitimate business interests to process Personal Data about you. The following list sets out the business purposes that we have identified as legitimate. In determining the content of this list, we balanced our interests against the legitimate interests and rights of the individuals whose Personal Data we process. We:\n\n* Monitor, prevent and detect fraud and unauthorized payment transactions;\n* Mitigate financial loss, claims, liabilities or other harm to Users and Stripe;\n* Respond to inquiries, send service notices and provide customer support;\n* Promote, analyze, modify and improve our products, systems, and tools, and develop new products and services;\n* Manage, operate and improve the performance of our Sites and Services by understanding their effectiveness and optimizing our digital assets;\n* Analyze and advertise our products and services;\n* Conduct aggregate analysis and develop business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of, our business;\n* Share Personal Data with third party service providers that provide services on our behalf and business partners which help us operate and improve our business;\n* Ensure network and information security throughout Stripe and our Services; and\n* Transmit Personal Data within our affiliates for internal administrative purposes."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "The privacy policy contains some basic information about the methods Stripe uses to secure data, including their use of access control among personnel.",
+      "specificity": "specific"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {
+      "present": "present",
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TQOUAA4"
+    },
+    "dataProtectionRegister": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown"
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "The privacy policy indicates that the general contact form linked throughout the policy can also be used to submit complaints, as well as the postal address.\n\nThe policy does not contain any contact details for any European data protection supervisory authorities.",
+      "specificity": "general",
+      "sourceText": "If You have any questions or complaints about this Privacy Policy, please contact us electronically or send physical mail to:\n\nStripe\n185 Berry Street, Suite 550\nSan Francisco, CA 94107\nAttention: Stripe Legal"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }

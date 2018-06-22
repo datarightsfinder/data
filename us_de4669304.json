@@ -1,0 +1,125 @@
+{
+  "organisationInformation": {
+    "name": "Worldpay, Inc.",
+    "number": "4669304",
+    "registrationCountry": "us_de",
+    "description": "Payment initiation service provider"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.worldpay.com/uk/worldpay-privacy-notice"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "Worldpay, The Walbrook Building, 25 Walbrook, London, EC4N 8AF"
+    }
+  },
+  "rights": {
+    "isMissing": true,
+    "general": {
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, Worldpay, The Walbrook Building, 25 Walbrook, London, EC4N 8AF"
+      },
+      "observations": "Worldpay's policy contains a section on data rights under GDPR and outlines the rights available to data subjects but does not offer any instructions on how to exercise such rights. A later paragraph indicates that these rights can be exercised by contacting the DPO."
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "credit_history",
+      "device_information",
+      "email_address",
+      "gender",
+      "names",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "sourceText": "* Contact information, including: name (first, family and business), telephone numbers, address (home, billing and business), fax, email address and other communications, including; information about you and your use of Worldpay Services when you open messages from Worldpay and from the use of electronic identifiers. For example, Internet Protocol (IP) addresses;\n* Demographic information, including: nationality, country of residence, data of birth, marital status, birth place, gender, preferred language, citizenship;\n* National Identification information, such as: national insurance number, passport, social security number, taxpayer identification number, driving licence or other form of identification to verify the cardholder, customer or potential candidate;\n* Monitoring or Recording, including: monitoring or recording telephone calls, emails, web chats, CCTV, access control or other communications with you;\n* Merchant or other Customer identification, such as: merchant or customer ID;\n* Merchant or other Customer management, including billing, invoicing, refunds, reconciliations and reporting;\n* Points or rewards received, for example through a loyalty scheme;\n* Information related to items purchased, including: location of the purchase, value, time, method, any feedback that is given in relation to such purchase;\n* Payment transaction information, including: Alternative Payment Methods (“APMs”), transaction monitoring, fraud monitoring, products/services, trend analysis, analytics;\n* Financial and credit card information, including: PAN or account number, card expiry date, CVC details, bank and/or issuer details;\n* Credit risk information, including: information obtained about you from credit reference or fraud prevention agencies, credit history, credit score, fraud monitoring;\n* HR information, including: information which you provide in a job application form or any other information obtained or provided by you during the course of your registration and application and email alerts of future vacancies;\n* Technical information, including: the Internet protocol (IP) address used to connect your computer or device to the Internet, your device ID, login information (username/password), browser type and version, time zone setting, browser plug-in types and versions, device operating system platform, mobile carrier, location or GPS/geo-location;\n* Information about your visit or whether you opened an email, including: the full Uniform Resource Locators (URL) clickstream to, through and from Worldpay’s site (including date and time), products or services you viewed or searched for page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs), methods used to browse away from the site page, any phone number used to call Worldpay’s customer service number;\n* Photographs and videos of you, from Worldpay events, through identity verification or as part of an interview;\n* Publically accessible comments and opinions reviewed and used by Worldpay, through Internet searches or posted on social networking sites e.g. Facebook and LinkedIn;\n* Insights gained through Worldpay events (anonymised basis) from sessions that you participate in and contribute at Worldpay events;\n* Social media posts on Worldpay social media sites or made publically about Worldpay on social media;\n* Event participant details from a Worldpay event, including: name, title and company from a Worldpay app for the event which is available to registered delegates; and\n* Applications, if you download or use mobile or desktop applications, including information about your location, your device or the service you are using (including where a payment transaction takes place)."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Worldpay group companies",
+      "Financial institution clients",
+      "Service providers and other third parties who help with the business operations of Worldpay",
+      "Regulatory authorities",
+      "Social media sites integrated into Worldpay web services",
+      "Potential purchasers of Worldpay",
+      "Business partners of Worldpay",
+      "Analytics and search engine providers (ordinarily non-personal info)",
+      "Credit reference agencies",
+      "Fraud prevention agencies",
+      "Third party credit and financial institutions"
+    ],
+    "specificity": "general",
+    "observations": "Worldpay publish a table as an appendix to the privacy notice, which contains a more detailed breakdown of specifically what information will be available to which of the third parties that are mentioned in the notice.",
+    "sourceText": "* Any Worldpay group company;\n* Any group company (such as advisers, share plan, payroll and other third party administrators, agents or contractors working on behalf of Worldpay);\n* Financial institution clients;\n* Service providers and other third parties under contract who help with our business operations (including, but not limited to, fraud investigations, site analytics and operations);\n* Regulatory authorities, such as the FCA, Data Protection Authorities, and the FTC;\n* Social media sites integrated into web services that we offer;\n* Governmental or quasi-governmental organizations;\n* Potential purchasers of Worldpay;\n* Business partners (including those in which Worldpay has an investment), suppliers and sub-contractors for the performance of any contract Worldpay enter into with them or you;\n* Analytics and search engine providers that assist Worldpay in the improvement and optimisation of Worldpay’s websites, although ordinarily only non-Personal Information is shared;\n* Credit reference agencies for the purpose of assessing your credit score where this is a condition of Worldpay entering into a contract with you, including Experian, Equifax plc and Call Credit;\n* Fraud prevention agencies (as outlined above and including Action Fraud, Financial Fraud Action and the Financial Fraud Bureau); and\n* Third Party Credit and Financial Institutions (where allowed under any Terms of Use or other contract) including:\n    - the credit institution, where you or your business maintains its bank account; or\n    - the card schemes governing the issue and use of credit, debit, charge, purchase or other payment cards, alternative payment schemes and any other financial institutions who may process payments and who are not operating under Worldpay’s control nor for whom whose actions or omissions Worldpay has liability."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Worldpay only retains personal information for as long as is required to achieve the purposes for which it was collected.\n\nThe policy notes that specific retention periods vary based on regulatory requirements but suggests that most data will not be retained for more than 7 years.",
+    "specificityCategory": "general",
+    "specificityTime": "specific"
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "legalObligation": "The policy indicates that they process data for \"legal, regulatory or law enforcement purposes\"",
+    "legitimateInterests": "Worldpay appear to rely on legitimate interests for all other data processing.",
+    "observations": "Worldpay do not clearly break down the lawful bases under which they process data. It appears that they rely on legal obligations as the lawful basis for processing data for \"legal, regulatory or law enforcement purposes\", and legitimate interests for everything else."
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "The policy contains some basic information about how Worldpay secure personal customer information though it is not particularly specific.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {
+    "present": "not_present"
+  },
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "The policy includes information about submitting a complaint to the ICO about Worldpay's data processing.",
+    "specificity": "specific",
+    "sourceText": "If you have any queries or complaints about the processing of your Personal Information in the United Kingdom, you can also contact the ICO here.\n\nIf you have any queries or complaints about the processing of your Personal Information in the United States, you can also contact the FTC here."
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "fail"
+  }
+}
