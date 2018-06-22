@@ -1,0 +1,117 @@
+{
+    "organisationInformation": {
+      "name": "Fractal Labs Limited",
+      "number": "08972946",
+      "registrationCountry": "gb",
+      "description": "Open banking service"
+    },
+    "organisationUrls": [
+      "https://www.askfractal.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://www.askfractal.com/legal/privacy_policy"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "emailAddress": "privacy@fractal-labs.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "emailAddress": "privacy@fractal-labs.com"
+        },
+        "observations": "The policy offers an overview of a data subject's rights under GDPR and directs all queries about exercising those rights to a single email address."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "device_information",
+        "email_address",
+        "names",
+        "telephone_number"
+      ],
+      "sourceText": "We may collect and process the following personal data about you:\n\n* Registration Information: Information that you provide by filling in forms on our Platform, including at the time of registering to use our Platform, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter any competition or promotion sponsored by Fractal Labs, and when you report a problem with our Platform. This information includes your name, e-mail address, telephone number, your photo, postal address, username and password to access the Platform.\n* Correspondence Information: If you contact us, we may keep a record of that correspondence.\n* Survey Information: Information which you provide to us by completing surveys or polls, and which we use for research purposes. You do not have to respond to these surveys.\n* Platform Transaction Data: Details (including value, date, identity of payee) of transactions you carry out through our Platform. All payments made through our Platform are administered by a third party payment processor and we do not have access to any debit or credit card numbers or information. However, we will gather the details of the transactions carried out through our Platform, such as value of payments and frequency of payments, but without viewing your billing information directly. Please note that any payments made will be subject to the payment provider's own user terms and privacy policy - you will be given the opportunity to read these before providing them with your data and completing the transaction.\n* Fractal Data, which includes:\n    - transaction information: Information concerning your transactions, including the value of transactions and the payee, which we obtain from your bank account(s) as part of the account information service we provide to you or to a Partner;\n    - consolidated information: your transaction information, whether or not in its original form, and which we provide to you or, if you are a Referred User, to a Partner to enable the Partner to provide its services to you.\n* Other Data: may include your accounting information from third party sources with which you have a relationships, including cloud-based accounting service providers.  This information may include a description of your account; your bank account number, sort code and IBAN, roll number; bank account fees, charges and interest and rewards; details of your bank account transactions, standing orders and direct debits; the identity of merchants and transaction counterparties and related invoices.\n* Fractal report and budget information: data charts and tables which we create in relation to Fractal Data and to provide you with forward-looking budgets.\n* Session Information: Details of your visits to our Platform including, but not limited to, Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access.\n* Cookie Information:  Cookies are small files which are downloaded to your device when accessing our Platform. Most web browsers automatically accept cookies. We use the following categories of cookie:\n    - Strictly necessary cookies. These are cookies that are required for the operation of our Platform. They include, for example, cookies that enable you to log into secure areas of our Platform, use a shopping cart or make use of e-billing services.\n    - Analytical/ performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our Platform when they are using it. This helps us to improve the way our Platform works, for example, by ensuring that users are finding what they are looking for easily.\n    - Functionality cookies. These are used to recognise you when you return to our Platform. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).\n    - Targeting cookies. These cookies record your visit to our Platform, the pages you have visited and the links you have followed. We will use this information to make our Platform more relevant to your interests. We may also share this information with third parties for this purpose."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Organisations which provide you with access to the platform (such as an employer)",
+        "Any member of Fractal's group",
+        "Companies involved in mergers and acquisitions",
+        "Law enforcement authorities"
+      ],
+      "specificity": "general",
+      "sourceText": "We may disclose your personal data to:\n\n* The organisation which has provided you with access to our Platform (such as your employer or place of work) and its representatives, and third parties with whom you have decided to share content and commentary from our Platform. This shall include the Fractal Data (comprising the transaction information, consolidated information and Other Data). The legal basis for disclosing your personal data is for the performance of the contract between you and us.\n* Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 or our business partners, suppliers and sub-contractors, in each case to enable us to provide the Platform and related services to you.  The legal basis for disclosing your personal data is for the performance of the contract between you and us.\n* To a prospective seller or buyer of all, or substantially all, of the shares or assets of Fractal Labs, in the event of a merger, acquisition or reorganisation, together with the professional advisors of such seller or buyer.   The legal basis for disclosing your personal data is our legitimate interest.\n* To  law enforcement authorities and organisations concerned with fraud prevention and credit risk and to our professional advisors, in order to enforce any agreement between us (or any of our rights thereunder); or to protect our rights, property, or safety, or that of our customers, or others; or to comply with a legal obligation. For these purposes, we may need to transfer your personal data outside of the EEA. The legal basis for disclosing your personal data is our legitimate interest and, in some cases, to comply with a legal obligation."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Fractal retain personal data for a long as is necessary and relevant to their operations.\n\nThe policy contains a clearly formatted table which breaks down personal data into specific categories and outlines the durations for retention of each sort of data.",
+      "specificityCategory": "general",
+      "specificityTime": "specific",
+      "sourceText": "Data below this line is held in CSV format to preserve the table layout\n\n-----\n\nCategory of personal data,Duration of retention,Reason for retention\nRegistration Information,\"We shall retain your Registration Information for as long as you use the Platform. In practice, this means that we will retain this information for twenty (20) business days following the date on which the termination of the�Terms�becomes effective, unless we have a good reason to retain it on a temporary basis.\",\"We need to retain your Registration Information to provide the Platform to you.\nIn certain circumstances we may need to extend the retention period in the event of unpaid invoices, to resolve disputes, enforce our�Terms, or as may be required by law or regulation.\"\nCorrespondence Information,\"We shall retain your Survey Information for as long as it takes to process and respond to you, but in any event for no longer than you use the Platform. �In practice, this means that we will retain this information for no longer than twenty (20) business days following the date on which the termination of the Terms becomes effective, unless we have a good reason to retain it on a temporary basis. �\",\"We need to retain your Correspondence Information in order to respond to your enquiries.\nIn certain circumstances we may need to extend the retention period in the event of unpaid invoices, to resolve disputes, enforce our�Terms, or as may be required by law or regulation.\"\nSurvey Information,\"We shall retain your Survey Information for as long as it takes to process and analyse the results, but in any event for no longer than you use the Platform. �In practice, this means that we will retain this information for twenty (20) business days following the date on which the termination of the�Termsbecomes effective, unless we have a good reason to retain it on a temporary basis. �\",We need to retain you Survey Information so that we can better understand our customers� usage of the Platform and how we can improve it.\nTransaction Information/consolidated information,\"We shall retain your Transaction Information/consolidated information for as long as you use the Platform. In practice, this means that we will retain this information for twenty (20) business days following the date on which the termination of the�Terms�becomes effective, unless we have a good reason to retain it on a temporary basis.\",\"We need to retain your Transaction Information/consolidated information to provide the Platform to you.\nIn certain circumstances we may need to extend the retention period in the event of unpaid invoices, to resolve disputes, enforce our�Terms, or as may be required by law or regulation.\"\nOther Data,\"We shall retain your Other Data for as long as you use the Platform. In practice, this means that we will retain this information for twenty (20) business days following the date on which the termination of the�Termsbecomes effective, unless we have a good reason to retain it on a temporary basis.\",\"We need to retain your Other Data to provide the Platform to you.\nIn certain circumstances we may need to extend the retention period in the event of unpaid invoices, to resolve disputes, enforce our�Terms, or as may be required by law or regulation.\"\nFractal report and budget information,\"We shall retain your Fractal report and budget information for as long as you use the Platform. In practice, this means that we will retain this information for twenty (20) business days following the date on which the termination of the Terms becomes effective, unless we have a good reason to retain it on a temporary basis.\",\"We need to retain your Fractal report and budget information to provide the Platform to you.\nIn certain circumstances we may need to extend the retention period in the event of unpaid invoices, to resolve disputes, enforce our�Terms, or as may be required by law or regulation.\"\nApp State (FL_Local),It is deleted at the end of the browser session.,This cookie will remain for the duration of your browsing session to enable to perform certain essential functions of the service.\nAuthentication (Auth),It is deleted at the end of the browser session.,This cookie will remain for the duration of your browsing session to enable us to authenticate users and prevent fraudulent use of user accounts.\nSession ID (sessid),It is deleted at the end of the browser session.,This cookie will remain for the duration of your browsing session to enable us to authenticate users and prevent fraudulent use of user accounts.\nSession ID (JSESSIONID),It is deleted at the end of the browser session.,This cookie will remain for the duration of your browsing session to enable us to authenticate users and prevent fraudulent use of user accounts.\nCSRF Prevention (CSRFToken),It is deleted at the end of the browser session.,This cookie will remain for the duration of your browsing session to authenticate users and block unauthorised requests from other sites.\nCompany ID (companyid_)_,It is deleted at the end of the browser session.,The cookie will remain for the duration of your browsing session to enable to perform certain essential functions of the service.\nHubspot Tracking (__hstc),2 years,\"This cookie tracks visitors. It contains the�domain, utk (see below), initial�timestamp (first visit), last�timestamp (last visit), current�timestamp (this visit), and�session number (increments�for each subsequent session).\"\nHubspot Tracking (hubspotutk),10 years,This cookie is used for to keep�track of a visitor�s identity. This�cookie is passed to HubSpot�on form submission and used�when de-duplicating contacts.\nHubspot Session (__hssc),30 minutes,\"This cookie keeps track of�sessions. This is used to�determine if Hubspot should\nincrement the session number�and timestamps in the __hstc�cookie. It contains the domain,�viewCount (increments each�pageView in a session), and�session start timestamp.\"\nHubspot Session �(__hssrc),It is deleted at the end of the browser session.,This session cookie is used to support browser restart.\nHubspot Tracking (__hs_opt_out),2 years,This cookie is used by the Hubspot opt-in privacy policy to remember not to ask the user to accept cookies again.\nHubspot Tracking (hsPagesViewedThisSession),It is deleted at the end of the browser session.,This cookie is used to keep track of page views in a session.\nInternationalisation (i18next),It is deleted at the end of the browser session.,This cookie is used for language detection.\n\"Intercom Session (intercom-id-), �(intercom-lou-), (intercom-session-)\",It is deleted at the end of the browser session.,These cookies are used to provide customer support with Intercom messages.\n\"MixPanel Tracking (mp_), (_ga), (_mkto_trk), (_vwo_uuid)\",It is deleted at the end of the browser session.,These cookies are used to analyse how our platform is used to continually improve our product delivery.\n\"KissMetrics Tracking (kvcd), (km_ai), (km_lv), (km_ni), (km_vs)\",It is deleted at the end of the browser session.,These cookies are used to analyse how our platform is used to continually improve our product delivery.\n"
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "- \"We may use Registration Information to provide you with information regarding products or services, as set out in section 4 below. The legal basis for such processing (and disclosing to third parties, where relevant) is that you have consented for us to do so.\"",
+      "contract": "- \"The legal basis for [registration information] processing is for the performance of the contract between you and us.\"\n\n- \"We use Platform Transaction Information to enable us to analyse your transactions on our Platform and provide you with insights and alerts.  The legal basis for such processing is for the performance of the contract between you and us.\"\n\n- \"We use transaction information and consolidated information to provide you with the account information service and to provide you with insights and alerts.  The legal basis for such processing is for the performance of the contract between you and us.\"\n\n- \"We use Other Data to enable us to analyse your financial information on our Platform and provide you with insights and alerts.   The legal basis for such processing is for the performance of the contract between you and us.\"",
+      "legitimateInterests": "- \"We use Correspondence Information and Survey Information to ensure that content from our Platform is presented in the most effective manner for you and for your computer or mobile. The legal basis for such processing is our legitimate interest.\"\n\n- \"We use your Session Information to administer our site and for internal operations, including security, troubleshooting, data analysis, continuity, testing, research, statistical purposes. The legal basis for such processing is our legitimate interest.\"",
+      "observations": "Fractal offer a clear breakdown of the individual legal bases used to justify the processing of each type of data."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "Fractal commit to taking \"all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy\" but do not offer additional information on how this is achieved beyond stating that transaction information is encrypted.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "dataProtectionRegister": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown",
+      "observations": "The policy does not specify whether Fractal use automated decision making."
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "Fractal do not offer information on where to direct initial complaints, but do specify contact details for the ICO.",
+      "specificity": "specific",
+      "sourceText": "To lodge a complaint with a data protection supervisory body, which at present, is the Information Commissioner’s Office.  You may contact them on 0303 123 1113."
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }
