@@ -1,0 +1,141 @@
+{
+  "organisationInformation": {
+    "name": "Swinton",
+    "number": "00756681",
+    "registrationCountry": "gb",
+    "description": "Swinton is a UK insurance retailer"
+  },
+  "organisationUrls": [
+    "https://www.swinton.co.uk/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.swinton.co.uk/privacy-policy/"
+  },
+  "dataProtectionOfficer": {
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "url": "https://www.swinton.co.uk/personal-data-request/",
+      "postalAddress": "Swinton Insurance, Embankment West Tower, 101 Cathedral Approach, Salford, M3 7FB",
+      "telephoneNumber": "0800 1164181"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      },
+      "observations": "It is very difficult to find out how to use your rights on Swinton's privacy policy."
+    },
+    "access": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "rectification": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "erasure": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "restrictProcessing": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "dataPortability": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "object": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {
+        "url": "https://www.swinton.co.uk/personal-data-request/"
+      }
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "credit_history",
+      "criminal_records",
+      "date_of_birth",
+      "email_address",
+      "employment",
+      "family",
+      "gender",
+      "health",
+      "identity_documents",
+      "names",
+      "nationality",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "observations": "They also collect marital status, place of birth, job title, employment history, vehicle and property details, telematics (vehicle tracking) and in some cases, surveillance reports.",
+    "sourceText": "The following is a list of the types of personal data we may collect and hold about you:\n\nTypes of personal data\n\nDetails\n\nIndividual details\n\nName, address (including proof of address), other contact details (e.g. email and telephone numbers, gender, marital status, date and place of birth, nationality, employer, job title and employment history, and family details, including their relationship to you, vehicle and property details.\n\nIdentification details\n\nIdentification numbers issued by government bodies or agencies, including your national insurance number, passport number, tax identification number and driving license number.\n\nFinancial information\n\nBank account or payment card details, income or other financial information.\n\nRisk details\n\nInformation about you which we need to collect in order to assess the risk to be insured and provide a quote. This may include data relating to your health, criminal convictions, or other special categories of personal data. For certain types of policy, this could also include telematics data.\n\nPolicy information\n\nInformation about the quotes you receive and policies you take out.\n\nCredit and anti-fraud data\n\nCredit history, credit score, sanctions and criminal offences, and information received from various anti-fraud databases relating to you.\n\nPrevious and current claims\n\nInformation about previous and current claims, (including other unrelated insurances), which may include data relating to your health, criminal convictions, or other special categories of personal data and in some cases, surveillance reports."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "observations": "The list of purposes for use of personal data is comparatively short and undetailed."
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Covea Insurance",
+      "Insurance Participants (a company)",
+      "law enforcement bodies, reinsurers and regulators such as the Financial Conduct Authority"
+    ],
+    "specificity": "general",
+    "sourceText": "Swinton may share your personal data in a number of ways:\n\na)  Your personal data may be used by Swinton as the data controller or shared with our sister company Covea Insurance plc (company number 613259 ) as is necessary and explained within this privacy policy.\n\nb)  Swinton will also share personal data with Insurance Participants, who may be data controllers in their own right. \n\nc)  We may also share your personal data with law enforcement bodies, reinsurers and regulators such as the Financial Conduct Authority, as is necessary and permitted by law. In addition, in the event of a merger, acquisition, or any form of sale of some or all of our assets to a third party, we may also disclose your personal data to the third parties concerned or their professional advisors as is necessary.\n\nd)  To assist us in providing insurance broking services to you, it is necessary for us to use third party suppliers. In using these third party suppliers, we often have to share and allow access to personal data to enable those third party suppliers to carry out the relevant services. If third party suppliers are using personal data to provide services on our behalf, they are known as ‘data processors’. Examples of important areas where we use third party suppliers (and therefore data processors) include for the purposes of:\n\nweb and data hosting;\ncloud software;\nclaims management;\nprint production;\nmarket research;\npricing and analytics;\nproviding credit;\ncredit searches;\nbrand and product development;\nfraud prevention;\ncompliance monitoring, quality management and audit; and\ndebt management and collection.\nWe will ensure that any data processor we use has entered into a contract with us which fully sets out the data processor’s duties, including in relation to protecting the processing of your personal data. "
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Personal data will be retained for 11 years for the purpose of analysing and assessing risk in relation to insurance claims.\n\nPersonal data relating to quotes requested and subsequently not taken up by you will only be processed for marketing purposes for four years. \n\nCall recordings will be retained for three years.",
+    "observations": "Very clear and intelligible",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "Swinton  will delete personal data in line with its retention policies. Personal data will be retained for the minimum amount of time necessary for each type of activity that we conduct.\n\nFor the purposes of supporting our complaint handling, quality management, regulatory requirements and to defend against legal claims, personal data associated with the provision of quotes, inceptions and management of policies will be retained for a maximum of seven years from the conclusion of your relationship with us.\n\nPersonal data will be retained for 11 years for the purpose of analysing and assessing risk in relation to insurance claims.\n\nPersonal data relating to quotes requested and subsequently not taken up by you will only be processed for marketing purposes for four years. Should you wish to stop receiving any form of marketing contact please let us know.\n\nCall recordings will be retained for three years. Certain call recordings may be held for longer in the event that they are required to support specific regulatory investigations, complaints handling or the prevention and detection of crime.\n\nSwinton work with Insurance panel members in order to provide you with a quote and incept insurance. Insurers will retain and delete personal data according to their own retention policies and you should ensure you read the insurers privacy policy, in respect of your personal data processed and retained by them."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "contract": "- to provide you with insurance quotes, set up and maintain your insurance policy, carry out fraud and credit checks, and handle claims",
+    "legitimateInterests": "- network and information security,\n- pricing modelling and analytics,\n- defence and prosecution of legal claims,\n- investigation or prosecution of fraud,\n- transfer books of business, sale or reorganisations of the business\n- direct marketing by post and phone",
+    "observations": "There is very little detail on this."
+  },
+  "securityStandards": {
+    "present": "not_present"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "When calculating insurance premiums, Insurance Participants (a third party) may compare your personal data against industry averages. Your personal data may also be used to create the industry averages going forward.\n\n- to understand fraud patterns\n- special categories of data like medical history and past convictions may be used for profiling\n- credit checks\n- ",
+    "specificity": "specific",
+    "sourceText": "When calculating insurance premiums  Insurance Participants may compare  your personal data against industry averages. Your personal data may also be used to create the industry averages going forward. This is known as profiling and is used to ensure premiums reflect risk.\n\nProfiling may also be used by Insurance Participants to assess personal data you provide to understand fraud patterns.\n\nWhere special categories of personal data are relevant, such as medical history or past motoring convictions for motor insurance, your special categories of data may also be used for profiling.\n\nInsurance Participants might make some decisions based on profiling and without human  intervention (known as automatic decision making).\n\nThe legal ground Swinton uses to carry out automated processing is that it is necessary for the purposes of entering into, or performance, of your insurance policy. Swinton uses automated processing for the following purposes:-\n\n(i) Fraud prevention and detection\n\nIn order to prevent or detect fraud we will check your details with various fraud prevention agencies and anti-fraud databases, who may record a search. These checks include processing conducted automatically by computers.\n\nInsurers pass information to the Claims Underwriting Exchange database, run by the Motor Insurers’ Bureau (MIB). The aim is to help us check information provided and also to prevent fraudulent claims. We may at any time search the database including when we deal with your request for insurance.\n\nIf fraud is suspected, information will be shared with insurers and fraud prevention agencies. Swinton use Lexis Nexis as an interface to compare customer personal data with data held by these fraud prevention agencies. We search these databases when we deal with your request for insurance, at renewal, if changes are made to the policy or, in the event of an incident or claim. Other users of the fraud prevention databases, such as law enforcement agencies, may use this information in their own decision making processes.\n\nUnder the conditions of your policy, you must tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident we will pass information relating to it, to our claims management business partners. All telephone calls relating to applications and claims may be monitored and recorded and the recordings used for fraud prevention and detection, training and quality control purposes.\n\nWe may also share your information with law enforcement agencies, other organisations and public bodies where we reasonably believe it is necessary for the prevention and detection of fraud, crime or where required to do so under a court order.\n\nIf your application for insurance has been declined and you believe this to be incorrect please explain why to a member of staff who will review the circumstances. You can contact us on 0800 1164181.\n\n(ii) Credit reference checks\n\nSoft Search\n\nWe will conduct credit reference checks at one or more of the UK’s credit reference agencies (“CRAs”) in certain circumstances. In all cases these checks will be carried out to confirm identity, help prevent fraud and calculate premiums. This is a soft search which means it is only visible to you (if you request a copy of your credit file at the credit reference agencies) and is not visible to other organisations. This type of credit reference check will not affect your credit file.\n\nThe search will be visible on your credit report but it won't affect your credit rating as it's not an application for credit. The CRAs may add the details of our searches and personal data that we hold about you to their records relating to you.\n\nQuotation Search\n\nIn a small number of cases, including in order to obtain premiums from certain insurers, a fuller credit reference check which we call a quotation search may need to be conducted with the CRAs. If this is the case you will be informed. We will conduct that type of search only with your explicit consent. This type of search will leave a footprint on your credit file which is visible to other lenders and companies unrelated to us (for example, other CRA customers).\n\nThis type of search and the personal data about you may be used and disclosed by the CRAs to other lenders and companies to enable them to trace your whereabouts, recover debts that you owe and to verify your identity.\n\nThe Information Commissioners Office has provided guidance on how CRA checks work and how long information is retained for. Download the guidance pdf  (PDF 0.9 MB)\n\nRecords remain on file at the CRAs for six years after they are closed, whether settled by you or defaulted. CRAs may use this personal data for the purpose of carrying out statistical analysis about credit ratings. If you tell us that you have a spouse or financial associate with whom you have a personal relationship that creates a financial association* in a similar way to a married couple (for example if you have been living at the same address at the same time), we may:\n\ni) search, link and/or record information at CRAs about you both,\n\nii) link any individual identified as your financial associate, in our own records,\n\niii) take both your and their information into account in future applications by either or both of you, and\n\niv) continue this linking until one of you notifies us that you are no longer linked.\n\n* An association shows that you have a financial connection with someone else. This can be created by joint judgments, joint accounts, joint credit applications, or from information you have previously provided to CRAs through quotations and applications for credit.\n\nLinked records\n\nWhen CRAs receive a search from us they will link together your records and records about your spouse or financial associate. Links will remain on your credit file and theirs until such time as you or they successfully files for a disassociation with the CRAs. If your circumstances change and you believe you are no longer financially linked with another person you should contact the CRAs about this.\n\nContacting Credit Reference Agencies\n\nYou can contact the CRAs currently operating in the UK (CallCredit, Equifax and Experian) to find out what information they hold about you. The information they hold may not be the same so you may wish to contact more than one. Their details are below. They are entitled charge you a small statutory fee.\n\nCall Credit, 0330 024 7574 or log on to www.callcredit.co.uk.\n\nEquifax, Equifax Ltd Customer Service Centre, PO Box 10036, Leicester , LE3 4FS, 0333 3214043or log on to www.equifax.co.uk.\n\nExperian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0344 481 0800 or log on to www.experian.co.uk\n\nBoth types of credit checks as described above may be completed when obtaining a quote for you, whenever you change or renew the policy, to offer payment options and to calculate premiums.\n\nIf you would like further information on any of this automated processing you can contact us on  0800 1164181.\n\n(iii) Risk analytics and insurance premium pricing\n\nWe will process your personal data to determine premium pricing, and assess a number of risk rating factors relating to your insurance policy.\n\n(iv) Marketing\n\nWe will process your personal data to enable us to develop, review and improve the services which we offer and to enable us to provide you with relevant information through our marketing programme.\n\nWe may use your information to make decisions about you using technology to track or profile your, online journey, such as how you arrive on our website and for assessing which products might be most suitable for you.\n\nIf you believe the outcome of any automated processing has resulted in an outcome that you did not expect please explain why to a member of staff who will review the circumstances. You can contact us on 0800 1164181 to explain the circumstances.\n\n"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Information Commissioners Office, Wycliffe House, Water Lane,Wilmslow, Cheshire, SK9 5AF\n\nTel: 0303 123 1113 (local rate) or\n\n01625 545 745 (National rate)\n\nEmail: casework@ico.org.uk",
+    "specificity": "specific",
+    "sourceText": "f you are not satisfied with our use of your personal data or our response to any request by you to exercise any of your rights in this section, or if you think that we have breached data protection regulation, then you have the right to complain to the Information Commissioner’s Office (“ICO”).\n\nPlease see below for contact details of the ICO\n\nInformation Commissioners Office, Wycliffe House, Water Lane,Wilmslow, Cheshire, SK9 5AF\n\nTel: 0303 123 1113 (local rate) or\n\n01625 545 745 (National rate)\n\nEmail: casework@ico.org.uk\n\nIf you have any questions in relation to our use of your personal data , you should first contact the Data Protection Officer Swinton Insurance, Embankment West Tower, 101 Cathedral Approach, Salford, M3 7FB\n\nIf you would like to speak to us about how we use your information you can contact us on 0800 1164181."
+  },
+  "presentation": {
+    "plainLanguage": "fail",
+    "easyToFind": "fail",
+    "easyToFindInside": "fail"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "organisationInformation": {
+    "name": "Insurance2go",
+    "number": "05350177",
+    "registrationCountry": "gb",
+    "description": "Insurance2go is one of the trading names of Loyal Insurance specialising in phone insurance. All data collected by Insurance2go is sent to a sister company 'Citymain'"
+  },
+  "organisationUrls": [
+    "https://www.insurance2go.co.uk/",
+    "https://www.eclaimcity.co.uk/",
+    "https://www.spbuk.com/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.eclaimcity.co.uk/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "SPB UK & Ireland 3000 Lakeside, North Harbour Western Road Portsmouth Hampshire PO6 3EN",
+      "emailAddress": "compliance@spbuk.com",
+      "telephoneNumber": "02392 836839"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "compliance@spbuk.com",
+        "telephoneNumber": "02392 836839"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "names",
+      "postal_address"
+    ],
+    "sourceText": "We will collect data from you when you contact us directly for a policy quotation or visit one of our websites. * If you purchase a policy from one of our business partners your personal data will be provided to enable us to provide policy, claims and card loss administration services.\n\nWe may also collect information about you from other sources to help fraud detection and financial crime prevention. These other sources include registers held by reputable organisations.\n\nThe data collected may include:\n\nAny personal details you provide when requesting a quotation or when you purchase insurance such as name, address, email address, telephone number, bank sort code and account number if your policy is paid by monthly direct debit.\nOr\nAny personal details forwarded to us by a third party on whose behalf we are providing a policy, claim or card loss administration service on behalf of the third party.\nYour IP address (this is your computer's individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.\nYour preferences and use of email updates (if you select to receive email updates on products and offers).\nSession information stored in cookies, these do not include any personal information and are used to ensure the correct data is extracted from the database when using our interactive systems.\nOur websites may use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the/our website. By using the/our website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.\nAny additional information you submit to make a claim for example date of birth, name and address of the device user and vehicle registration number if item stolen from a car and other information you provide when making a claim. Further we may hold police crime reports.\nAny additional information you submit while using any of our websites\n*Please note that some elements of our websites are managed and operated by our Group Head office at 71 Quai Colbert 76095 Le Havre Cedex France, and therefore will be subject to the following:\n\nIn accordance with French data protection legislation of January 6, 1978 as amended by the Act of August 6, 2004 (articles 38-43 of Act no. 78-17 of January 6, 1978 concerning \"Information Technology, Files and Freedom of Information\") you have the right to access, change, correct or delete information that refers to you by name. To exercise this right, you should write to the Group Communication Department, SPB, 40-44, Rue Washington 75008 Paris - FRANCE.\n\nFor information on France's data protection legislation, please visit the website of the French Commission Nationale de l’Informatique et des Libertés at www.cnil.fr."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "observations": "The corporate structure of the companies is hard to follow. The customer deals with Insurance2go which sends data to Citymain which is part of SPB. To understand how data is used, you have to read several privacy policies."
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Citymain",
+      "SPB",
+      "When providing a service in relation to a claim; loss adjusters and service providers for the repair and replacement of an item",
+      "courts, regulators, law enforcement or in certain cases other insurers"
+    ],
+    "specificity": "general",
+    "observations": "The corporate structure of these companies makes it difficult to determine which data is sent where.",
+    "sourceText": "We work with third parties to help manage our business and deliver services. These third parties may, from time to time, need to have access to your personal data. In addition, access may also be required as follows:\n\nthe Insurer of the policy and regulator and organisations working to prevent fraud in financial services may require access to your personal data. We require all of our service providers to respect the confidentiality and security of personal data.\nWhen providing a service in relation to a claim; loss adjusters and service providers for the repair and replacement of an item and third parties who help manage our IT and back office systems.\nWe may be under legal or regulatory obligations to share your personal data with courts, regulators, law enforcement or in certain cases other insurers."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "In most cases the retention period will be for a period of seven years following the policy record expiry date or the date of claim notification.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "Your personal information will not be retained for longer than is necessary and will be managed in accordance with our data retention policy. In most cases the retention period will be for a period of seven years following the policy record expiry date or the date of claim notification."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "- By using their website, you consent to the processing of data about you by Google Analytics\n",
+    "observations": "They rely on consent and legitimate business interests but don't specify which purposes rely on which purpose."
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "They ask that you please attempt to resolve any issues with them first, by contacting the Data Protection Officer at compliance@spbuk.com",
+    "specificity": "general",
+    "sourceText": "You have the right to lodge a complaint with the Information Commissioner’s Office about our processing of your personal data. We ask that you please attempt to resolve any issues with us first, by contacting the Data Protection Officer at compliance@spbuk.com"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "fail",
+    "easyToFindInside": "fail"
+  }
+}
