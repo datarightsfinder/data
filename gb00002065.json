@@ -155,7 +155,7 @@
   },
   "complaintInformation": {
     "present": "present",
-    "observations": "The policy links to a secure online contact form for submitting complaints.\n\nIt also contains links to the relevant data protection authorities for the UK, as well as Jersey, Guernsey, and the Isle of Man.",
+    "observations": "The policy links to a secure online contact form for submitting complaints (https://secure.lloydsbank.com/retail/contact_us/how-we-can-help.asp).\n\nIt also contains links to the relevant data protection authorities for the UK, as well as Jersey, Guernsey, and the Isle of Man.",
     "specificity": "specific",
     "sourceText": "Please let us know if you are unhappy with how we have used your personal information.\n\nYou can contact us using our secure online contact form. You also have the right to complain to the regulator, and to lodge an appeal if you are not happy with the outcome of a complaint.\n\nIn the UK this is the Information Commissioner’s Office. Find out on their website how to report a concern .\n\nIn Jersey, please contact the Office of the Information Commissioner.\n\nIn Guernsey, please contact the Office of the Data Protection Commissioner.\n\nIn Isle of Man, please contact the Information Commissioner."
   },
