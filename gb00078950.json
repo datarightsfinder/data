@@ -1,0 +1,114 @@
+{
+  "organisationInformation": {
+    "name": "AXA Insurance UK",
+    "number": "00078950",
+    "registrationCountry": "gb",
+    "description": "Axa is a global insurance company"
+  },
+  "organisationUrls": [
+    "https://www.axa.co.uk/home.aspx"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.axa.co.uk/uploadedFiles/Content/Privacy_Policy/AXA%20UK%20Plc%20Privacy%20Policy%20-%20v2018.1.pdf"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "AXA Insurance UK Plc Brooke Lawrance House 80 Civic Drive Ipswich Suffolk IP1 2AN ",
+      "emailAddress": "dataprotection.ins@axa-insurance.co.uk"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {}
+    },
+    "access": {
+      "contactInfo": {},
+      "observations": "Your personal information will usually be provided to you in writing, unless otherwise requested, or where you have made the request by electronic means, in which case the information will be provided to you by electronic means where possible."
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {},
+      "observations": "You can ask to opt out of automated decision-making but they say it may mean they can’t offer you a quote or policy."
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "criminal_records",
+      "date_of_birth",
+      "email_address",
+      "health",
+      "identity_documents",
+      "names",
+      "postal_address",
+      "sex_life",
+      "sexual_orientation",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "observations": "They may also collect:\n\n- details of anyone else included on the policy where they are named on your policy and the relationship to you as policyholder.\n\n- details about your vehicle, property, previous policies or claims, recent damage, information about your travel plans, destination, planned activities and dates of travel.\n\n- information about the nature of your business and commercial assets\n\n- details of bankruptcies and other financial sanctions such as HMRC investigations\n\n\nIt is completely unclear why they may collect details concerning sexual life or sexual orientation, for example marital status ",
+    "sourceText": "Where AXA Insurance UK Plc is the data controller of your personal information we may\ncollect the following about you:\n• Personal information\no contact details such as name, email address, postal address and telephone\nnumber\no details of any other persons included on the policy where they are named on\nyour policy and the relationship to you as policyholder\no identification information such as your date of birth, national insurance\nnumber, passport and driving licence\no financial information such as bank details, credit card details and\ninformation obtained as a result of our credit checks\no information relevant to your insurance policy such as details about your\nvehicle, property, previous policies or claims, recent damage, information\nabout your travel plans, destination, planned activities and dates of travel\no information relevant to your claim or your involvement in the matter giving\nrise to a claim\no information about the nature of your business and commercial assets\no information obtained through our use of cookies. You can find out more\nabout this in our cookies policy\no details of bankruptcies and other financial sanctions such as HMRC\ninvestigations\no your marketing preferences\n\n• Sensitive personal information\no details of your current or former physical or mental health\no details concerning sexual life or sexual orientation, for example marital\nstatus\no details regarding criminal offences, including alleged offences, criminal\nproceedings, outcomes and sentences (previous criminal convictions,\nbankruptcies and other financial sanctions such as County Court\nJudgements)\nWhere AXA PPP healthcare is the data "
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": []
+  },
+  "retentionRules": {
+    "isMissing": false
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "- Providing marketing information to you",
+    "contract": "- To review your insurance application and provide you with a quote.\n- To evaluate your application and ability to pay for your policy by instalments.",
+    "legalObligation": "- Complying with our legal or regulatory obligations",
+    "legitimateInterests": "- To administer, provide and service your insurance policy, assess eligibility for and handling and paying claims. \n- To communicate with you and resolve any complaints you may have.\n- To prevent, detect and investigate fraud\n- For the purposes of debt recovery\n- For our own management information purposes\n- For analytical purposes and to improve our products and services\n- Providing improved quality, training and security "
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "They use personal information that you and others provide about you, your\nfamily, property, where you live your policy claims history, and other non-personal\ninformation such as garage repair costs or hospital costs to determine your premium\nand eligibility.\n\nThey use individual credit information about you provided to them by third parties in order to assess your suitability for insurance and the price they offer to you.\n\nThe information used to assess your insurance risk includes: verification of your residence at address via bills and electoral roll, historic payment behaviour on financial products, prior insolvency and any prior county court judgements. If they are unable to validate your residence at the insured address or consider your historic payment behaviour with creditors to be significantly adverse they will decline to offer you a price for your insurance risk.\n\nYou can ask to opt out of automated decision-making but they say it may mean they can’t offer you a quote or policy.",
+    "specificity": "specific",
+    "sourceText": "Some of our decisions are made automatically by inputting your personal information into a system or computer and the decision is calculated using certain automatic processes rather than our employees making those decisions. We make automated decisions in the following situations:\n\nDeciding your premium\nWe use the personal information that you and others provide to us about you your family, property, where you live your policy claims history, and other non-personal information such as garage repair costs or hospital costs to determine your premium and eligibility. The price also depends on what options you have chosen to purchase. For example, if you live in London you will pay more than if you live in Lancashire because healthcare costs, on average, are higher in London than Lancashire. We also use information about how long you have been a customer, how many claims you have made and how much you pay in premiums to determine what terms you are offered at renewal.\n\nFraud prevention\nAXA Insurance uses automated anti-fraud filters that check against lists of people known to have undertaken fraudulent transactions and will reject those applicants on the basis they are likely to defraud the company.\n\nAssessing your application\nWe may use scoring methods to assess your application, to verify your identity and determine finance charges, for example;\n\nWhen you join AXA PPP healthcare you will either do so on a personal policy or under a group scheme. We may collect information directly from you, from/via your or your partner, your parent’s or employer. Depending on the type of scheme we may collect health information at the start, as well as personal information such as your date of birth and address. Depending on the type of scheme/policy AXA PPP may use the personal and sensitive information in order to assess the price and determine any exclusions we need to apply.\n\nExamples of information used by our systems to do this include: your age, your postcode your lifestyle (e.g. do you smoke cigarettes) and your medical history. If you do not consent to us processing sensitive information in this way, we may be unable to assess your application or offer you cover, alternatively we may only be able to offer you styles of policy that do not require us to have that information at the start. The automated decision making carried out by AXA PPP during the application is bespoke to us, and we do not share the results of this with third parties.\n\nAXA Insurance uses individual credit information about you provided to us by third parties in order to assess your suitability for insurance and the price we offer to you. The information used to assess your insurance risk includes: verification of your residence at address via bills and electoral roll, historic payment behaviour on financial products, prior insolvency and any prior county court judgements. If we are unable to validate your residence at the insured address or consider your historic payment behaviour with creditors to be significantly adverse we will decline to offer you a price for your insurance risk. The credit assessments carried out by AXA are bespoke to us and will not impact your ability to obtain insurance or other financial products elsewhere.\n\nYou have a right not to be subject to automated decision-making in the circumstances described above and where automated decision-making used in the assessment of your application or fraud prevention, you can contact us to request that any declined decision is reconsidered. If you want to opt out of automatic decision-making, let us know, although in some circumstances it may mean we can’t offer you a quote or policy as some automated decisions are necessary to provide your insurance policy."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "To contact the UK's Information Commissioner’s Officer, go to https://ico.org.uk/global/contact-us/email\n\nYou can also phone 0303 123 1113 or write to Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire,\nSK9 5AF",
+    "specificity": "specific",
+    "sourceText": "If you would like to contact the UK’s Information Commissioner’s Officer direct; please write\nto the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire,\nSK9 5AF, Telephone: 0303 123 1113 (local rate) or 01625 545 745 if you prefer to use a national\nrate number https://ico.org.uk/global/contact-us/email/"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "fail",
+    "easyToFindInside": "fail"
+  }
+}

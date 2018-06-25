@@ -1,0 +1,112 @@
+{
+  "organisationInformation": {
+    "name": "Liverpool Victoria Insurance",
+    "number": "03232514",
+    "registrationCountry": "gb",
+    "description": "LV= sells car, home, pet, travel and life insurance"
+  },
+  "organisationUrls": [
+    "https://www.lv.com/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.lv.com/assets/non-product/pdfs/gdpr/gi-how-we-use-your-personal-information.pdf"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": " LV= County Gates, Bournemouth, BH1 2NF ",
+      "emailAddress": "dpo@LV.com"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "postalAddress": "GI Customer Support, LV=, County Gates, Bournemouth, BH1 2NF ",
+        "emailAddress": "GICustomerSupport@LV.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "criminal_records",
+      "date_of_birth",
+      "health",
+      "names",
+      "postal_address"
+    ],
+    "observations": "They also collect claims history and Information about the things you want to insure.\n\nThey collect a relatively small amount of information relative to other companies in the sector.",
+    "sourceText": "We only ask for information that we need, and have strict controls to keep it safe. We collect your personal information to provide our products and services (eg handling your claims) to you. Without the information we ask for, we can’t give you a quote or insurance policy and it may affect the outcome of any claims you make. Personal information we collect will be held in digital and / or paper files. We collect personal information such as name, address, date of birth, criminal convictions, health, and claims history. We’ll also collect information which relates to the things you want to insure (for example your house or vehicles)."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "present",
+    "observations": "They may share your personal information with market research agencies who will conduct market research and business analysis on their behalf."
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": []
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "If you buy a policy from them, they keep all personal information for 7 years after the policy ends.\n\nFrom 7 years and up to 40 years after the policy ended they'll keep the personal information they say they need for analysis purposes (eg risk and business modelling such as for pricing) and so that we can identify who and what was covered by the policy.\n\nIn exceptional cases they say they may need to keep claim information for longer than 40 years where serious injury has occurred and there is potential need to provide life-long care to an injured person. \n\nIf you get a quote from them, they'll keep your details for up to 3 years. If you’ve given them marketing consent they may market to you for a period of up to 5 years unless you withdraw your consent.",
+    "observations": "They keep personal information for up to 40 years to use for analysis to set prices and to identify who and what was covered by a policy.",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "If you buy a policy from us we’ll keep all personal information for 7 years after the policy ends to ensure we meet our statutory and regulatory obligations (eg as laid down by the HMRC, MIB), and to allow us to manage complaints or claims\n\nFrom 7 years and up to 40 years after the policy ended we’ll keep the personal information we need for analysis purposes (eg risk and business modelling such as for pricing) and so that we can identify who and what was covered by the policy. Beyond 40 years we’ll keep information we need for longer term analysis (eg weather event modelling).\n\nIn exceptional cases we may need to keep claim information for longer than 40 years (eg where serious injury has occurred and there is potential need to provide life-long care to an injured person). Where remediation work for a claim is backed by long-term guarantees (eg flood, subsidence claims) we’ll keep claim information for at least the period of the guarantee (up to 10 years).\n\nIf you get a quote from us, we’ll keep your details for up to 3 years. If you’ve given us marketing consent we may market to you for a period of up to 5 years unless you withdraw your consent."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "-  get your medical information from the relevant health provider, eg doctor or hospital\n- to send you marketing information about our products and services",
+    "legalObligation": "-  the prevention, detection and reporting of fraud and other financial crime",
+    "legitimateInterests": "- develop, improve, and personalise our products, pricing and services\n- enhance our customer service, experience, and relationship (eg customer and market research, business analysis, provide relevant product and service information)\n- improve the relevance of our advertising and marketing campaigns\n- help detect and prevent fraud and financial crime\n- develop and improve our administration, security systems and insurance applications\n- promote responsible lending and help prevent over-indebtedness\n- share it with third parties in the event of organisational change (eg if we bought or merged with another organisation)\n- share personal information with other LV= companies"
+  },
+  "securityStandards": {
+    "present": "not_present"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "dataProtectionRegister": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "-  to help determine the prices, policy terms, relevant products / services, when you research or ask for a quote, buy insurance, make any changes, renew or make a claim\n\n- Profiling will also be used to enhance their understanding of you and to inform our business decisions (eg product design, pricing, customer journeys or marketing strategy).\n\n-  If you’ve chosen to receive marketing information from them, profiling will be used to make our marketing more relevant",
+    "specificity": "specific",
+    "sourceText": "We use automated decision making to help determine the prices,\npolicy terms, relevant products / services, when you research or ask\nfor a quote, buy insurance, make any changes, renew or make a claim.\nWe may also profile you based on your personal information and that\nprovided by third parties. Profiling may be used to help determine the\nlikelihood of a claim or policy transaction being fraudulent.\nProfiling will also be used to enhance our understanding of you and to\ninform our business decisions (eg product design, pricing, customer\njourneys or marketing strategy). If you’ve chosen to receive marketing\ninformation from us, profiling will be used to make our marketing more\nrelevant, eg personalise the channels used to market to you, the\nmarketing messages used and the offers you’re sent.\nPlease see the personal information rights section below."
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "You can also raise your complaint with the Information Commissioner’s Office on 0303 123 1113 or visit ico.org.uk/concerns",
+    "specificity": "specific",
+    "sourceText": "You can also raise your complaint with the Information Commissioner’s Office on 0303 123 1113 or visit ico.org.uk/concerns"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
