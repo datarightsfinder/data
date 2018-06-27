@@ -1,0 +1,123 @@
+{
+    "organisationInformation": {
+      "name": "Admiral",
+      "number": "03849958",
+      "registrationCountry": "gb",
+      "description": "Insurance"
+    },
+    "organisationUrls": [
+      "https://www.admiral.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://www.admiral.com/your-privacy-and-security"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, Admiral Group plc, Tŷ Admiral, David Street, Cardiff, CF10 2AA",
+        "emailAddress": "yourinformationrights@admiralgroup.co.uk"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "emailAddress": "EUIadmin@admiralgroup.co.uk"
+        }
+      },
+      "access": {
+        "contactInfo": {
+          "postalAddress": "Head of Customer Assurance, Subject Access Request, Tŷ Admiral, David Street, Cardiff, CF10 2AA",
+          "emailAddress": "EUIadmin@admiralgroup.co.uk"
+        }
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "criminal_records",
+        "date_of_birth",
+        "device_information",
+        "gender",
+        "health",
+        "names",
+        "postal_address",
+        "telephone_number"
+      ],
+      "sourceText": "[Admiral's policy is presented in such a way that copy/paste operations are difficult to perform]"
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Companies in the Admiral Group",
+        "Companies involved in mergers and acquisitions",
+        "Companies involved in delivering the products and services bought by you",
+        "Telematic Service Providers (in the case of vehicle telematics data)",
+        "Agents, parties and subcontractors",
+        "Parties to whom Admiral are required by law to disclose data to"
+      ],
+      "specificity": "general",
+      "sourceText": "Apart from ourselves, other companies that may have access to your data include:\n\nCompanies within the Admiral Group (For the purposes of this Privacy Statement, \"Admiral Group\" means Admiral Group plc and any company or entity in which Admiral Group plc owns more than 15% of the issued share capital. Companies in the Admiral Group shall include, without limitation, EUI Limited, Admiral Insurance Services Limited, Admiral Insurance Company Ltd, Admiral Insurance (Gibraltar) Ltd, Inspop.com Ltd, Able Insurance Services Ltd, AFSL, and any other company that is incorporated within the Admiral Group at any time in the future). A full list of our companies can be found at www.admiralgroup.co.uk/business/our_companies.php\nIn the event that we undergo re-organisation or are sold to a third party, in which case you agree that any personal data we hold about you may be transferred to that re-organised entity or third party.\nWhere it is necessary to deliver the products and services bought by you. For example, we may disclose your personal data to a credit card company to validate your credit card details and obtain payment. It may also be necessary for us to pass your personal data to the organisation from whom you have ordered any products or services other than your Admiral Group company insurance product or loan, such as a travel insurance or personal accident cover provider. At all times, we will remain the data controller unless we inform you otherwise."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Admiral note that personal data will be kept as long as it is needed to provide customers with the agreed products or services.\n\nAfter an account, policy or service has closed, it will continue to be held for as long as the user may bring a claim against Admiral.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "Your personal data will be kept for as long as we require it in order to provide you with the agreed product(s) or service(s). It will continue to be retained after any account, policy or service has been closed or otherwise come to an end in line with our legal and regulatory requirements, and for as long as you may legally bring claims against us."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "legitimateInterests": "* Fraud detection and prevention across Admiral Group\n* Engaging and contacting you throughout the lifecycle of your policy to ensure you have a good experience as an Admiral customer\n* Setting reserves for our injury claims\n* Internally auditing our processes to maintain our high standards\n* Some of our marketing activities\n* Refining and improving our pricing models to improve the accuracy of our premiums\n* Sharing data with selected third parties in order to add value to our products",
+      "observations": "Admiral appear to only rely upon legitimate interests as the lawful basis for processing any data."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "Admiral note that they use \"industry standard security\" to encrypt sensitive data when it is in transit to their servers. Admiral do not provide in-depth information about how data is secured.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "present",
+      "observations": "Admiral indicate that automated decision-making is used for \"credit scoring or other automated decision-making systems\".",
+      "specificity": "specific",
+      "sourceText": "Credit scoring or other automated decision-making systems"
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "Admiral direct complaints to their Data Protection Officer in the first instance, and note that subsequent complaints can be submitted to the Information Commissioner's Office.",
+      "specificity": "specific",
+      "sourceText": "[Admiral's policy is presented in such a way that copy/paste operations are difficult to perform]"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "fail"
+    }
+  }
