@@ -93,9 +93,9 @@
       "Credit reference and fraud protection agencies",
       "Third-party guarantors or other companies who provide you with benefits related to your service",
       "Parties involved in potential insolvency, mergers, or acquisitions of NatWest",
-      "Unspecified \"third parties\" (anonymised statistical and aggregate data only)"
+      "Unspecified \"third parties\" (anonymised statistical and aggregate data only)",
       "Any third party that provides customers with account information or payment services (with customer consent)",
-      "Other authorised users who have been added to your account"
+      "Other authorised users who have been added to your account",
       "Other members of a customer's \"Fee Family\" (if that service is used)"
     ],
     "specificity": "general",
