@@ -1,0 +1,108 @@
+{
+    "organisationInformation": {
+      "name": "TrueLayer",
+      "number": "10278251",
+      "registrationCountry": "gb",
+      "description": "Open banking platform for app developers"
+    },
+    "organisationUrls": [
+      "https://truelayer.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://truelayer.com/privacy/"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, TrueLayer, c/o RocketSpace, 40 Islington High Street, London N1 8XB.",
+        "emailAddress": "privacy@truelayer.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "emailAddress": "privacy@truelayer.com"
+        },
+        "observations": "The policy indicates that customers can exercise their data rights by emailing TrueLayer's Data Protection Officer."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": []
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Business parties, suppliers and sub-contractors that assist us in the provision of our Service",
+        "Parties to whom TrueLayer have a legal obligation to disclose data",
+        "Parties to enforce or apply our Terms of Service and other agreements",
+        "Parties to protect the rights, property, or safety of TrueLayer or customers"
+      ],
+      "specificity": "general",
+      "observations": "TrueLayer's policy defines the potential recipients of personal data widely without much specificity."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "TrueLayer indicate that they will not retain information \"any longer than we think is necessary\". The policy provides some examples of factors which they use to decide the necessary period, but do not refer to specific categories of data or time periods.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "We will not retain your information for any longer than we think is necessary.\n\nInformation that we collect will be retained for as long as needed to fulfil the purposes outlined in the ‘Use of your personal data’ section above, in line with our legitimate interest or for a period specifically required by applicable regulations or laws, such as retaining the information for regulatory reporting purposes.\n\nWhen determining the relevant retention periods, we will take into account factors including:\n* our contractual obligations and rights in relation to the information involved;\n* legal obligation(s) under applicable law to retain data for a certain period of time;\n* statute of limitations under applicable law(s);\n* our legitimate interests where we have carried out balancing tests (see section on 'How we use your personal information' above);\n* (potential) disputes; and\n* guidelines issued by relevant data protection authorities.\n\nOtherwise, we securely erase your information where we no longer require your information for the purposes collected."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "contract": "For the performance of a contract with You;",
+      "legitimateInterests": "For the purpose of furthering TrueLayer’s legitimate interests including providing better products, services, websites and applications, to operate our websites and applications.",
+      "observations": "TrueLayer do not specify which of the lawful bases apply to specific data processing activities, but make it clear that all of their processing activities are justified under either \"consent\" or \"legitimate interests\"."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "TrueLayer indicate that they take \"reasonable precautions to ensure that it is not lost, misused, accessed, disclosed, altered or destroyed.\" They do not offer further information on the techniques used.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown",
+      "observations": "The policy does not contain any information about automated decision making.",
+      "specificity": "general"
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "TrueLayer provide details on submitting a complaint to the Information Commissioner's Office as the supervisory authority for data protection in the UK.",
+      "specificity": "specific",
+      "sourceText": "Should you be dissatisfied with the service we provide, You have the right to file a formal complaint to the Information Commissioner's Office at www.ico.org.uk."
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "fail"
+    }
+  }

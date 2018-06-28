@@ -1,0 +1,125 @@
+{
+    "organisationInformation": {
+      "name": "U K Insurance",
+      "number": "AC001348",
+      "registrationCountry": "gb",
+      "description": "Insurance"
+    },
+    "organisationUrls": [
+      "https://u-k-insurance.co.uk",
+      "https://www.churchill.com",
+      "https://www.directline.com",
+      "https://www.privilege.com",
+      "https://www.greenflag.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://u-k-insurance.co.uk/brands-policy.html"
+    },
+    "dataProtectionOfficer": {
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, U K Insurance Limited, Churchill Court, Westmoreland Road, Bromley, BR1 1DP"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "postalAddress": "Data Rights Team, U K Insurance Limited, Churchill Court, Westmoreland Road, Bromley, BR1 1DP"
+        },
+        "observations": "To exercise any data protection right, U K Insurance directs all customers to the postal address above."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "credit_history",
+        "criminal_records",
+        "employment",
+        "income",
+        "location",
+        "names"
+      ],
+      "sourceText": "Where we have collected information directly from you it will usually be obvious what this is, as you will have given it to us. This might not be the case where we have used cookies to collect information from your computer or portable electronic devices. Please see our cookies policy for more information.\n\nWe can collect information about you from others. This includes information from:\n* Joint policyholders or policy beneficiaries. Where you are named on a joint policy or a beneficiary of that policy we may collect information about you from any named policyholder.  We will ask them to confirm that they have your permission to give us this information about you.\n* Fraud prevention, law enforcement or government agencies and other data sources used to prevent or detect fraud or provide details to us about criminal convictions or offences.\n* HM Treasury and other authorities in relation to regulatory issues e.g. where someone is subject to a financial sanction they will appear on HM Treasury's asset freezing list.\n* Credit reference agencies e.g. credit searches that are made when we produce a quotation for a new policy or at renewal. (Note that the results of these searches are automatically deleted after 12 months and do not affect your ability to obtain credit.) Please also see section 4 below.\n* External sources such as no claims discount databases, the electoral role and insurance comparison websites to help us decide what the risk is in selling the policy and from companies that hold information about insurance renewal dates, marital status, household residents, vehicle details, employment status and household income to help us work out which information we should provide to you about our other products and services.\n\n\nWe collect information that is sensitive, such as information about children, health or geo-location (which may be sensitive personal information because, for example, it can pinpoint your location at a hospital), and information related to unspent past criminal convictions or offences. We also collect your sensitive personal information for specific types of policy or applications, for example when offering you a travel policy or a driving application e.g. Telematics.  We obtain this from your mobile devices for driving applications and the following people:\n* The main policyholder will provide most of the information we collect about health (including confirming whether hospital treatment is being sought) and unspent criminal convictions or offences, including on behalf of others named on the insurance policy e.g. medical screening to support a travel policy;\n* Fraud prevention or law enforcement agencies may provide details to us about criminal convictions or offences;\n* Witnesses to an accident may provide medical information to us if there is an investigation of a claim;\n* We may use information about a child, for example, where the child is a beneficiary under a policy or if involved in an accident. \n\nWe collect and use this information as part of your insurance quotation or contract with us, or where it is necessary for a legal obligation, or as part of the establishment or defence of a legal claim."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "U K Insurance group companies",
+        "Fraud prevention agencies",
+        "Law enforcement or government agencies",
+        "Credit reference agencies",
+        "Your spouse or partner",
+        "Other insurance companies",
+        "Insurance industry bodies",
+        "Insurance industry databases",
+        "Government bodies"
+      ],
+      "specificity": "general",
+      "observations": "U K Insurance limited offer a comprehensive breakdown of the reasons for transferring data to the entities mentioned here."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "U K Insurance suggest that as a general rule, personal data will be retained for 6 years from the end of the relationship with a customer.\n\nIn some circumstances, data may be retained for a longer period, such as where an insurance claim has involved a minor.",
+      "specificityCategory": "general",
+      "specificityTime": "specific",
+      "sourceText": "We are only allowed to keep your personal information if we need it for one of the reasons we describe in section 3 above.\n\nAs a general rule, we will keep it for 6 years from the end of your relationship with us, as it is likely that we will need the information for regulatory reasons or to defend a claim. For example, should you wish to bring some form of legal action relating to your relationship with us, this would generally need to be done within 6 years from the end of that relationship. However there may be exceptions where we need to keep your personal information for longer, such as where a claim has involved a minor.\n\nWe will also retain data in an anonymous form for statistical and analytical purposes, for example, to assess risk of flood damage occurring."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "At the time when your personal information was collected, we asked you to indicate your marketing preferences. These preferences can be revisited at any time by contacting our Data Protection Officer.",
+      "contract": "When you request us to provide you with a quote for one of our insurance policies or you purchase an insurance policy from us, we use information about you:\n\n* To decide what the risk might be in selling you the policy, to quote for, and provide you with, a premium for that policy and any special terms that may apply to that policy (noting that we may use automated decision making to make this assessment - see section 9 below);\n* To administer your policy and monitor the payment of instalments if you pay your premium in this way;\n* To contact you about the policy (e.g. for billing or renewal purposes); and\n* To provide the agreed service if you make a claim (e.g. sending someone to assist you in a roadside breakdown situation or to provide you with medical assistance if you are injured or unwell when overseas).\n\nWe cannot provide the services unless we use the information about you in this way.\n\nIf you owe us money we will use your personal information to help us recover it.\n\nWe can use your personal information in this way because it is a necessary part of the contract of insurance. We need to ensure that premiums are paid so that the majority of our customers do not suffer (e.g. through increased premiums) due to the actions of a small minority of customers.",
+      "legalObligation": "As part of our duty as an insurer providing insurance services, sometimes we are required by law to use information about you:\n\n* To help make sure our customers are being treated fairly (e.g. to assist our regulators where we have a legal duty to do so);\n* To deal with complaints;\n* To help prevent and detect crime (including, for example, the prevention or detection of fraud); and\n* To comply with a legal or regulatory obligation.\n\nWe can use your personal information in this way because we are required to do so by law.",
+      "vitalInterests": "We will use your personal information to assist where your or another person's life or health is in danger and obtaining your permission is not possible (e.g. arranging emergency medical treatment in a remote location).",
+      "legitimateInterests": "Fraud has an impact on all customers as it increases costs for everyone. We use your personal information to check for signs that customers might be dishonest (e.g. if someone has behaved dishonestly in the past it may increase the risk they will do so in future).\n\nWe may use your personal information in this way because it is in our interests to detect fraud and in all our customers' interests to ensure that they are not prejudiced due to increased premiums as a result of a few customers acting dishonestly.\n\nWe may use your personal information to offer you suggestions about products and services you might want to buy. We may use external companies to do this on our behalf.\n\nWe can use your personal information in this way because it is in our legitimate interests to provide you with the right information at the right time, so that we may look at ways of extending our relationship that we have with you. We will always ensure that we keep the amount of your personal information that we collect and the extent of any processing to the absolute minimum to meet this legitimate interest.\n\nWe may also process your personal data to better understand you as a customer, including to determine how best to retain your custom, and to ask you to provide feedback on the service we provide to you.\n\nWe can use your personal information in this way because it is in our legitimate interests to provide the services in the most efficient way. We will always ensure that we keep the amount of your personal information that we collect and the extent of any processing to the absolute minimum to achieve this efficiency."
+    },
+    "securityStandards": {
+      "present": "not_present"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "present",
+      "observations": "U K Insurance note that they use automated decision making for the purposes of deciding insurance premiums, identity verification, and to decide which other products a customer may be interested in.",
+      "specificity": "specific",
+      "sourceText": "We will collect information about you and put this into our computer systems. The computer systems will make certain automated decisions about you which will be based on comparing you with other people. This will have an impact in terms of the level of premium or product that we offer to you or the products or services that we decide to tell you about. We may also use automated decision making to conduct an identity verification check.\n\nFor example, if you are under 25 years of age, the computer system may determine that you are more likely to have a car accident. This is because the computer system has been told that more people aged under 25 have car accidents. Another example is that, if you are under 25, the computer system may determine that you are going to be interested in a travel policy which covers high risk activity, such as skiing. Therefore, we would proactively seek to tell you about such policies as we would consider them to be of interest to you.\n\nThis is important because:\n- In providing insurance services it helps us decide what price you should pay for your policy and understand any risks associated with that policy;\n- In identity verification it helps us to check that you are who you say you are and to prevent others from imitating you;\n- In selling you other products it helps us decide which other products might be useful to you.\n\nWe also use computer systems to carry out modelling. Sometimes using your personal information and sometimes using data in anonymised form.  We conduct this modelling for a variety of reasons, for example, for risk assessment purposes to make decisions about you, such as your likelihood to claim.  However, we may also use your personal information in that modelling to make decisions about how we improve and develop our products and services, or our pricing and underwriting, or to better understand how our prospective customers make decisions about which policy is the optimal policy (i.e. we are not making decisions directly about you)."
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "U K Insurance direct complaints to their Data Protection Officer in the first instance, and also provide contact details for the Information Commissioner's Office.",
+      "specificity": "specific",
+      "sourceText": "If you have any concerns about the way in which we are using your personal information, please contact our Data Protection Officer in the first instance and we will endeavour to resolve your concern. However, you do also have the right to complain about how we treat your personal information to the Information Commissioner's Office (\"ICO\"). The ICO can be contacted at:\n\nICO website: https://ico.org.uk/global/contact-us/\n\nICO telephone: 0303 123 1113\n\nICO textphone: 01625 545860"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }

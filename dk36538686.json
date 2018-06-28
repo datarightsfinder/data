@@ -1,0 +1,120 @@
+{
+    "organisationInformation": {
+      "name": "Pleo",
+      "number": "36538686",
+      "registrationCountry": "dk",
+      "description": "Company expense management"
+    },
+    "organisationUrls": [
+      "https://www.pleo.io"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://pleo-terms.s3.amazonaws.com/documents/20180425%20Pleo%20Privacy%20Policy_UK_english.pdf"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "emailAddress": "dpo@pleo.io"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "postalAddress": "Pleo Technologies ApS, Att: Privacy Function, Skelbækgade 2, 1717 Copenhagen V, Denmark",
+          "emailAddress": "dpo@pleo.io"
+        },
+        "observations": "Pleo direct customers who wish to exercise their data rights to email their Data Protection Officer, or to contact them via post at their office in Denmark."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "device_information",
+        "email_address",
+        "employment",
+        "names",
+        "postal_address",
+        "social_security_number",
+        "telephone_number"
+      ],
+      "observations": "Pleo's privacy policy breaks down the categories of data they collect and displays which types of data may be collected for the different types of customer they serve.",
+      "sourceText": "7.1 Representatives of customers and Pleo users\nCategories of personal data we may process\n* Identification information: e.g. identification number, ID or equivalent\n* Contact information: e.g. name, address, phone number, photo, email or equivalent\nFor existing customers:\n* Behavioural and tracking details: e.g. location data, behavioural patterns, personal\npreferences, IP-number, cookie identifiers, unique identifier of devices you use to access and\nuse the services and our websites\n\n7.2 Executive Directors, LLP Members or Designated Members, Board Members, Beneficial\nOwners and other individuals within the scope of Pleo’s Know-Your-Customer (KYC) policy\nCategories of personal data we process\n* Identification information: e.g. identification number, ID or equivalent\n* Contact information: e.g. name, address, phone number, email or equivalent\n* Information related to legal requirements: e.g. customer due diligence and anti-money\nlaundering requirements.\n\n7.3 Leads, website visitors, individuals interacting via webchat, emailing or telephoning our\nsupport\nCategories of personal data we may process\n* Contact information: e.g. name, address, position, business phone number, email or\nequivalent\nFor existing customers visiting our website:\n* Behavioural and tracking details: e.g. location data, behavioural patterns, personal\npreferences, IP-number, cookie identifiers, unique identifier of devices you use to access and\nuse the services and our websites\n\n7.4 Prospects\nCategories of personal data we may process\n* Contact information: e.g. name, address, position, business phone number, email or\nequivalent\n\n8. What personal data does Pleo collect from third parties?\nWe process personal data obtained from selected third parties such as fraud detection agencies,\nother financial institutions and other information providers, and from publicly available sources\nincluding population registers, company registration offices, enforcement authorities, as well as\nservices such as LinkedIn. Further, in connection with payment processing we collect information from\nthird parties such as banks and payment service providers.\nOther external resources from which we may collect information are sanctions lists, registers held by\ncredit-rating agencies and other commercial information providers providing information on e.g.\nbeneficial owners and politically exposed persons."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Companies in the Pleo group",
+        "Third party service providers (such as other banks and secure identification solutions)",
+        "Third parties that are data processors (such as IT development and hosting)",
+        "Third parties that are data controllers (such as authorities, acquirers and other financial institutions)",
+        "IDT Financial Services Limited (who provide Pleo Account cards)",
+        "Relevant legal and regulatory authorities"
+      ],
+      "specificity": "general",
+      "sourceText": "Pleo Group\nWe may share personal information with members of the Pleo Group for the purposes set out in this\nPrivacy Policy.\nThird party service providers\nWhere necessary to provide our services we may disclose personal data about you to identify you and\nperform an assignment or agreement with companies that we cooperate with in order to perform our\nservices. These services include, but are not limited to, secure identification solutions and between\nparties in the financial system such as banks.\nOur designated banks and relevant card networks may also come to process your personal data for\ntheir own fraud prevention and risk management.\nThird parties that are data processors\nSome of the third parties that we share personal data with are data processors. A data processor is a\nparty that processes personal data on our instructions and on our behalf.\nWe collaborate with carefully vetted suppliers, which include processing of personal data on behalf of\nus. Examples include suppliers of IT development, maintenance, hosting and support but also\nsuppliers supporting us with marketing and customer support.\nWhen we share your personal data with data processors we only share them for purposes compatible\nwith the purposes for which we have collected the data (such as performance of a contract). We\nalways control all data processors and ensure that they can provide adequate guarantees as regards\nsecurity and confidentiality of personal data. We have written agreements in place with all data\nprocessors through which they guarantee the security and confidentiality of personal data that they\nprocess on our behalf and limitations as regards third country transfers.\nThird parties that are data controllers\nSome of the third parties that we share personal data with are independent data controllers. This\nmeans that we are not the ones that dictate how the data that we provide shall be processed.\n7/12\nExamples are authorities, acquirers and other financial institutions. When your data is shared with\nindependent data controllers their data policies and personal data processing principles apply.\nIDT Financial Services Limited (\"IDT\") is the issuer of the card associated with your Pleo Account.\nAccordingly, IDT is a joint controller of some of your personal information as it relates to, and is\nrequired for, the administration and operation of the card. A copy of IDT's privacy policy may be found\nat http://www.idtfinance.com/privacypolicy.pdf.\nAuthorities\nWe also disclose personal data to authorities to the extent we are under a statutory obligation to do\nso. Such authorities include tax authorities, police authorities, enforcement authorities and supervisory\nauthorities in relevant countries. We may also be required to provide competent authorities\ninformation about your use of our services, e.g. revenue or tax authorities, as required by law, which\nmay include personal data such as your name, address and information regarding card transactions\nprocessed by us on your behalf through your use of our services."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Pleo commit to storing data for no longer than is necessary to fulfil the purpose of processing it.\n\nOnce it is no longer required, personal data will be anonymised or deleted.\n\nPleo provide some examples of retention periods (below) though they note that this will differ between countries.\n\nData may be retained for 5 years after the termination of the connection between Pleo and the customer for money laundering and fraud detection purposes.\n\nData may be retained for 5 years for bookkeeping regulations.\n\nDetails on performance of a contract may be kept for up to 10 years after the relationship between Pleo and the customer ends, to defend against possible claims.",
+      "specificityCategory": "general",
+      "specificityTime": "specific",
+      "sourceText": "We will not process personal data for a longer period than is necessary for fulfilling the purpose of\nsuch processing, as set out in this Privacy Policy. Your personal data will be anonymized or deleted\nonce it is no longer relevant for the purposes for which it was collected.We only retain your personal\ndata to ensure compliance with our legal and regulatory requirements.\nIf we keep your data for other purposes than those of the performance of a contract, such as\nanti-money laundering purposes, bookkeeping and regulatory capital adequacy requirements, we\nkeep the data only if necessary and/or mandated by laws and regulations for the respective purpose.\nThe data retention obligations will differ within the Pleo Group subject to applicable local laws.\nSee below for examples of the retention periods that we apply:\n● Preventing, detecting and investigating money laundering, terrorist financing and fraud:\nminimum five (5) years after termination of the business connection\n● Bookkeeping regulations: five (5) years\n● Details on performance of an agreement: up to ten (10) years after end of customer\nrelationship to defend against possible claims\nThe above is only for explanatory purposes and the retention times may differ from country to country."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "- To confirm your identity and verify your personal and contact details.",
+      "legalObligation": "- To provide our services and products.\n- To establish, exercise or defend a legal claim or collection procedures.\n- To provide our services and products.\n- To confirm your identity and verify your personal and contact details.\n- To establish, exercise or defend a legal claim or collection procedures.\n- To comply with internal procedures.\n- To prevent misuse of Pleo´s services as part of our efforts to keep our services safe and secure.\n- To carry out risk analysis, fraud prevention and risk management obligations, insurance risks and to comply with capital adequacy requirements.\n- To comply with applicable laws, such as anti-money laundering and bookkeeping laws, and rules issued by our designated banks and relevant card networks.\n- To confirm your identity and verify whether you could be interested in the Pleo Service.",
+      "legitimateInterests": "- To provide our services and products.\n- To confirm your identity and verify your personal and contact details.\n- To establish, exercise or defend a legal claim or collection procedures.\n- To comply with internal procedures.\n- For customer analysis, to administer Pleo's services, and for internal operations, including troubleshooting, data analysis, to develop and inform you about product enhancements, testing, research and statistical purposes.\n- To ensure that content is presented in the most effective way for you and your device.\n- To prevent misuse of Pleo´s services as part of our efforts to keep our services safe and secure.\n- To carry out risk analysis, fraud prevention and risk management.\n- To provide you with information, news and marketing about our and similar services.\n- To provide our services and products.\n- To establish, exercise or defend a legal claim or collection procedures.\n- To comply with internal procedures.\n- To prevent misuse of Pleo´s services as part of our efforts to keep our services safe and secure.\n- To carry out risk analysis, fraud prevention and risk management obligations, insurance risks and to comply with capital adequacy requirements.\n- To comply with applicable laws, such as anti-money laundering and bookkeeping laws, and rules issued by our designated banks and relevant card networks.\n- To provide and market our services and/or products to you.\n- To provide the support you seek from us.\n- To confirm your identity and verify whether you could be interested in the Pleo Service.\n- To answer any questions about our services."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "Pleo's policy indicates that they implement technical and organisational security measures to protect personal data.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "not_present",
+      "observations": "Pleo indicate that they do not currently carry out any processing which is defined as automated decision making.",
+      "sourceText": "Currently, Pleo does not carry out any such processing that is defined as solely automated decision\nmaking, including profiling, under the General Data Protection Regulation (“GDPR”) that has ”legal\neffects” or has otherwise significant effects.\n"
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "Pleo direct complaints and questions to their Data Protection Officer in the first instance, and provide contact details for a Danish-specific data protection authority.",
+      "specificity": "specific"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }

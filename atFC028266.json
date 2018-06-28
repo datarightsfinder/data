@@ -1,0 +1,121 @@
+{
+    "organisationInformation": {
+      "name": "Western Union",
+      "number": "FC028266",
+      "registrationCountry": "at",
+      "description": "Payment services processor"
+    },
+    "organisationUrls": [
+      "https://www.westernunion.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://www.westernunion.com/gb/en/privacy-statement.html"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "contactInfo": {
+        "emailAddress": "privacy@westernunion.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "url": "https://www.westernunion.com/gb/en/contact-us.html",
+          "telephoneNumber": "0808 234 9168"
+        },
+        "observations": "Western Union direct users to a contact form or telephone number to exercise any of their data rights."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_transactions",
+        "criminal_records",
+        "date_of_birth",
+        "device_information",
+        "email_address",
+        "identity_documents",
+        "names",
+        "postal_address",
+        "social_security_number",
+        "telephone_number"
+      ],
+      "sourceText": "When you use our digital or retail services, contact us, or join our loyalty programs (collectively, the “services”), we collect personal information about you and may use it along with other information collected or generated during our relationship with you. We collect different types of personal information relating to you, which may include:\n\n- Contact information, for example your name, postal address, e-mail address, telephone number date of birth and national identification numbers;\n- Transaction information, including your money transfers and bill payments;\n- Business related information that helps us provide our services to you, such as membership in our loyalty programs, use of our services, and marketing choices;\n- Compliance information, including fraud prevention, identity verification, and sanction checks.\n \n\nTo conduct a money transfer, or use other payment services, you must provide certain information required by Western Union to execute the transfer and to enable us to comply with our legal obligations associated with transferring money. Failure to provide some of your personal information may affect our ability to provide our services to you. This may include information about the form of identification used to send or receive a transaction (where required by law) including the identification or a copy of the identification document, transaction activity, bank account and payment information.\n\nWhen you use our mobile applications, digital or online services, we also collect personal information about the domain and host from which you access the Internet, your computer’s IP address or device advertising ID, geolocation if enabled, information about your device (such as device properties, settings, applications, storage and usage information), browser and operating system software, social profile and network information, the date and time you access our websites and the address of the site from which you linked to our website when you visit us. We collect personal information on your online activity as described in the paragraph below titled “COOKIES AND INTERNET TECHNOLOGY.”"
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Western Union group companies",
+        "Agents or business partners who facilitate the money transfer transaction or specific service you have requested",
+        "Service providers contracted to provide business and customer services including marketing, advertising and customer satisfaction research",
+        "Service providers contracted to help us validate the accuracy of the information provided by you",
+        "Third parties that you have authorized to access your account and/or your account information in order to perform services for you",
+        "Companies involved in mergers and acquisitions of Western Union"
+      ],
+      "specificity": "general",
+      "sourceText": "If there is a reasonable need to do so for any of the purposes listed above, we may disclose your personal information including, but not limited to, your name, customer ID number, address, transaction patterns and bank account information to the following types of organizations or parties:\n\n- Western Union group companies, including but not limited to Western Union Payment Services Ireland Ltd (Ireland), Western Union International Bank GmbH (Austria), Western Union International Limited (Ireland), Western Union Financial Services, Inc (USA) and Western Union LLC (USA);\n- Our agents or business partners who facilitate the money transfer transaction or specific service you have requested;\n- Service providers, payments processors, banking partners and data processors contracted to provide business and customer services including marketing, advertising and customer satisfaction research on our behalf;\n- Service providers and data processors contracted to help us validate the accuracy of the information provided by you, and to authenticate your identity and manage risks related to security, fraud and identity.\n- Third parties that you have authorized to access your account and/or your account information in order to perform services for you, such as account information service providers and payment initiation service providers. \n \n\nWe may transmit personal information we possess in connection with a sale or transfer of all or part of our business. We may also disclose your personal information globally, as required or permitted by applicable laws and regulations, to regulatory and financial authorities, law enforcement bodies, courts, governments or government agencies, to meet compliance and legal obligations or to assert or defend the rights and interests of Western Union or others."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Western Union commit to retaining data for only as long as it is required. The policy indicates that as a \"general rule\", data will not be kept for longer than 10 years unless required by law.",
+      "specificityCategory": "general",
+      "specificityTime": "specific",
+      "sourceText": "Your personal information will be retained in accordance with statutory periods contained in regulations applicable to financial transactions including those in anti-money laundering, anti-terrorist financing and other laws applicable to us. Otherwise, we will retain your information only as long as necessary for the specific purposes it was collected, or to resolve any query you may raise. As a general rule, we will typically keep your information for no longer than 10 years after a given transaction, unless we have a legal obligation to keep it for a longer period."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "\"This includes consent for receiving marketing communications, or where otherwise required by applicable law.  If we request your consent, we will inform you of the intended purposes for which your information will be processed.\"",
+      "contract": "\"This includes using personal information necessary for conducting money transfers, payment services, prepaid cards, or loyalty programmes.  We may use this information in the performance of a contract with you or for taking steps to enter into a contract for any of the above or for any other Western Union products or services.\"",
+      "legalObligation": "\"This includes using personal information needed to comply with legal and regulatory duties related to anti-money laundering and counter-terrorist financing; detection, prevention and prosecution of fraud and theft as well as preventing illegitimate or prohibited use of our services or other illegal or wrongful activity. This may also include establishing, exercising, or defending legal rights and claims of Western Union and others, and monitoring and reporting compliance issues. This may further include using your personal information to validate and authenticate your identity, and utilizing third parties to help us do so.\"",
+      "legitimateInterests": "\"This includes using personal information to analyze and improve our products, locations, services, operations, the running of this site and your customer experience, and for measuring marketing return on investment and brand satisfaction. This may include using your information to conduct market research surveys. We may also use your personal information to provide customer services and to help protect the security and integrity of our technology, systems, and services.\""
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "The policy contains some brief information on how Western Union secure customer data.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown"
+    },
+    "complaintInformation": {
+      "present": "present",
+      "observations": "Western Union direct complaints to their Data Protection Officer in the first instance, and indicate that subsequent complaints can be lodged with a supervisory authority. The policy does not contain contact details for a relevant supervisory authority.",
+      "specificity": "general",
+      "sourceText": "You have the right to know if we are processing your personal information and to ask us for a copy of your information free of charge. You have the right to request a structured and machine-readable copy of certain information you have provided to us. We may charge you a reasonable fee for providing the information, or not act upon your request, if the request is manifestly unfounded or excessive. You have the right to stop us sending you marketing communications. You have the right to ask us to correct information about you that is incomplete, inaccurate or out-of-date. You have the right to ask us to erase certain information about you, to restrict certain uses of information relating to you, and also to object to certain uses of it. To the extent we are processing personal information based on your consent, you may withdraw your consent as permitted by applicable law. You also have the right to lodge a complaint with a supervisory authority about our processing of personal information. When we receive a request, we may ask for additional information from you to verify your identity. In some situations, we may refuse to act or may impose limitations on your rights, as permitted by applicable law.\n\nTo exercise these rights, please contact Western Union by calling 0808 234 9168 or by using the Contact Us section of our website https://www.westernunion.com/gb/en/contact-us.html. We will endeavour to respond to your request within 30 days, but may be entitled to extend this period in certain circumstances. We will comply with your request to the extent required by applicable law.\n\nIf you have a complaint about how Western Union has responded to your request under this section, or a question about how we handle your personal information, we ask that you put your inquiry in writing. We will investigate your inquiry and generally respond to you in writing within 30 days of receipt. You can also contact our Data Protection Officer on privacy@westernunion.com."
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }

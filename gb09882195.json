@@ -1,0 +1,114 @@
+{
+    "organisationInformation": {
+      "name": "Flux",
+      "number": "09882195",
+      "registrationCountry": "gb",
+      "description": "Banking and receipt management"
+    },
+    "organisationUrls": [
+      "https://www.tryflux.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://www.tryflux.com/legal/privacy"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, Flux Systems Limited, Rise, 41 Luke Street, London, EC2A 4DP",
+        "emailAddress": "privacy@tryflux.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "emailAddress": "privacy@tryflux.com"
+        },
+        "observations": "Flux indicate that customers can exercise their data rights by emailing the Data Protection Officer."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "device_information",
+        "email_address",
+        "names"
+      ],
+      "sourceText": "We may collect and process the following data about you:\n\nInformation that you give to us when you open an account for the Service, or which you later amend within the Service. This includes basic information about who you are that we need in order to run your account (your name, email address, payment identifier(s) you want to associate with your account) that we use to aggregate with other users’ information to create aggregated data sets - which don’t reveal anything about you specifically - that help us and our retailers to understand consumer behavior patterns.\n\nDetails of transaction data from purchases that you make, using the credit or debit card(s) you have associated with your account, from retailers that participate in the Service. This will include the types of information typically displayed on paper receipts.\n\nDetails of which adverts you click on within the Service, and when.\n\nDetails of loyalty schemes or similar that you participate in via the Service, and when and how you interact with those loyalty schemes.\n\nWe may also ask you to complete feedback that we use for research purposes, although you do not have to respond to them.\n\nIf you contact us, we may keep a record of that correspondence for administrational and/or legal purposes.\n\nPrivate information that you grant us permission to collect, and public information, from third party websites such as, but not limited to, Facebook, Google and Twitter. The first time we request access to private information from a third party website, that website will ask your permission to allow us to access the private information. You have the right to revoke access through the Service via your associated accounts with those third party websites.\n\n2. IP addresses and cookies\nWe may collect information about your mobile device, including where available your IP address, operating system and browser type, for system administration, to optimise the quality of the Service and to report aggregate information to our partners.\n\nFor the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your mobile device. A cookie is a text-only string of data that is entered into the cookie file or ‘memory’ of the browser on your computer. It will typically contain the name of the domain from which the cookie has come, the ‘lifetime’ of the cookie, and a value, usually a randomly generated unique number. Cookies help us to improve the Service and to deliver a better and more personalised service. They enable us:\n\nto estimate our audience size and usage pattern;\n\nto store information about your preferences, and to allow us to customise our services according to your individual interests;\n\nto speed up your searches; and\n\nto recognise you when you return to our services.\n\nIn addition to cookie files, we may also use HTML5 client side storage, Adobe Flash local shared objects and other methods for identifying and personalising our services.\n\nAll browser technologies enable you to manage the cookies in the cookie folder of your browser. This means that you can either delete cookies from your cookie folder once you have finished your visit at our services or you can set your preference with regard to the use of cookies before you begin surfing our website - for example you may be asked to re-enter some information e.g. your name and password to use some pages."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "present",
+      "observations": "Flux indicate that they scrape private user information from \"third party websites such as, but not limited to, Facebook, Google and Twitter\". They indicate that access to such information can be revoked, but do not indicate why such information may be collected."
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "Other companies in the Flux group",
+        "Banks, retailers and payment service providers that link in with Flux",
+        "Companies involved in mergers and acquisitions"
+      ],
+      "specificity": "general",
+      "sourceText": "We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.\n\nWe may disclose your personal information to banks, retailers and payment service providers that link in with the Service\n\nWe may disclose your personal information to third parties:\n\nIn the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, on the condition that (i) we will limit any such disclosure the extent necessary for the purpose of the transaction, and (ii) they do not use it prior to such purchase or sale for any purpose other than the evaluation of the purchase or sale;\n\nIf Flux Systems Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and/or\n\nIf we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply the Terms and/or other agreements; or\n\nto protect the rights, property, or safety of Flux Systems Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Flux indicate that unless they are required by law or to provide a customer with the service, they will retain customer data for no more than seven years.",
+      "specificityCategory": "general",
+      "specificityTime": "specific",
+      "sourceText": "Unless we are required to retain your personal data by law, or to provide you with the Service, we will aim to keep your data for no more than seven years."
+    },
+    "lawfulBases": {
+      "isMissing": true,
+      "observations": "Flux do not specifically attempt to justify the collection of data under any of the lawful bases found within the General Data Protection Regulation."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "The Flux privacy policy contains some basic information about the security of customer data.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown",
+      "observations": "Although the policy notes that customers have the right not to be subject to a decision based solely on automated processing, Flux do not indicate whether they use automated decision making themselves.",
+      "specificity": "general",
+      "sourceText": "You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects or similarly significantly affects you"
+    },
+    "complaintInformation": {
+      "present": "not_present",
+      "observations": "No specific information is provided on where complaints should be submitted.",
+      "specificity": "general"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "fail"
+    }
+  }

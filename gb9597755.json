@@ -1,0 +1,128 @@
+{
+    "organisationInformation": {
+      "name": "Moneybox",
+      "number": "9597755",
+      "registrationCountry": "gb",
+      "description": "Investment"
+    },
+    "organisationUrls": [
+      "https://www.moneyboxapp.com"
+    ],
+    "privacyNoticeUrl": {
+      "url": "https://www.moneyboxapp.com/privacy/"
+    },
+    "dataProtectionOfficer": {
+      "present": "present",
+      "role": "Data Protection Officer",
+      "contactInfo": {
+        "postalAddress": "Data Protection Officer, Moneybox, Suite 1.07, 1-2 Hatfields, London, SE1 9PG",
+        "emailAddress": "dpo@moneyboxapp.com"
+      }
+    },
+    "rights": {
+      "isMissing": false,
+      "general": {
+        "contactInfo": {
+          "postalAddress": "Data Protection Officer, Moneybox, Suite 1.07, 1-2 Hatfields, London, SE1 9PG",
+          "emailAddress": "dpo@moneyboxapp.com"
+        },
+        "observations": "Moneybox provide an outline of data rights under the General Data Protection Regulation, and indicate that users of the service are free to exercise these rights.\n\nThe policy does not specify a contact address by which users may do this, but it can be inferred that Moneybox expect the user to contact their Data Protection Officer to do so."
+      },
+      "access": {
+        "contactInfo": {}
+      },
+      "rectification": {
+        "contactInfo": {}
+      },
+      "erasure": {
+        "contactInfo": {}
+      },
+      "restrictProcessing": {
+        "contactInfo": {}
+      },
+      "dataPortability": {
+        "contactInfo": {}
+      },
+      "object": {
+        "contactInfo": {}
+      },
+      "automatedDecisionMaking": {
+        "contactInfo": {}
+      }
+    },
+    "dataCategoriesCollected": {
+      "isMissing": false,
+      "list": [
+        "bank_account_details",
+        "bank_transactions",
+        "date_of_birth",
+        "device_information",
+        "email_address",
+        "identity_documents",
+        "names",
+        "postal_address",
+        "social_security_number",
+        "telephone_number"
+      ],
+      "sourceText": "Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data whether the identity has been removed (anonymous data).\n\nInformation you give us\n\nDuring the course of opening and maintaining a Moneybox account, the information you give to us may include:\n\n   (a)\tIdentity Data such as your name, date of birth, copies of personal identification documents (such as your passport or driving licence, which may also indicate ID numbers, nationality and sex) and photographs or other descriptions of your likeness. If you open a Moneybox Junior ISA, the information you give to us may also include the name and date of birth of your child.\n\n   (b)\tContact Data such as your address, email address and telephone number (and in the case of a Moneybox Junior ISA, the address of your child).\n\n   (c)\tFinancial Data such as your national insurance number, bank account and other financial details (and in the case of a Moneybox Junior ISA, the national insurance number of your child, if known).\n\n   (d)\tTransaction Data such as your transaction information (for example purchase item, price, location, date) if you use our ‘Round up Service’ (as defined in our Customer Terms & Conditions) and you may also provide your account credentials (such as user name and password) for your selected online banking account or payment card so that your account transactions can be accessed (on a read-only basis) to provide you with the Round up Service. Remember, you do not have to sign up to our Round up Service if you don’t want to. Over time, more and more banks and account providers will be in a position to participate in the government’s Open Banking initiative, enabling us to provide you with the Round up Service through a direct API connection. Where such an API connection exists, you will not need to provide your account credentials in the App to access the Round up Service, rather you will authorise access directly with your bank or account provider.\n\nYou may also provide us with certain information by filling in other forms, entering competitions or promotions or by corresponding with us by phone, email, text message or through our live in-App chat function.\n\nWe do not collect any special categories of personal data about you (this includes details about your race, ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health or your biometric or genetic information).\n\nInformation we collect or receive from other sources\n\nWe work closely with third parties (for example: business partners, technical, payment and delivery service providers, advertising networks, tracking and analytics providers (including Google), search information providers, lead generation agencies and credit reference agencies) and may receive the following information about you when you visit our website or use our App:\n\n   (a)\tTechnical Data such as your IP address, URL, browser information, plug-in types, operating system and platform as well as your login information to the Moneybox App.\n\n   (b)\tProfile Data such as your preferences, feedback and survey responses.\n\n   (c)\tUsage Data such as information about how you use our website, App, products and services.\n\n   (d)\tMarketing and Communications Data such as your preferences in receiving marketing from us and your communication preferences (which we may also collect directly from you).\n\nWe may also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data may be derived from your personal data but is not considered personal data in law as this does not directly or indirectly reveal your identity.\n\nCookies\n\nWe, or our third party providers, may also use cookies to collect information about you. This helps us to provide you with a good experience while you use our website and our App. See our Cookie Policy for more details.\n\nLinks to other websites\n\nOur website or App may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.\n\nIf you fail to provide personal data\n\nWhere we need to collect personal data by law, or under the terms of a contract with have with you, and you fail to provide that data when requested, we may not be able to perform the contract and may therefore be unable to provide you with one or more of our products or services."
+    },
+    "unusualProcessingPurposes": {
+      "isMissing": false,
+      "present": "not_present"
+    },
+    "thirdParties": {
+      "isMissing": false,
+      "list": [
+        "ISA manager and platform provider that set up your selected products and services",
+        "Yodlee Inc to facilitate the Round up Service",
+        "GoCardless Ltd to facilitate direct debits",
+        "Onfido Ltd to conduct the required background, credit and compliance checks",
+        "Intercom R&D Unlimited Company to facilitate the in-app chat function",
+        "Linktexting to facilitate app links sent from our website",
+        "Other business partners, service providers, suppliers and sub-contractors",
+        "Analytics and search engine providers that assist us in the improvement and optimisation of our site",
+        "Companies involved in mergers and acquisitions",
+        "Law enforcement or other legal bodies where required by law"
+      ],
+      "specificity": "general",
+      "observations": "The Moneybox policy makes a notable effort to specify many of the relevant companies by name. Some, however, are still named as groups or categories.",
+      "sourceText": "We may share your information with selected third parties including:\n\n(a)\tbusiness partners, service providers, suppliers and sub-contractors for the performance of any contract we enter into with them or you, including (but not limited) to:\n\n      (i)\tthe ISA manager and Platform Provider (Greyfriars Asset Management LLC) and the administrative services provider Quai Administration Services Ltd the set up and management of your selected products (and likewise, the Product Provider shares your information with us);\n\n      (ii) Yodlee Inc. to facilitate the Round up Service (if selected, and where no direct API integration is available);\n\n      (iii) GoCardless Ltd to facilitate direct debits;\n\n      (iv) Onfido Ltd to conduct the required background, credit and compliance checks;\n\n      (v) Intercom R&D Unlimited Company to facilitate the in-App chat function; and\n\n      (vi) Linktexting to facilitate app links sent from our website;\n\n(b)\tanalytics and search engine providers that assist us in the improvement and optimisation of our site (for example Google for the purpose of its Google Analytics service);\n\n(c) if we sell or buy any business or assets, in which case we may need to disclose your personal information to the prospective seller or buyer of such business or assets;\n\n(d)\tif we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets; and\n\n(e)\tif we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Website & App Terms of Use, our Customer Terms & Conditions and other agreements; or to protect our rights, property, or safety or those of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.\n\nWe require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow out third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions."
+    },
+    "retentionRules": {
+      "isMissing": false,
+      "summary": "Moneybox indicate that they only store personal data for as long as is necessary to fulfil the purposes it was collected for. The policy does not mention any specific time periods for retention.",
+      "specificityCategory": "general",
+      "specificityTime": "general",
+      "sourceText": "We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. To determine the appropriate retention period, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal and regulatory requirements."
+    },
+    "lawfulBases": {
+      "isMissing": false,
+      "consent": "- To process and deliver your selected products and services, including managing payments, fees and charges and HMRC reporting.\n",
+      "contract": "- To register you as a customer\n- To process and deliver your selected products and services, including managing payments, fees and charges and HMRC reporting.\n- To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice.\n- To enable you to participate in a prize draw, competition or complete a survey.",
+      "legalObligation": "- To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice.\n- To administer and protect our business, App and website), including, security, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting.",
+      "legitimateInterests": "- To process and deliver your selected products and services, including managing payments, fees and charges and HMRC reporting.\n- To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice.\n- To enable you to participate in a prize draw, competition or complete a survey.\n- To administer and protect our business, App and website), including, security, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting.\n- To deliver relevant App and website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you.\n- To use data analytics to improve our App, website, products, services, marketing, customer relationships and experiences.\n- To de-identify your data (anonymise or aggregate).\n- To make suggestions and recommendations to you about products or services that may be of interest to you, via electronic means or otherwise such as email, SMS, pop ups or push notifications, targeted social media and our in-App secure notification centre.",
+      "observations": "Moneybox offer a comprehensive breakdown of the purposes for which they use data, and the lawful basis under which each one is justified."
+    },
+    "securityStandards": {
+      "present": "present",
+      "observations": "The policy offers some basic information about the security of personal data but does not offer a detailed explanation of the steps taken to secure it.",
+      "specificity": "general"
+    },
+    "dataProcessingAddendum": {
+      "present": "not_present"
+    },
+    "privacyShield": {},
+    "automatedDecisionMaking": {
+      "usesAutomatedDecisionMaking": "unknown"
+    },
+    "complaintInformation": {
+      "present": "not_present",
+      "observations": "No information is provided on submitting complaints about data handling - either to Moneybox themselves, or to a supervisory authority like the Information Commissioner's Office.",
+      "specificity": "general"
+    },
+    "presentation": {
+      "plainLanguage": "pass",
+      "easyToFind": "pass",
+      "easyToFindInside": "pass"
+    }
+  }
