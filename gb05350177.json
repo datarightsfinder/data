@@ -90,7 +90,7 @@
   "lawfulBases": {
     "isMissing": false,
     "consent": "- By using their website, you consent to the processing of data about you by Google Analytics\n",
-    "observations": "They rely on consent and legitimate business interests but don't specify which purposes rely on which purpose."
+    "observations": "They rely on consent and legitimate business interests but don't specify which purposes rely on which lawful basis."
   },
   "securityStandards": {
     "present": "not_present",
