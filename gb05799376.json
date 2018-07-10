@@ -83,7 +83,7 @@
   },
   "retentionRules": {
     "isMissing": false,
-    "summary": "n",
+    "summary": "",
     "specificityTime": "specific",
     "sourceText": "We keep personal information for up to six (6) years following the date on which it is provided to us or only for as long as is reasonably necessary thereafter in order to:\n\na. respond fully to any questions or complaints;\n\nb. evidence that we have treated customers fairly or satisfy some other legal, accounting, tax or reporting requirement; and\n\nc. establish, exercise or defend legal claims in accordance with statutory limitation periods."
   },
