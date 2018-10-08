@@ -13,6 +13,7 @@
       "present": "present",
       "role": "Data Protection Officer",
       "contactInfo": {
+        "emailAddress": "dpo@paypal.com",
         "postalAddress": "PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg"
       }
     },
