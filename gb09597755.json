@@ -1,0 +1,127 @@
+{
+  "organisationInformation": {
+    "name": "Digital Moneybox Limited",
+    "number": "09597755",
+    "registrationCountry": "gb",
+    "description": "Investment Provider"
+  },
+  "organisationUrls": [
+    "https://www.moneyboxapp.com/"
+  ],
+  "privacyNoticeUrl": {
+    "url": "https://www.moneyboxapp.com/privacy/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "contactInfo": {
+      "postalAddress": "Data Protection Officer, Moneybox, Suite 1.07, 1-2 Hatfields, London, SE1 9PG",
+      "emailAddress": "dpo@moneyboxapp.com"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "dpo@moneyboxapp.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "date_of_birth",
+      "device_information",
+      "email_address",
+      "gender",
+      "identity_documents",
+      "income",
+      "location",
+      "names",
+      "nationality",
+      "personal_preferences",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "sourceText": "* Identity Data such as your name, date of birth, copies of personal identification documents (such as your passport or driving licence, which may also indicate ID numbers, nationality and sex) and photographs or other descriptions of your likeness. If you open a Moneybox Junior ISA, the information you give to us may also include the name and date of birth of your child.\n* Contact Data such as your address, email address and telephone number (and in the case of a Moneybox Junior ISA, the address of your child).\n* Financial Data such as your national insurance number, bank account and other financial details (and in the case of a Moneybox Junior ISA, the national insurance number of your child, if known).\n* Transaction Data such as your transaction information (for example purchase item, price, location, date) if you use our ‘Round up Service’ (as defined in our Customer Terms & Conditions) and you may also provide your account credentials (such as user name and password) for your selected online banking account or payment card so that your account transactions can be accessed (on a read-only basis) to provide you with the Round up Service. Remember, you do not have to sign up to our Round up Service if you don’t want to. Over time, more and more banks and account providers will be in a position to participate in the government’s Open Banking initiative, enabling us to provide you with the Round up Service through a direct API connection. Where such an API connection exists, you will not need to provide your account credentials in the App to access the Round up Service, rather you will authorise access directly with your bank or account provider.\n* You may also provide us with certain information by filling in other forms, entering competitions or promotions or by corresponding with us by phone, email, text message or through our live in-App chat function.\n* We do not collect any special categories of personal data about you (this includes details about your race, ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health or your biometric or genetic information).\n* Technical Data such as your IP address, URL, browser information, plug-in types, operating system and platform as well as your login information to the Moneybox App.\n* Profile Data such as your preferences, feedback and survey responses.\n* Usage Data such as information about how you use our website, App, products and services.\n* Marketing and Communications Data such as your preferences in receiving marketing from us and your communication preferences (which we may also collect directly from you)."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Quai Administration Services Ltd",
+      "Yodlee Inc.",
+      "GoCardless Ltd",
+      "Onfido Ltd",
+      "Intercom R&D",
+      "Linktexting",
+      "Google"
+    ],
+    "observations": "Not limited to just these providers.",
+    "sourceText": "Disclosing your information\n\nWe may share your information with selected third parties including:\n\n(a) business partners, service providers, suppliers and sub-contractors for the performance of any contract we enter into with them or you, including (but not limited) to:\n\n(i) the administrative services provider Quai Administration Services Ltd for the set up and management of your selected products;\n\n(ii) Yodlee Inc. to facilitate the Round up Service (if selected, and where no direct API integration is available);\n\n(iii) GoCardless Ltd to facilitate direct debits;\n\n(iv) Onfido Ltd to conduct the required background, credit and compliance checks;\n\n(v) Intercom R&D Unlimited Company to facilitate the in-App chat function; and\n\n(vi) Linktexting to facilitate app links sent from our website;\n\n(b) analytics and search engine providers that assist us in the improvement and optimisation of our site (for example Google for the purpose of its Google Analytics service);\n\n(c) if we sell or buy any business or assets, in which case we may need to disclose your personal information to the prospective seller or buyer of such business or assets;\n\n(d) if we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets; and\n\n(e) if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Website & App Terms of Use, our Customer Terms & Conditions and other agreements; or to protect our rights, property, or safety or those of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.\n\nWe require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow out third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "As long as necessary.",
+    "observations": "Not specified.",
+    "specificityCategory": "general",
+    "specificityTime": "general",
+    "sourceText": "We will only keep your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting or reporting requirements. To determine the appropriate retention period, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal and regulatory requirements."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "* To process and deliver your selected products and services, including managing payments, fees and charges and HMRC reporting. (in the case of Transaction Data, as required by regulation)",
+    "contract": "* To register you as a customer\n* To process and deliver your\nselected products and services,\nincluding managing payments,\nfees and charges and HMRC reporting.\n* To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice\n* To enable you to participate in a prize draw, competition or complete a survey\n",
+    "legalObligation": "* To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice\n* To administer and protect our business, App and website), including, security, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting",
+    "legitimateInterests": "* To make suggestions and recommendations to you about products or services that may be of interest to you, via electronic means or otherwise such as email, SMS, pop ups or push notifications, targeted social media and our in-App secure notification centre (to develop our products and services, and grow our business)\n* To de-identify your data (anonymise or aggregate) (to increase data security and protection, to grow our business)\n* To use data analytics to improve our App, website, products, services, marketing, customer relationships and experiences (to define types of customers for our products and services, to keep our website and App updated and relevant, to develop our business and to inform our marketing strategy)\n* To deliver relevant App and website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you (to study how customers use our products and services, to develop them, to grow our business, and to inform our marketing strategy)\n* To manage our relationship with you, including notifying you about changes to terms & conditions and this privacy notice (to keep our records up dated and to study how customers use our products and services)\n* To process and deliver your selected products and services, including managing payments, fees and charges and HMRC reporting. (to recover debts due to us)\n* To administer and protect our business, App and website), including, security, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting (for running our business, provision of administration and IT services, network security, to prevent fraud, and in the context of any business reorganisation).",
+    "observations": "Some duplicated purposes across lawful bases."
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and are subject to a duty of confidentiality.\n\nWe have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where legally required to do so.\n\nWhere we have given you, or where you have chosen, a password or personal identification number (PIN) which enables you to access certain parts of our website or App, you are responsible for keeping this password or PIN confidential. We ask you not to share this password or PIN with anyone.",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {
+    "present": "present",
+    "sourceText": "Some of our external third parties are based outside the European Economic Areas (EEA) so their processing of your personal data will involve a transfer of data outside the EEA. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by:\n\n(a) only transferring your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission;\n\n(b) using specific contracts approved by the European Commission which give personal data the same protection is has in Europe (known as ‘model contracts’); or\n\n(c) where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US."
+  },
+  "privacyShield": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "unknown"
+  },
+  "complaintInformation": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
