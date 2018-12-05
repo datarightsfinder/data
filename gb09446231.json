@@ -63,7 +63,7 @@
   },
   "automatedDecisionMaking": {
     "usesAutomatedDecisionMaking": "present",
-    "observations": "They use automated decision make lending decision like whether to offer an overdraft. You can opt out or ask for a manual review by email and in the app. They don't say which email address to opt out to.",
+    "observations": "They use automated decisions to make lending decisions like whether to offer an overdraft. You can opt out or ask for a manual review by email and in the app. They don't say which email address to opt out to.",
     "specificity": "specific",
     "sourceText": "Make responsible lending decisions, like offering you an overdraft. We make our decisions automatically using technology. We’ll tell you in the app once we’ve made this decision. You can opt out or ask for a manual review by email and via the app."
   },
