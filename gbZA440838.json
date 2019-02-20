@@ -1,0 +1,117 @@
+{
+  "organisationInformation": {
+    "name": "StarRez Ltd",
+    "number": "ZA440838",
+    "registrationCountry": "gb",
+    "description": "StarRez"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.starrez.com/privacy-policy/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "name": "Rafe Hart",
+    "role": "Development Manager",
+    "contactInfo": {
+      "postalAddress": "660 Spencer St",
+      "emailAddress": "dpo@starrez.com",
+      "telephoneNumber": "+61 3 9916 8200"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "url": "https://www.starrez.com/privacy-policy/",
+        "emailAddress": "privacy@starrez.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "date_of_birth",
+      "email_address",
+      "gender",
+      "location",
+      "names",
+      "nationality",
+      "personal_preferences",
+      "postal_address",
+      "telephone_number"
+    ],
+    "observations": "StarRez collects standard customer information, and it also provides software to educational institutions that stores data associated with providing accommodation. The system can be configured with custom fields, so an individual institution may be collecting more than is indicated above.",
+    "sourceText": "The information may include internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type, operating system and other usage information about the use of our services, including a history of the functions you access."
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [],
+    "specificity": "general",
+    "observations": "Data is shared for infrastructure purposes, and basic analytics to determine what devices access StarRez's products."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Data is kept for the contractual period with the individual customer. Logs are kept for 12 months. Data that is no longer required is securely erased.",
+    "specificityCategory": "general",
+    "specificityTime": "general"
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "Inclusion on marketing email lists and access to the support forum is based on consent.",
+    "contract": "StarRez uses customer data on the basis of contractual necessity. Organisations who use StarRez' software must evaluate their own basis for collecting data from their customers.",
+    "legalObligation": "Tax reporting & HR laws.",
+    "vitalInterests": "Nil",
+    "publicTask": "Nil",
+    "legitimateInterests": "Nil"
+  },
+  "securityStandards": {
+    "present": "present",
+    "observations": "StarRez produces a security whitepaper which details data security. It is restricted to established or prospective customers.",
+    "specificity": "specific"
+  },
+  "dataProcessingAddendum": {
+    "present": "present",
+    "type": "form"
+  },
+  "privacyShield": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "present",
+    "observations": "StarRez' software contains automated tools to match roommates at universities, and can do so based on personal profiles. This tool retains records of its decision making process for future reference. It is up to the institution using these tools to provide information regarding these tools to prospective residents that it will be applied to.",
+    "specificity": "general"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "specificity": "general"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
