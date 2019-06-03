@@ -1,0 +1,116 @@
+{
+  "organisationInformation": {
+    "name": "HF Trust Limited",
+    "number": "734984",
+    "registrationCountry": "gb",
+    "description": "Social care charity for people with learning disabilities"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.hft.org.uk/privacy-cookies/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "name": "Paul Twynam",
+    "role": "Data Protection Manager",
+    "contactInfo": {
+      "postalAddress": "5/6 Brook Office Park, Folly Brook Road, Emersons Green, Bristol. BS16 7FL",
+      "emailAddress": "dataprotection@hft.org.uk",
+      "telephoneNumber": "0117 906 1700"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "dataprotection@hft.org.uk",
+        "telephoneNumber": "0117 9061700"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "bank_account_details",
+      "bank_transactions",
+      "communications",
+      "contact_list",
+      "criminal_records",
+      "date_of_birth",
+      "education",
+      "email_address",
+      "employment",
+      "family",
+      "gender",
+      "health",
+      "identity_documents",
+      "location",
+      "names",
+      "nationality",
+      "postal_address",
+      "social_security_number",
+      "telephone_number"
+    ],
+    "observations": "The details collected depend on the nature of the transaction - job application, enquiry about giving, request for information or help, etc.",
+    "sourceText": "�\tContact us page/general enquiries\n�\tCompliments & Complaints\n�\tHft Job applications\n�\tFCSS and Family Newsletters\n�\tDonate page\n�\tGift Aid page\n�\tMembership enquiry form\n�\tGifts in Wills enquiry form\n�\tTribute Funds \n�\tVirgin London Marathon � Apply for a place with Hft form \n"
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [],
+    "specificity": "general",
+    "observations": "No, but these are listed in a secondary privacy notice that you get once the nature of your enquiry is known, e.g. for job applications, for fundraising enquiries, etc."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "The default is either the length required by law, e.g. for income tax, or 6 years for employees, 8 years for people supported by the charity. This is detailed in the appropriate secondary privacy notice. ",
+    "specificityCategory": "specific",
+    "specificityTime": "specific",
+    "sourceText": "General enquiries via telephone, mail, or by email - your personal information will be held for a period of two years from when we first received your enquiry. \nCompliments & Complaints - Your personal information will be held in a secure environment for a period of seven years, unless either you are a person we support, or your complaint is about a person we support, in which case the information will be held for the duration of your/the person�s support by Hft, plus eight years (Health & Social Care Act 2008 (Regulated Activities) Regulations 2014 (Part 3).\nOur Family Carer Support Service Newsletter - if you choose to join our Family Carer Support Service�s mailing list, the FCSS will give you the option to unsubscribe in every correspondence sent to you. Alternatively, you can call 0117 906 1751 or email familycarersupport@hft.org.uk to unsubscribe at any time. Your data will be deleted within one calendar month from when the request was received by the FCSS.\nFamily news & updates - we will keep your information as long as your relative continues to be supported by Hft, or until you ask for data to be removed. However, we will contact you at least every six years, as a reminder to update your information.\nFundraising - we review any data held after 6 months and if there is no interest we mark them as inactive on our database and ensure that we do not contact you again. We only keep basic information to ensure that this happens, i.e. your name and address. \nDonations - if you choose to make a donation to Hft via our website, the payment will be processed immediately either by Rapidata (if you choose to make a regular donation), or by Worldpay (if you choose to make a one-off donation). We will keep scanned copies of your direct debit instructions for as long as we are processing your donations plus six years, to fulfil our legal obligations.\nGift Aid applications - personal data provided when registering for Gift Aid will be held by Hft for however long the donor continues to donate to Hft, plus seven years. \nMembership enquiries - if you complete the process of becoming a member of Hft, your personal data will be held by Hft for the duration of your membership, plus one year. If, after submitting your enquiry you choose not to become a member, your data will be held for three months before being securely destroyed.\n"
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "For mall website enquiries - this may change once, for example, someone has obtained employment and the lawful basis has become \"contractual\"."
+  },
+  "securityStandards": {
+    "present": "not_present",
+    "specificity": "general"
+  },
+  "dataProcessingAddendum": {},
+  "privacyShield": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present"
+  },
+  "complaintInformation": {
+    "present": "present"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
