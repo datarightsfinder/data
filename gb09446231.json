@@ -11,8 +11,13 @@
     "url": "https://monzo.com/privacy/"
   },
   "dataProtectionOfficer": {
-    "present": "not_present",
-    "contactInfo": {}
+    "present": "present",
+    "name": "Dean Nash ",
+    "role": "Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "Monzo Bank Limited, 38 Finsbury Square, London, EC2A 1PX ",
+      "emailAddress": "dpo@monzo.com"
+    }
   },
   "dataProtectionRegister": {
     "present": "present",
