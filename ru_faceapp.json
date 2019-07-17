@@ -18,8 +18,8 @@
     }
   },
   "rights": {
-    "isMissing": true,
-    general": {
+    "isMissing": false,
+    "general": {
       "contactInfo": {
         "emailAddress": "support@faceapp.com"
       }
@@ -60,7 +60,7 @@
   "unusualProcessingPurposes": {
     "isMissing": false,
     "present": "present",
-      "observations": "There is no information about what happens with the images that users send to the service to be made older and so on.\n\nThey may \"provide personalized content and information to you and others, which could include online ads or other forms of marketing\""
+    "observations": "There is no information about what happens with the images that users send to the service to be made older and so on.\n\nThey may \"provide personalized content and information to you and others, which could include online ads or other forms of marketing\""
   },
   "thirdParties": {
     "isMissing": false,
@@ -78,7 +78,7 @@
     "isMissing": true
   },
   "securityStandards": {
-    "present": "not_present",
+    "present": "present",
     "specificity": "general"
   },
   "dataProcessingAddendum": {
