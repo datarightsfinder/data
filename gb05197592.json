@@ -11,8 +11,13 @@
     "url": "https://www.zopa.com/privacy-policy"
   },
   "dataProtectionOfficer": {
-    "present": "not_present",
-    "contactInfo": {}
+    "present": "present",
+    "name": "The Data Protection Officer",
+    "contactInfo": {
+      "postalAddress": "47-49, Cottons Centre, Tooley St, London, SE1 2QG",
+      "emailAddress": "privacy@zopa.com",
+      "telephoneNumber": "020 7580 6060"
+    }
   },
   "rights": {
     "isMissing": false,
