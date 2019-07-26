@@ -1,0 +1,111 @@
+{
+  "organisationInformation": {
+    "name": "Fair Custodian",
+    "number": "11609558",
+    "registrationCountry": "gb",
+    "description": "Privacy"
+  },
+  "organisationUrls": [],
+  "privacyNoticeUrl": {
+    "url": "https://www.faircustodian.com/privacy/"
+  },
+  "dataProtectionOfficer": {
+    "present": "present",
+    "name": "Saul Gowens",
+    "role": "COO",
+    "contactInfo": {
+      "postalAddress": "Office 0.09, Proto, Abbott's Hill, Gateshead, NE8 3DF",
+      "emailAddress": "privacy@faircustodian.com"
+    }
+  },
+  "rights": {
+    "isMissing": false,
+    "general": {
+      "contactInfo": {
+        "emailAddress": "privacy@faircustodian.com"
+      }
+    },
+    "access": {
+      "contactInfo": {}
+    },
+    "rectification": {
+      "contactInfo": {}
+    },
+    "erasure": {
+      "contactInfo": {}
+    },
+    "restrictProcessing": {
+      "contactInfo": {}
+    },
+    "dataPortability": {
+      "contactInfo": {}
+    },
+    "object": {
+      "contactInfo": {}
+    },
+    "automatedDecisionMaking": {
+      "contactInfo": {}
+    }
+  },
+  "dataCategoriesCollected": {
+    "isMissing": false,
+    "list": [
+      "email_address",
+      "names",
+      "online_activity",
+      "postal_address",
+      "telephone_number"
+    ],
+    "sourceText": "Email address,First name and last name,Phone number,Address,State,Province,Postal code,City,Cookies and Usage Data"
+  },
+  "unusualProcessingPurposes": {
+    "isMissing": false,
+    "present": "not_present"
+  },
+  "thirdParties": {
+    "isMissing": false,
+    "list": [
+      "Google Analytics",
+      "HaveIbeenpwnd",
+      "Websand",
+      "AWS",
+      "Sendgrid",
+      "Authy",
+      "Stripe",
+      "GMail"
+    ],
+    "specificity": "specific",
+    "sourceText": "We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nGoogle Analytics\n\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.\n\nYou can opt-out of having made your activity on the Service available to Google Analytics by installing the Privacy Badger. It is a free browser extension provided by the Electronic Frontier Foundation (EFF) which learns to block invisible trackers on websites. It is available on for Chrome, Firefox and Opera browser. Alternatively there is Google's own opt-out extension.\n\nFor more information on the privacy practices of Google, please visit the Google Privacy & Terms web page.\nHaveIbeenpwnd\n\nWhen checking for breach updates, we share your email address to haveIbeenpwnd.com. This allows us to inform you if your email address has been included in a breach. The email is processed by HaveIbeenpwnd.com but the email address is not stored to retained.\n\nFor more information on the privacy practices about HaveIBeenPwned, please see their privacy policy.\nWebsand\n\nWebsand is an email marketing platform that we use to send email marketing to you. Websand acts as our data processor, and is used to help us understand how people respond to the email marketing messages we send. You can opt-out of the email marketing messages at anytime by clicking on the unsubscribe link an email you’ve received or by contacting us at here.\n\nFor more information on Websand and to review the Websand privacy policy in full, please visit Websand's privacy policy.\nAWS\n\nWe hold our data with Amazon Web Services (AWS) who are contracted by us for the provision of technical services. We remain responsible at all times for the security of your information.\n\nIf you want to know more about how we interact with AWS you can view their Privacy Notice, amongst their other policies here.\nSendgrid\n\nWe use Sendgrid to process the email we receive, this helps us to manage the processing of inbound email messages as well as send you service messages.\n\nYou can view more information about SendGrid and their policies here.\nAuthy\n\nIf you decide to turn on two-factor authentication for your account, this process is handled by Authy. The mobile phone number you provide is transferred and stored by Authy, not by us.\n\nYou can view more information about Authy and their policies here.\nStripe\n\nWe use Stripe to handle payments. Any card details you provide as part of a purchase are held and processed by Stripe. You can view more information about Stripe and their policies here.\nGMail\n\nNotwithstanding anything else in this Privacy Policy, if you provide the App access to the following types of your Google data, the App's use of that data will be subject to these additional restrictions:\n\n    The App will only use access to read, write, modify, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows users to compose, send, read, and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets.\n    The App will not use this Gmail data for serving advertisements.\n    The App will not allow humans to read this data unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the App's internal operations and even then only when the data have been aggregated and anonymized.\n\nYou can read more about GMail's privacy policy here."
+  },
+  "retentionRules": {
+    "isMissing": false,
+    "summary": "Accounts are deleted after 12 months of inactivity. Data is deleted within 30 days upon request.",
+    "specificityCategory": "general",
+    "specificityTime": "specific",
+    "sourceText": "We hold this data for as long as you have an account. Upon requesting deletion, your data will be deleted within 30 days. If you are inactive for 12 months, we will delete all data associated with you after notifying you of our intention."
+  },
+  "lawfulBases": {
+    "isMissing": false,
+    "consent": "Usage data is collected based upon a consent tool, all other data is collected via explicit permission when signing up."
+  },
+  "securityStandards": {
+    "present": "not_present"
+  },
+  "dataProcessingAddendum": {
+    "present": "not_present"
+  },
+  "privacyShield": {},
+  "automatedDecisionMaking": {
+    "usesAutomatedDecisionMaking": "not_present"
+  },
+  "complaintInformation": {
+    "present": "present",
+    "observations": "Complaints can be made to their privacy email address.",
+    "sourceText": "If you have any questions or complaints about this Privacy Policy, please contact us by email privacy@faircustodian.com"
+  },
+  "presentation": {
+    "plainLanguage": "pass",
+    "easyToFind": "pass",
+    "easyToFindInside": "pass"
+  }
+}
